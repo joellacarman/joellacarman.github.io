@@ -1,0 +1,133 @@
+*, *:after, *:before {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+a {
+  color: #000;
+}
+
+body {
+  font: 200 14px/1.3 'Lora', 'Book Antiqua', Palatino, 'Palatino Linotype', 'Palatino LT STD', Georgia, serif;
+}
+
+[class*='col-'] {
+  float: left;
+}
+
+[class*='col-'] {
+  padding-right: 2em;
+}
+
+.col-2-3 {
+  width: 66.66%;
+}
+.col-1-3 {
+  width: 33.33%;
+}
+
+.grid {
+  padding-top: 2em;
+}
+
+h1 {
+  font-size: 3.5em;
+  font-family: 'Oswald', 'Franklin Gothic Medium', 'Franklin Gothic', 'ITC Franklin Gothic', Arial, sans-serif;
+  margin: 1em 0 0 0;
+}
+
+header {
+  border-bottom: 1px solid #000;
+}
+
+.view img {
+  padding-right: 3%;
+}
+
+.view li {
+  display: inline;
+  font-size: 1.5em;
+  list-style-type: none;
+}
+
+.nav {
+  list-style: none;
+  margin: 0;
+  overflow: hidden;
+  padding: 0;
+}
+
+.nav a {
+  color: #000;
+  display: block;
+  float: left;
+  margin: 20px 20px 0 0;
+  text-decoration: none;
+}
+
+.nav a:hover {
+  border-bottom: 1px solid #FF3706;
+  padding-bottom: 2%;
+}
+
+.nav a.active {
+  border-bottom: 1px solid #FF3706;
+  padding-bottom: 2%;
+}
+
+p {
+  margin: 1em 0 0.5em 0;
+}
+
+.page {
+  margin: 0 auto;
+  width: 720px;
+}
+
+.content {
+  width: 100%;
+}
+
+.project {
+  height: 210px;
+  padding-bottom: 3em;
+  width: 100%;
+}
+
+.project p {
+  margin: 0 0;
+}
+
+.title {
+  font-size: 2em;
+  margin: 0;
+}
+
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 480px) {
+
+[class*='col-'] {
+  clear: both;
+  padding: 0 0 10% 0;
+  width: 90%;
+}
+
+.content {
+  padding: 5% 5%;
+}
+
+h1 {
+  margin: 0 0;
+}
+
+.nav a {
+  padding-right: 1%;
+}
+
+.page {
+  width: 320px;
+}
+
+
