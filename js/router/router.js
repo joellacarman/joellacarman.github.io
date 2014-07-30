@@ -15,7 +15,6 @@ var PortfolioRouter = Backbone.Router.extend({
   }
 });
 
-
 var NavView = Backbone.View.extend({
 
   el: '#nav',
