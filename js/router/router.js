@@ -1,7 +1,6 @@
 var PortfolioRouter = Backbone.Router.extend({
 
   routes: {
-    'home': 'update',
     'about': 'update',
     'work': 'update',
     'contact': 'update',
@@ -9,7 +8,7 @@ var PortfolioRouter = Backbone.Router.extend({
   },
 
   update: function() {
-    var id = Backbone.history.fragment || 'home';
+    var id = Backbone.history.fragment || 'work';
     $('.view').hide().filter('#'+id).show();
     this.navigate(id);
   }
