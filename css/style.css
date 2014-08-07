@@ -122,16 +122,20 @@ p {
   width: 100%;
 }
 
+.view li {
+  display: inline;
+  font-size: 1.5em;
+  list-style-type: none;
+}
+
 .project li {
   display: list-item;
   font-size: 1em;
-  list-style-type: circle;
+  list-style-type: disc;
 }
 
 .project p {
-
   margin: 0 0;
-
 }
 
 .title {
@@ -143,11 +147,7 @@ p {
   padding-right: 3%;
 }
 
-.view li {
-  display: inline;
-  font-size: 1.5em;
-  list-style-type: none;
-}
+
 
 @media only screen
 and (min-device-width : 320px)
