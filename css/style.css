@@ -36,6 +36,14 @@ body {
   padding-left: 10%;
 }
 
+.content {
+  width: 100%;
+}
+
+.endpage {
+  height: 150px;
+}
+
 .grid {
   padding-top: 2em;
 }
@@ -67,22 +75,6 @@ header {
 header img {
   float: right;
   padding-right: 10%;
-}
-
-.view img {
-  padding-right: 3%;
-}
-
-.view li {
-  display: inline;
-  font-size: 1.5em;
-  list-style-type: none;
-}
-
-.project li {
-  display: list-item;
-  font-size: 1em;
-  list-style-type: circle;
 }
 
 .nav {
@@ -124,18 +116,16 @@ p {
   float: right;
 }
 
-.content {
-  width: 100%;
-}
-
 .project {
   height: 475px;
   padding-bottom: 3em;
   width: 100%;
 }
 
-.endpage {
-  height: 200px;
+.project li {
+  display: list-item;
+  font-size: 1em;
+  list-style-type: circle;
 }
 
 .project p {
@@ -147,6 +137,16 @@ p {
 .title {
   font-size: 2em;
   margin: 0;
+}
+
+.view img {
+  padding-right: 3%;
+}
+
+.view li {
+  display: inline;
+  font-size: 1.5em;
+  list-style-type: none;
 }
 
 @media only screen
