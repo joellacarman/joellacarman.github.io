@@ -32,19 +32,23 @@
                     <ul>
                         <li>
                             <input type="button"
-                                   value="Age" />
+                                   value="Age"
+                                   onclick="chartSwap('img/age.png')" />
                         </li>
                         <li>
                             <input type="button"
-                                   value="Disability"/>
+                                   value="Disability"
+                                   onclick="chartSwap('img/disability.png')" />
                         </li>
                         <li>
                             <input type="button"
-                                   value="Race"/>
+                                   value="Race"
+                                   onclick="chartSwap('img/race.png')"/>
                         </li>
                         <li>
                             <input type="button"
-                                   value="Work Status"/>
+                                   value="Work Status"
+                                   onclick="chartSwap('img/work.png')" />
                         </li>
 
                     </ul>
@@ -53,7 +57,8 @@
 
             </div>
             <div class="col-1-3">
-                <img src="img/donut.png" alt="Poverty by race.">
+                <img id="profileChart" src="img/age.png" alt="">
+                <p class="caption">Among those who are at or below 150% of poverty.</p>
             </div>
             <div class="clearfix"></div>
             <div class="barchart">

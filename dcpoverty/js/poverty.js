@@ -83,6 +83,10 @@ $('#scrollDown').on("click", function(){
   $(window).scrollTop(position + 700);
 });
 
+function chartSwap(file){
+  $('#profileChart').attr('src', file);
+}
+
 
 
 
