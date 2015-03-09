@@ -74,8 +74,8 @@ header {
 }
 
 header img {
-  float: right;
-  padding-right: 10%;
+/*  float: right;
+*/  padding-right: 10%;
 }
 
 header p {
@@ -119,11 +119,17 @@ p {
 }
 
 #tower {
-  float: right;
-  padding: 50px 100px 0 0;
+/*
+  padding: 50px 100px 0 0;*/
+  margin-top: 100px;
+  margin-left: 35%;
   width: 350px;
 }
 
+.announcement {
+  padding-right: 30px;
+  text-align: center;
+}
 
 @media only screen
 and (min-device-width : 320px)
