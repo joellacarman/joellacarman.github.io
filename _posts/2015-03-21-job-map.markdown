@@ -5,7 +5,7 @@ date:   2015-03-21 15:54:02
 image: /assets/jobmap.png
 ---
 
-![My screenshot]({{ site.url }}/assets/jobmap.png)
+[<img src="/assets/jobmap.png">](/projects/census/index.html)
 
 I've done a few basic heatmaps at work and wanted to take what I had learned and put it toward some "interesting" data. I thought it would be fun to do something with the 2012 Economic Census, so I went after some low hanging mapping fruit (gross) and put together this piece that displays either the "job births" or "job destructions" counted in each of our nation's 280+ lovely MSAs.
 
