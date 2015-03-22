@@ -1,0 +1,12 @@
+# Site settings
+title: JoElla Straley
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  When events leave uniform traces, we call those shadows "data". Here's a collection of graphics from the shadows.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+twitter_username: jestraley
+github_username:  joellastraley
+
+# Build settings
+markdown: kramdown
