@@ -6,15 +6,15 @@
 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 22 Mar 2015 17:07:57 -0400</pubDate>
-    <lastBuildDate>Sun, 22 Mar 2015 17:07:57 -0400</lastBuildDate>
+    <pubDate>Sun, 22 Mar 2015 17:15:00 -0400</pubDate>
+    <lastBuildDate>Sun, 22 Mar 2015 17:15:00 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>Mapping Jobs Data</title>
-        <description>&lt;p&gt;&lt;a href=&quot;/projects/census/index.html&quot;&gt;&lt;img src=&quot;/assets/jobmap.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/jobmap.png&quot; alt=&quot;Screenshot of map&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;I’ve done a few basic heatmaps at work and wanted to take what I had learned and put it toward some “interesting” data. I thought it would be fun to do something with the 2012 Economic Census, so I went after some low hanging mapping fruit (gross) and put together this piece that displays either the “job births” or “job destructions” counted in each of our nation’s 280+ lovely MSAs.&lt;/p&gt;
+&lt;p&gt;I’ve done a few basic heatmaps at work and wanted to take what I had learned and put it toward some “interesting” data. I thought it would be fun to do something with the 2012 Economic Census, so I went after some low hanging mapping fruit (gross) and put together &lt;a href=&quot;/projects/census/index.html&quot;&gt;this piece&lt;/a&gt; that displays either the “job births” or “job destructions” counted in each of our nation’s 280+ lovely MSAs.&lt;/p&gt;
 
 &lt;p&gt;Most of my time so far has been spent on organizing the program to work efficiently. Since there are 8 survey years available (1977 to 2012), 280+ MSAs and something like 5 subcategories for each (depending on business size/age) preserving this dataset inside the program as something you can work with takes quite a bit of folding and unfolding. To understand d3’s nesting functions better I spent some quality time with Mr. Nester. (Pro-tip: you can actually paste your data into this site and work with nesting statements there. It’s a lot like using the console, but somehow easier.)&lt;/p&gt;
 

@@ -5,9 +5,9 @@ date:   2015-03-21 15:54:02
 image: /assets/jobmap.png
 ---
 
-[<img src="/assets/jobmap.png">](/projects/census/index.html)
+![Screenshot of map]({{ site.url }}/assets/jobmap.png)
 
-I've done a few basic heatmaps at work and wanted to take what I had learned and put it toward some "interesting" data. I thought it would be fun to do something with the 2012 Economic Census, so I went after some low hanging mapping fruit (gross) and put together this piece that displays either the "job births" or "job destructions" counted in each of our nation's 280+ lovely MSAs.
+I've done a few basic heatmaps at work and wanted to take what I had learned and put it toward some "interesting" data. I thought it would be fun to do something with the 2012 Economic Census, so I went after some low hanging mapping fruit (gross) and put together [this piece](/projects/census/index.html) that displays either the "job births" or "job destructions" counted in each of our nation's 280+ lovely MSAs.
 
 Most of my time so far has been spent on organizing the program to work efficiently. Since there are 8 survey years available (1977 to 2012), 280+ MSAs and something like 5 subcategories for each (depending on business size/age) preserving this dataset inside the program as something you can work with takes quite a bit of folding and unfolding. To understand d3's nesting functions better I spent some quality time with Mr. Nester. (Pro-tip: you can actually paste your data into this site and work with nesting statements there. It's a lot like using the console, but somehow easier.)
 
