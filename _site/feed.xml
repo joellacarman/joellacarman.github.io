@@ -6,9 +6,24 @@
 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 23 Mar 2015 21:00:46 -0400</pubDate>
-    <lastBuildDate>Mon, 23 Mar 2015 21:00:46 -0400</lastBuildDate>
+    <pubDate>Wed, 25 Mar 2015 22:11:04 -0400</pubDate>
+    <lastBuildDate>Wed, 25 Mar 2015 22:11:04 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Intermission</title>
+        <description>&lt;p&gt;&lt;a href=&quot;/assets/cantstop.png&quot;&gt;Can’t stop won’t stop&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;A wonderful man, Sean, my fiancee, got me a drawing tablet for my birthday last year. I’m ashamed to say it’s taken me a while to get into using it. But scooting yourself into that creative groove you need for drawing can be a lot of work. Especially when you’re trying to figure out new tools. Excuses! But really, I’m gonna use this thing more. I’m gonna improve the drawings on this site – and maybe animate them.&lt;/p&gt;
+
+&lt;p&gt;Can’t stop, won’t stop!&lt;/p&gt;
+</description>
+        <pubDate>Tue, 24 Mar 2015 18:10:43 -0400</pubDate>
+        <link>/2015/03/24/add-a-drawing.html</link>
+        <guid isPermaLink="true">/2015/03/24/add-a-drawing.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Mapping Jobs Data</title>
