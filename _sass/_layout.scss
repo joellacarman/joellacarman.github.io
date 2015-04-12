@@ -22,6 +22,12 @@
     }
 }
 
+#nav-links {
+    position: fixed;
+    bottom: 10px;
+    right: 165px;
+}
+
 .site-nav {
     float: right;
     line-height: 56px;
@@ -72,6 +78,8 @@
             clear: both;
             display: none;
         }
+
+
 
         &:hover .trigger {
             display: block;

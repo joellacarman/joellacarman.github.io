@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About me!
 permalink: /about/
 ---
 
@@ -12,7 +12,5 @@ Not into thinking complete thoughts? Me either! Find me on [Twitter.](https://tw
 
 Current feed blend is:
 
- * 1/3 dogs
- * 1/3 news-of-the-weird/jokes
- * 1/3 dealer's choice, to include RTs from Alberto Cairo, art and, occasionally, news
+![1/3 jokes, 1/3 dogs, 1/3 dealer's choice](/assets/twit-chart.gif)
 
