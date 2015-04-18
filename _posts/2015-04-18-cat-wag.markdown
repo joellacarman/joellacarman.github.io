@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "A Lot Of Tail"
+date:   2015-04-18 10:21:00
+categories: update
+image: /assets/cat-wag.gif
+---
+
+GIFs are hilarious. It's great to watch just the funniest part of a [cat's neurotic drive](http://procatinator.com/images/tumblr_lkx04suye01qe1ucbo1_400.gif) to bust through cardboard realized over and over again. Maybe they're also sorta funny because that repetition is so unnatural. IDK. It would be great fun to really put my finger on exactly why a [bunny falling asleep at his work station](http://www.ohmagif.com/wp-content/uploads/2012/03/cute-rabbit-falling-asleep.gif
+) is so hilarious, but I think that could also turn into a life's work.
+
+In the meantime, have you noticed there are a lot of [subtle uses](http://www.jeanniejeannie.com/wp-content/uploads/2013/03/tumblr_mkc10ltCHw1qj6juso1_500.gif) of animation out there? I love how it only takes a little movement on screen to captivate me, and the stiller it is the more peaceful I feel. It's a bit like the old days when we just watched TV for fun.
+
+A lot of sites seem to be using background video this way ([AirBNB](https://www.airbnb.com/): "Ah, I will be so relaxed staying in that total stranger's home!"). Subtlety has arrived in GIF-land as well. Last night I came across a great [roundup](http://www.buzzfeed.com/kevintang/20-insanely-talented-gif-illustrators-you-should-follow?sub=3128308_2704994#.ba7wVOwAOQ) from BuzzFeed (!) of artists working with GIFs and decided, dangit, I want to try that, too. So this is where I got, just using layers in PhotoShop. If I do this again I think I will adhere to [Tabletop Whale's](http://tabletopwhale.com/2014/11/03/how-to-make-an-animated-infographic.html
+) tutorial. She seems like she knows what she's doing!
+
+
+![Wag the cat]({{ site.url }}/assets/cat-wag.gif)
