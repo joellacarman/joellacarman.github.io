@@ -6,7 +6,9 @@ permalink: /about/
 
 Hello!
 
-I'm a former news researcher and lover of all things esoteric and number-related. Nowadays I'm employed as an "information graphic designer/developer" and trying desperately to get better at both. See how I do by watching this blog.
+I'm a former news researcher and lover of all things esoteric and number-related. Nowadays I'm employed as an "information graphic designer/developer" and trying to get better at both.
+
+See how I do by watching this blog.
 
 Not into thinking complete thoughts? Me either! Find me on [Twitter.](https://twitter.com/jestraley)
 
