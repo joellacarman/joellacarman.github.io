@@ -10,7 +10,7 @@ image: /assets/liquidlab.png
 
 Liquid Lab saves your time, health and money. Or just the first two... maybe. Actually it does nothing. It's a fake company. I'm only crafting a layout for its website because I'm taking a course on graphic design, and this was the assignment.
 
-I think this is a decent stab at doing a simple layout, but it's not that interesting. The center alignment is very safe, very quiet. Too quiet.
+I think this is a decent stab at doing a simple layout, but it's not that interesting.
 
 Originally I wanted a simple white background, a well lit photo of delicious juice and some very large, bold sans serif text taking charge over the image. I thought that might feel like "you're busy, you're hip, you're healthy - you want this juice". However, I don't get to commission a photo, and am going with what I find in the Creative Commons search (thanks and credit to Flickr user Stiftelsen Elektronikkbransjen for the photo!).
 

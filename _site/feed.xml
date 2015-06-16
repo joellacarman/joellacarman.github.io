@@ -6,9 +6,40 @@
 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 21 Apr 2015 22:28:45 -0400</pubDate>
-    <lastBuildDate>Tue, 21 Apr 2015 22:28:45 -0400</lastBuildDate>
+    <pubDate>Mon, 15 Jun 2015 22:49:02 -0400</pubDate>
+    <lastBuildDate>Mon, 15 Jun 2015 22:49:02 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Birds Of Prey!</title>
+        <description>&lt;p&gt;&lt;a href=&quot;/projects/birdsofprey.pdf&quot;&gt;&lt;img src=&quot;/assets/birdsofprey.png&quot; alt=&quot;Birds of prey&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I was looking around for some design prompts online and found a decent collection at &lt;a href=&quot;http://briefbox.me&quot;&gt;Briefbox&lt;/a&gt;. The first prompt to catch my eye asked for an infographic on &lt;a href=&quot;http://briefbox.me/design-brief/birds-of-prey-infographic/&quot;&gt;“birds of prey”&lt;/a&gt;. The Briefbox people suggest looking at Wikipedia, which I did, only to be overwhelmed and bored by an academic account of phylogenic studies.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The phylogeny of Accipitriformes is complex and difficult to unravel. Widespread paraphylies were observed in many phylogenetic studies. Unfortunately more recent and detailed studies are shown similar results. However, according to the findings of a 2014 study, the sister relationship between larger clades of Accipitriformes was well supported (e.g. relationship of Harpagus kites to buzzards and sea eagles and these latter two with Accipiter hawks are sister taxa of the clade containing Aquilinae and Harpiinae).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;While science is totally of amazing, sometimes the way it’s presented on Wikipedia just makes one despair* of finding enough interesting, linear nuggets to make a little infographic story. So what did I do? Of course I just made some shit up.&lt;/p&gt;
+
+&lt;p&gt;I could have also used &lt;a href=&quot;http://www.catipsum.com/&quot;&gt;Cat Ipsum&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Meowing non stop for food plan steps for world domination but lick arm hair. Find something else more interesting intently stare at the same spot lick butt, for hate dog poop on grasses, chase laser.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;*Yeah, but… not for long! I learned about the &lt;a href=&quot;https://en.wikipedia.org/wiki/Secretarybird&quot;&gt;secretarybird&lt;/a&gt; from this article. Have you seen this thing??&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 11 Jun 2015 18:00:00 -0400</pubDate>
+        <link>/update/2015/06/11/birds-of-prey.html</link>
+        <guid isPermaLink="true">/update/2015/06/11/birds-of-prey.html</guid>
+        
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>Layout Time</title>
@@ -16,7 +47,7 @@
 
 &lt;p&gt;Liquid Lab saves your time, health and money. Or just the first two… maybe. Actually it does nothing. It’s a fake company. I’m only crafting a layout for its website because I’m taking a course on graphic design, and this was the assignment.&lt;/p&gt;
 
-&lt;p&gt;I think this is a decent stab at doing a simple layout, but it’s not that interesting. The center alignment is very safe, very quiet. Too quiet.&lt;/p&gt;
+&lt;p&gt;I think this is a decent stab at doing a simple layout, but it’s not that interesting.&lt;/p&gt;
 
 &lt;p&gt;Originally I wanted a simple white background, a well lit photo of delicious juice and some very large, bold sans serif text taking charge over the image. I thought that might feel like “you’re busy, you’re hip, you’re healthy - you want this juice”. However, I don’t get to commission a photo, and am going with what I find in the Creative Commons search (thanks and credit to Flickr user Stiftelsen Elektronikkbransjen for the photo!).&lt;/p&gt;
 
