@@ -10,23 +10,43 @@
 }
 
 .site-title {
-    font-size: 30px;
+    color: $text-color;
+    font-family: "Roboto";
+    text-transform: uppercase;
+    font-size: 18px;
     line-height: 56px;
-    letter-spacing: 0px;
-    margin-bottom: 0;
+    letter-spacing: 5px;
+    margin-bottom: 10px;
     display: block;
 
     &,
     &:visited {
-        color: $grey-color-dark;
+        color: $text-color;
+    }
+    &,
+    &:hover {
+        color: $my-gold;
     }
 }
 
 #nav-links {
-    position: fixed;
-    bottom: 10px;
-    right: 165px;
+    font-size: 12px;
+    letter-spacing: 3px;
+    padding-bottom: $spacing-unit;
+    padding-top: 10px;
+    text-align: center;
+    text-transform: uppercase;
 }
+
+#nav-links > a:nth-child(2)  {
+    border-left: 1px solid #000;
+    padding-left: 10px;
+}
+
+#nav-links > a:nth-child(1) {
+    padding-right: 2px;
+}
+
 
 .site-nav {
     float: right;
@@ -44,6 +64,7 @@
         &:not(:first-child) {
             margin-left: 20px;
         }
+
     }
 
     @include media-query($on-palm) {
@@ -169,9 +190,10 @@
  * Page content
  */
 .page-content {
-    padding: $spacing-unit 0;
+    border-right: 1px solid $grey-color-light;
+    border-left: 1px solid $grey-color-light;
     margin: 0 auto;
-    max-width: 640px;
+    max-width: 600px;
 }
 
 .page-heading {
@@ -194,7 +216,9 @@
 
 .post-link {
     display: block;
-    font-size: 24px;
+    font-size: 20px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
 }
 
 
@@ -207,9 +231,11 @@
 }
 
 .post-title {
-    font-size: 42px;
-    letter-spacing: -1px;
+    font-size: 24px;
+    letter-spacing: 2px;
     line-height: 1;
+    text-transform: uppercase;
+    padding-top: $spacing-unit;
 
     @include media-query($on-laptop) {
         font-size: 36px;
@@ -241,5 +267,21 @@
         @include media-query($on-laptop) {
             font-size: 18px;
         }
+    }
+}
+
+/**
+ * Gallery
+ */
+
+.gallery {
+
+    img {
+        max-width: 30%;
+        padding-left: 2%;
+    }
+
+    .space {
+        padding-top: $spacing-unit;
     }
 }

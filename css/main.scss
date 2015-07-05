@@ -6,7 +6,7 @@
 
 
 // Our variables
-$base-font-family: "Abel";
+$base-font-family: "Roboto";
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
@@ -15,7 +15,10 @@ $spacing-unit:     30px;
 
 $text-color:       #111;
 $background-color: #fff;
-$brand-color:      #2a7ae2;
+$my-blue:          #1D5878;
+$my-red: 		   #CE3119;
+$my-green:         #669357;
+$my-gold:		   #DF7D1D;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);

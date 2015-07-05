@@ -1,16 +1,14 @@
 ---
 layout: page
-title: About me!
+title: About me
 permalink: /about/
 ---
 
 Hello!
 
-I'm a former news researcher and lover of all things esoteric and number-related. Nowadays I'm employed as an "information graphic designer/developer" and trying to get better at both.
+I'm a former news researcher and lover of all things esoteric and number-related. Nowadays I'm employed making charts and graphs for an economics-themed think tank. This blog is for fun stuff I figure out along the way.
 
-See how I do by watching this blog.
-
-Not into thinking complete thoughts? Me either! Find me on [Twitter.](https://twitter.com/jestraley)
+Not into complete thoughts? Me either! Find me on [Twitter.](https://twitter.com/jestraley)
 
 Current feed blend is:
 
