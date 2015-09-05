@@ -165,6 +165,9 @@ pre {
   .site-title, .site-title:hover {
     color: #DF7D1D; }
 
+#header-img {
+  width: 300px; }
+
 #nav-links {
   font-size: 12px;
   letter-spacing: 3px;
@@ -335,6 +338,11 @@ pre {
     @media screen and (max-width: 800px) {
       .post-content h4 {
         font-size: 18px; } }
+  .post-content a {
+    color: #126caf;
+    font-weight: bold; }
+  .post-content a:hover {
+    color: #DF7D1D; }
 
 /**
  * Gallery

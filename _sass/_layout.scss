@@ -29,6 +29,10 @@
     }
 }
 
+#header-img {
+    width: 300px;
+}
+
 #nav-links {
     font-size: 12px;
     letter-spacing: 3px;
@@ -267,6 +271,16 @@
         @include media-query($on-laptop) {
             font-size: 18px;
         }
+    }
+
+    a {
+        color: #126caf;
+        font-weight: bold;
+
+    }
+
+    a:hover {
+        color: $my-gold;
     }
 }
 
