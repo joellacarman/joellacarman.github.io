@@ -9,6 +9,7 @@ permalink: /doodlin/
 ![Office gossip](/assets/office.jpg)
 ![Otter in front](/assets/otter.jpg)
 ![Self portrait](/assets/me.jpg)
+![Poodle party](/assets/poodledrawing.png)
 
 
 

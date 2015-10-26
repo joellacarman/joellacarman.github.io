@@ -6,12 +6,12 @@
 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 05 Sep 2015 15:58:47 -0400</pubDate>
-    <lastBuildDate>Sat, 05 Sep 2015 15:58:47 -0400</lastBuildDate>
+    <pubDate>Mon, 26 Oct 2015 11:36:44 -0400</pubDate>
+    <lastBuildDate>Mon, 26 Oct 2015 11:36:44 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>Fun With Correlation</title>
+        <title>Fun With Correlation - Interactive Scatterplot</title>
         <description>&lt;p&gt;&lt;a href=&quot;http://www.socialprogressimperative.org/blog/posts/do-smoking-habits-change-with-social-progress&quot;&gt;&lt;img src=&quot;/assets/spi-smoking.png&quot; alt=&quot;Does smoking cause social progress?&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;A few months ago I started working at a non-profit that promotes an index which is meant to go along GDP as an overall measure of nations’ performce. Needless to say, this organization deals with a great deal of data, and part of my job is to think of presentations of it. I produced an interactive scatterplot of smoking rates (for men and women separately) vs. social progress as some blog fodder during a slow August.&lt;/p&gt;
