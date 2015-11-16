@@ -13,7 +13,7 @@ I was looking around for some design prompts online and found a decent collectio
 
 >The phylogeny of Accipitriformes is complex and difficult to unravel. Widespread paraphylies were observed in many phylogenetic studies. Unfortunately more recent and detailed studies are shown similar results. However, according to the findings of a 2014 study, the sister relationship between larger clades of Accipitriformes was well supported (e.g. relationship of Harpagus kites to buzzards and sea eagles and these latter two with Accipiter hawks are sister taxa of the clade containing Aquilinae and Harpiinae).
 
-While science is totally of amazing, sometimes the way it's presented on Wikipedia just makes one despair* of finding enough interesting, linear nuggets to make a little infographic story. So what did I do? Of course I just made some shit up.
+While science is totally of amazing, sometimes the way it's presented on Wikipedia just makes one despair* of finding enough interesting, linear nuggets to make a little infographic story. So what did I do? I made some shit up.
 
 I could have also used [Cat Ipsum](http://www.catipsum.com/).
 
