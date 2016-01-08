@@ -33,7 +33,7 @@ I also did a few other things for my job, like an [interactive scatterplot](http
 
 [![#givingtuesday ads](/assets/access-basic-know.png)](https://twitter.com/socprogress/status/671728387984109568)
 
-Finally, InDesign accomplishment of the year: figuring out how to run Arabic text (left-to-right) in the same line with English numbers (right-to-left) for these translated versions of the [People's Report Card](https://twitter.com/socprogress/status/680359982076944384), a collaborative project with Global Citizen.
+Finally, InDesign accomplishment of the year: figuring out how to run Arabic text (right-to-left) in the same line with English numbers (left-to-right) for these translated versions of the [People's Report Card](https://twitter.com/socprogress/status/680359982076944384), a collaborative project with Global Citizen.
 
 
 
