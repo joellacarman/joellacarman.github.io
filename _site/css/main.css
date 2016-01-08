@@ -123,10 +123,24 @@ pre {
       padding-right: 15px;
       padding-left: 15px; } }
 
+.gallery-wrapper {
+  max-width: -webkit-calc(960px - (30px * 2));
+  max-width: calc(960px - (30px * 2));
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 30px;
+  padding-left: 30px; }
+  @media screen and (max-width: 800px) {
+    .gallery-wrapper {
+      max-width: -webkit-calc(960px - (30px));
+      max-width: calc(960px - (30px));
+      padding-right: 15px;
+      padding-left: 15px; } }
+
 /**
  * Clearfix
  */
-.wrapper:after, .footer-col-wrapper:after {
+.wrapper:after, .gallery-wrapper:after {
   content: "";
   display: table;
   clear: both; }
@@ -176,7 +190,7 @@ pre {
   text-align: center;
   text-transform: uppercase; }
 
-#nav-links > a:nth-child(2) {
+#nav-links > a:nth-child(n+2) {
   border-left: 1px solid #000;
   padding-left: 10px; }
 
@@ -225,58 +239,6 @@ pre {
         display: block;
         padding: 5px 10px; } }
 
-/**
- * Site footer
- */
-.site-footer {
-  border-top: 1px solid #e8e8e8;
-  padding: 30px 0; }
-
-.footer-heading {
-  font-size: 18px;
-  margin-bottom: 15px; }
-
-.contact-list,
-.social-media-list {
-  list-style: none;
-  margin-left: 0; }
-
-.footer-col-wrapper {
-  font-size: 15px;
-  color: #828282;
-  margin-left: -15px; }
-
-.footer-col {
-  float: left;
-  margin-bottom: 15px;
-  padding-left: 15px; }
-
-.footer-col-1 {
-  width: -webkit-calc(35% - (30px / 2));
-  width: calc(35% - (30px / 2)); }
-
-.footer-col-2 {
-  width: -webkit-calc(20% - (30px / 2));
-  width: calc(20% - (30px / 2)); }
-
-.footer-col-3 {
-  width: -webkit-calc(45% - (30px / 2));
-  width: calc(45% - (30px / 2)); }
-
-@media screen and (max-width: 800px) {
-  .footer-col-1,
-  .footer-col-2 {
-    width: -webkit-calc(50% - (30px / 2));
-    width: calc(50% - (30px / 2)); }
-
-  .footer-col-3 {
-    width: -webkit-calc(100% - (30px / 2));
-    width: calc(100% - (30px / 2)); } }
-@media screen and (max-width: 600px) {
-  .footer-col {
-    float: none;
-    width: -webkit-calc(100% - (30px / 2));
-    width: calc(100% - (30px / 2)); } }
 /**
  * Page content
  */
@@ -348,8 +310,12 @@ pre {
  * Gallery
  */
 .gallery img {
-  max-width: 30%;
-  padding-left: 2%; }
+  max-width: 40%;
+  padding-left: 7%; }
+  @media screen and (max-width: 600px) {
+    .gallery img {
+      max-width: 100%;
+      padding-left: 0%; } }
 .gallery .space {
   padding-top: 30px; }
 

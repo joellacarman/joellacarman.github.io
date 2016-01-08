@@ -1,12 +1,18 @@
 ---
-layout: default
+layout: widepage
 ---
+<div class="trigger" id="nav-links">
+    {% for page in site.pages %}
+      {% if page.title %}
+      <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+      {% endif %}
+    {% endfor %}
+</div>
+
 <div class="gallery">
 
 	<div class="space"></div>
-      <article class="post-content">
         <div class="grid" id="gallery">
             {{ content }}
         </div>
-      </article>
 </div>
