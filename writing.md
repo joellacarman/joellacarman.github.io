@@ -4,7 +4,7 @@ title: Writing
 permalink: /writing/
 ---
 
-I enjoy the challenge of writing, though I don't do it that often as a project on its own (I find there's no end to the utility of being able to write a sensible sentence in the workplace, for emails, captions and more!). 
+I enjoy the challenge of writing, though I don't do it that often as a project on its own. It's much more common for my "writing" to take the form of emails or captions, which I also enjoy working on.
 
 Here are a few actual pieces published by various past employers, including NPR.
 
