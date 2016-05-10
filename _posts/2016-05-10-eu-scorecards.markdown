@@ -26,10 +26,10 @@ This is what I came up with:
 <br>
 As it turned out, this project found an almost immediate use with the European Regional Social Project Index. The European Commission asked us to provide some visuals to go with the beta version's publication, and I was able to make some adjustments to fit their defined page widths and ship it out in a matter of days. Success! 
 
-##What's It Made Out Of?##
+## What's It Made Out Of? ##
 Even though the "visualization" piece of this project isn't that sophisticated, I built these scorecards using D3. D3 has a handy set of functions for stats-type math, and it also provides a [clean way to think about templating](http://www.macwright.org/2013/07/07/d3-for-html.html). It's in a different universe from Excel speed-wise, but there is still a ton of math happening under the hood, which makes it a tidge slow to load. Still not bad. It wasn't until I started testing on other browsers that I really started to wonder about my choice to put so much math in JavaScript -- who knew there were different ways to implement "sort"!! (Computer science grads, maybe?). The benefit is that we now have a one step process of bringing in a new datasheet to make scorecards for a different index project. Still, I'm not convinced this is a huge advantage over separating the process of defining the boundaries of "above average"/"below average" in an R script. I'm still working on that question.
 
-##Update: Prying It Out Of The Browser##
+## Update: Prying It Out Of The Browser ##
 The project that went to the EC site missed one of the goals above: it can't be downloaded as an image. In this iteration you see a failed attempt to make that possible via SVG Crowbar. Every bit of the chart is actually SVG to allow the Crowbar to work, but in the end the project never came out of the page with all the CSS styles. Installing a Chrome extension to pry out images from a website is a bit of a big ask for most users anyway, so I abandoned this path.
 
 Searching for another way, I looked into using html canvas and libraries that convert these into image files. Perfect, I thought, not using HTML/CSS for text layout sucks anyway! I ripped everything up and started over with a much more semantic approach, and found happily that [rasterizeHTML](http://cburgmer.github.io/rasterizeHTML.js/) does a great job of converting the screen graphics, even going between retina and non-retina displays. My design also got lighter and better once I had some of my old friends like "border" and "div" back in town. Everybody wins!
