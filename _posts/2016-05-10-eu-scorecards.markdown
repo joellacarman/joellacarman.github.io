@@ -7,7 +7,7 @@ image: /assets/scorecard.png
 ---
 
 
-![Old scorecard]({{ site.url }}/assets/UnitedStates.png)
+![Old scorecard]({{ site.url }}/assets/UnitedStates.PNG)
 <figcaption>Is my country within the one average absolute deviation from the median??</figcaption>
 
 <br>
