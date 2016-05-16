@@ -4,7 +4,7 @@ title: Writing
 permalink: /writing/
 ---
 
-I enjoy the challenge of writing, though I don't do it that often as a project on its own. Here are a few actual pieces published by various past employers, including NPR.
+I enjoy the challenge of writing. Here are a few pieces published by various past employers, including NPR.
 
 [Does Smoking Cause Social Progress?](http://www.socialprogressimperative.org/blog/posts/do-smoking-habits-change-with-social-progress)
 
