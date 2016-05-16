@@ -43,4 +43,3 @@ Here's an example I downloaded from the browser as a .png:
 In summary, everyone likes this scorecard better than the clunky old Excel file, and it meets all the objectives above. Still, the way it illustrates the concept of "relative performance" is unchanged. I wonder what I could do if I started from the ground up to make this rather complex idea a bit more intelligible. I hope to have an update on that process sometime soon.
 
 
-
