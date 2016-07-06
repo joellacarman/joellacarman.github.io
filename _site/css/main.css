@@ -65,6 +65,7 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
+  color: #111;
   text-decoration: none; }
   a:visited {
     color: #111; }
@@ -193,6 +194,11 @@ pre {
   text-transform: uppercase; }
 
 #nav-links > a {
+  color: #111;
+  text-decoration: none; }
+
+#nav-links > a:hover {
+  color: #DF7D1D;
   text-decoration: none; }
 
 #nav-links > a:nth-child(n+2) {

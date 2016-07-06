@@ -46,7 +46,13 @@
 }
 
 #nav-links > a {
-        text-decoration: none;
+    color: $text-color;
+    text-decoration: none;
+}
+
+#nav-links > a:hover {
+    color: $my-gold;
+    text-decoration: none;
 }
 
 #nav-links > a:nth-child(n+2)  {
