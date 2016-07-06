@@ -134,6 +134,13 @@
 /**
  * Page content
  */
+
+figcaption {
+    font-size: 11px;
+    font-style: italic;
+    margin-top: -4%;
+}
+
 .page-content {
 
     margin: 0 auto;
@@ -264,6 +271,7 @@
         margin-left: 25%;
         @include media-query($on-palm) {
             max-width: 100%;
+            margin-left: 0%;
         }
     }
 
@@ -278,7 +286,7 @@
 
          @include media-query($on-palm) {
             max-width: 100%;
-            padding-left: 0%;
+            margin-left: 0%;
         }
     }
 

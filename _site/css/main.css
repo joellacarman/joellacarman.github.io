@@ -253,6 +253,11 @@ pre {
 /**
  * Page content
  */
+figcaption {
+  font-size: 11px;
+  font-style: italic;
+  margin-top: -4%; }
+
 .page-content {
   margin: 0 auto;
   max-width: 600px; }
@@ -340,7 +345,8 @@ pre {
   margin-left: 25%; }
   @media screen and (max-width: 600px) {
     .portfolio img {
-      max-width: 100%; } }
+      max-width: 100%;
+      margin-left: 0%; } }
 .portfolio p.portfolio-writeup {
   border: 2px dotted #DF7D1D;
   border-radius: 3px;
@@ -352,7 +358,7 @@ pre {
   @media screen and (max-width: 600px) {
     .portfolio p.portfolio-writeup {
       max-width: 100%;
-      padding-left: 0%; } }
+      margin-left: 0%; } }
 .portfolio .clear-fix {
   clear: both; }
 
