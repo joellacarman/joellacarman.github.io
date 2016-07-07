@@ -6,12 +6,13 @@ categories: update
 image: /assets/scorecard.png
 ---
 
+When I started working at this organization last year, I began to see this table *a lot*. 
 
 ![Old scorecard]({{ site.url }}/assets/UnitedStates.PNG)
 <figcaption>Is my country within the one average absolute deviation from the median??</figcaption>
+<br />
 
-<br>
-When I started working at this organization last year, I saw the above table *a lot*. It's almost standard in every presentation and report, but its Excel-ness made it exceedingly clunky to use and impossible to style with complete freedom. I knew what I wanted to do: recreate the "scorecard" for the web. I started in on the project with the goal of making it:
+It's almost standard in every presentation and report, but its Excel-ness made it exceedingly clunky to use and impossible to style with complete freedom. I knew what I wanted to do: recreate the "scorecard" for the web. I started in on the project with the goal of making it:
 
 + easy to load (Excel with its "1 processor(s)" sets a low bar here)
 + more legible/hierarchical

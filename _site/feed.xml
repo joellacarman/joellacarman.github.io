@@ -6,17 +6,19 @@
 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 06 Jul 2016 19:23:18 -0400</pubDate>
-    <lastBuildDate>Wed, 06 Jul 2016 19:23:18 -0400</lastBuildDate>
+    <pubDate>Wed, 06 Jul 2016 21:25:51 -0400</pubDate>
+    <lastBuildDate>Wed, 06 Jul 2016 21:25:51 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>My Work On The European Commission Website</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/UnitedStates.PNG&quot; alt=&quot;Old scorecard&quot; /&gt;&lt;/p&gt;
-&lt;figcaption&gt;Is my country within the one average absolute deviation from the median??&lt;/figcaption&gt;
+        <description>&lt;p&gt;When I started working at this organization last year, I began to see this table &lt;em&gt;a lot&lt;/em&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;
-When I started working at this organization last year, I saw the above table &lt;em&gt;a lot&lt;/em&gt;. It’s almost standard in every presentation and report, but its Excel-ness made it exceedingly clunky to use and impossible to style with complete freedom. I knew what I wanted to do: recreate the “scorecard” for the web. I started in on the project with the goal of making it:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/UnitedStates.PNG&quot; alt=&quot;Old scorecard&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Is my country within the one average absolute deviation from the median??&lt;/figcaption&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s almost standard in every presentation and report, but its Excel-ness made it exceedingly clunky to use and impossible to style with complete freedom. I knew what I wanted to do: recreate the “scorecard” for the web. I started in on the project with the goal of making it:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;easy to load (Excel with its “1 processor(s)” sets a low bar here)&lt;/li&gt;

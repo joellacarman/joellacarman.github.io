@@ -24,7 +24,7 @@ permalink: /portfolio/
 
 <a href="http://s3-us-west-2.amazonaws.com/scorecards-2016/index.html"><img src="/assets/portfolio/SA-scorecard.png" alt="Social Progress Index scorecard"></a>
 <p class="portfolio-writeup">
-    I redesigned SPI's country "scorecards" to be more legible, easier to edit, more flexible with datasets and more easily distributed to external partners. I used d3 to "template" and html2canvas to allow <a href="http://s3-us-west-2.amazonaws.com/scorecards-2016/index.html">downloading</a> as PNG file. An earlier version of this project can be found on the <a href="http://ec.europa.eu/regional_policy/en/information/maps/social_progress">European Commission website</a>.<br />
+    I redesigned SPI's country "scorecards" to be more legible, easier to edit, more flexible with datasets and more easily distributed to external partners. I used d3 to "template" and rasterizeHTML to allow <a href="http://s3-us-west-2.amazonaws.com/scorecards-2016/index.html">downloading</a> as PNG file. An earlier version of this project can be found on the <a href="http://ec.europa.eu/regional_policy/en/information/maps/social_progress">European Commission website</a>.<br />
     <i>Design, development</i>
 </p>
 
