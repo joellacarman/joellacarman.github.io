@@ -6,19 +6,34 @@
 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 01 Sep 2016 23:08:16 -0400</pubDate>
-    <lastBuildDate>Thu, 01 Sep 2016 23:08:16 -0400</lastBuildDate>
+    <pubDate>Sun, 16 Oct 2016 14:00:18 -0400</pubDate>
+    <lastBuildDate>Sun, 16 Oct 2016 14:00:18 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>What&#39;s A Tweet Untweeted? Remembering My Forgotten Twitter Images</title>
-        <description>&lt;p&gt;The place I work likes to encourage competitiveness among nations, so what better metaphor to use in promotions than a sports metaphor… especially during Olympic season? (??) Still, for various reasons, these never found their way to the Twitters, which is sad because I got lucky finding good photos and I think they turned out well, aesthetically.&lt;/p&gt;
+        <title>Rio de Janeiro &amp; Social Progress</title>
+        <description>&lt;p&gt;It so happens that partners in Brazil completed a Social Progress Index for the administrative regions of Rio de Janeiro just months before the Olympics. Seizing on this opportunity to promote SPI’s work, our director flew to Rio and presented the index to journalists covering not the games, but the city around the games. I created this map to be handed out to reporters at the event.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/Olympic-medals-US.png&quot; alt=&quot;Comparison of US Olympic medal wins to social progress performancee&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/Rio-Olympics-SPI-map-large.png&quot; alt=&quot;Map of social progress in Rio de Janeiro&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 29 Aug 2016 18:00:00 -0400</pubDate>
+        <link>/update/2016/08/29/rio-map.html</link>
+        <guid isPermaLink="true">/update/2016/08/29/rio-map.html</guid>
+        
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Olympics &amp; Social Progress</title>
+        <description>&lt;p&gt;A handful of Twitter graphics comparing Olympic medal count with social progress.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/Olympic-medals-RU.png&quot; alt=&quot;Comparison of Russian Olympic medal wins to social progress performancee&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/Olympic-medals-US.png&quot; alt=&quot;Comparison of US Olympic medal wins to social progress performance&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/Olympic-medals-China.png&quot; alt=&quot;Comparison of Chinese Olympic medal wins to social progress performancee&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/Olympic-medals-RU.png&quot; alt=&quot;Comparison of Russian Olympic medal wins to social progress performance&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/Olympic-medals-China.png&quot; alt=&quot;Comparison of Chinese Olympic medal wins to social progress performance&quot; /&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Mon, 29 Aug 2016 18:00:00 -0400</pubDate>
@@ -31,50 +46,43 @@
       </item>
     
       <item>
-        <title>My Work On The European Commission Website</title>
+        <title>Redesigning SPI Scorecards (Again)</title>
         <description>&lt;p&gt;When I started working at this organization last year, I began to see this table &lt;em&gt;a lot&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/UnitedStates.PNG&quot; alt=&quot;Old scorecard&quot; /&gt;&lt;/p&gt;
 &lt;figcaption&gt;Is my country within the one average absolute deviation from the median??&lt;/figcaption&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;It’s almost standard in every presentation and report, but its Excel-ness made it exceedingly clunky to use and impossible to style with complete freedom. I knew what I wanted to do: recreate the “scorecard” for the web. I started in on the project with the goal of making it:&lt;/p&gt;
+&lt;p&gt;It’s almost standard in every presentation and report, but it’s nearly impossible to read. I set out to make this legible and professional looking, and to pry it out of Excel.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;easy to load (Excel with its “1 processor(s)” sets a low bar here)&lt;/li&gt;
-  &lt;li&gt;more legible/hierarchical&lt;/li&gt;
-  &lt;li&gt;easy to swap out datasets from other index projects&lt;/li&gt;
-  &lt;li&gt;downloadable as an image file for use in slides and reports&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;This is what I came up with:&lt;/p&gt;
+&lt;p&gt;This was my initial remake:&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://ec.europa.eu/regional_policy/en/information/maps/social_progress&quot;&gt;&lt;img src=&quot;/assets/scorecard.png&quot; alt=&quot;Screenshot of scorecard&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;figcaption&gt;Be thankful for UTF-8 encoding&lt;/figcaption&gt;
+&lt;figcaption&gt;Scorecards displayed on European Commission website for the Beta version of the EU Regional Social Progress Index. (Be thankful for UTF-8 encoding)&lt;/figcaption&gt;
 
-&lt;p&gt;&lt;br /&gt;
-As it turned out, this project found an almost immediate use with the European Regional Social Project Index. The European Commission asked us to provide some visuals to go with the beta version’s publication, and I was able to make some adjustments to fit their defined page widths and ship it out in a matter of days. Success!&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;whats-it-made-out-of&quot;&gt;What’s It Made Out Of?&lt;/h2&gt;
-&lt;p&gt;Even though the “visualization” piece of this project isn’t that sophisticated, I built these scorecards using D3. D3 has a handy set of functions for stats-type math, and it also provides a &lt;a href=&quot;http://www.macwright.org/2013/07/07/d3-for-html.html&quot;&gt;clean way to think about templating&lt;/a&gt;. It’s in a different universe from Excel speed-wise, but there is still a ton of math happening under the hood, which makes it a tidge slow to load. Still not bad. It wasn’t until I started testing on other browsers that I really started to wonder about my choice to put so much math in JavaScript – who knew there were different ways to implement “sort”!! (Computer science grads, maybe?). The benefit is that we now have a one step process of bringing in a new datasheet to make scorecards for a different index project. Still, I’m not convinced this is a huge advantage over separating the process of defining the boundaries of “above average”/”below average” in an R script. I’m still working on that question.&lt;/p&gt;
+&lt;p&gt;Even though the “visualization” piece of this project isn’t that sophisticated, I built these scorecards using D3. I found D3’s set of functions for stats-type math to be very handy, and D3 also provides a &lt;a href=&quot;http://www.macwright.org/2013/07/07/d3-for-html.html&quot;&gt;clean way to think about templating&lt;/a&gt;. It’s in a different universe from Excel speed-wise, but there is still a ton of math happening under the hood, which makes it a tidge slow to load, and also, vulnerable to crossbrowser weirdness.&lt;/p&gt;
 
-&lt;h2 id=&quot;update-prying-it-out-of-the-browser&quot;&gt;Update: Prying It Out Of The Browser&lt;/h2&gt;
-&lt;p&gt;The project that went to the EC site missed one of the goals above: it can’t be downloaded as an image. In this iteration you see a failed attempt to make that possible via SVG Crowbar. Every bit of the chart is actually SVG to allow the Crowbar to work, but in the end the project never came out of the page with all the CSS styles. Installing a Chrome extension to pry out images from a website is a bit of a big ask for most users anyway, so I abandoned this path.&lt;/p&gt;
+&lt;h2 id=&quot;getting-image-files&quot;&gt;Getting Image Files&lt;/h2&gt;
+&lt;p&gt;As noted, images of these scorecards are everywhere and the team needs to get image files easily. My original thought was to use SVG Crowbar to pry these out of the browser, so I set about making them out of pure SVG. Unfortunately, the images never came out with their CSS styling attached. Installing a Chrome extension to pry out images from a website is a bit of a big ask for most users anyway, so I abandoned this path.&lt;/p&gt;
 
 &lt;p&gt;Searching for another way, I looked into using html canvas and libraries that convert these into image files. Perfect, I thought, not using HTML/CSS for text layout sucks anyway! I ripped everything up and started over with a much more semantic approach, and found happily that &lt;a href=&quot;http://cburgmer.github.io/rasterizeHTML.js/&quot;&gt;rasterizeHTML&lt;/a&gt; does a great job of converting the screen graphics, even going between retina and non-retina displays. My design also got lighter and better once I had some of my old friends like “border” and “div” back in town. Everybody wins!&lt;/p&gt;
 
 &lt;p&gt;Here’s an example I downloaded from the browser as a .png:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/mauritius.jpg&quot; alt=&quot;New scorecard&quot; /&gt;&lt;/p&gt;
-&lt;figcaption&gt;Data embargoed! Can&#39;t wait to show you the real thing in about a month&lt;/figcaption&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/SA-scorecard.png&quot; alt=&quot;New scorecard&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Redesigned redesign of SPI scorecards.&lt;/figcaption&gt;
 
-&lt;p&gt;&lt;br /&gt;
-In summary, everyone likes this scorecard better than the clunky old Excel file, and it meets all the objectives above. Still, the way it illustrates the concept of “relative performance” is unchanged. I wonder what I could do if I started from the ground up to make this rather complex idea a bit more intelligible. I hope to have an update on that process sometime soon.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Since I began working on these, a number of coworkers have gotten interested in using R for their work, so I’ve eliminated the calculations in JavaScript and have instead been working to port the code for generating strength/weaknesses values to R. Now a very large datasheet feeds the web app a straight value for the color of each dot. To avoid using the web all together, I’ve also created an InDesign template and used data merge to create the full set of cards. The resulting images are much sharper (rasterizeHTML does a good job, but it’s not a pro designer tool), and the technology used to make them is understood by others on my team. In the end, I think this is a more flexible and smart arrangement, especially because the new site design doesn’t include a natural home for these webified scorecards anyway. :(&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 10 May 2016 18:00:00 -0400</pubDate>
-        <link>/update/2016/05/10/eu-scorecards.html</link>
-        <guid isPermaLink="true">/update/2016/05/10/eu-scorecards.html</guid>
+        <link>/update/2016/05/10/scorecards.html</link>
+        <guid isPermaLink="true">/update/2016/05/10/scorecards.html</guid>
         
         
         <category>update</category>
@@ -132,44 +140,6 @@ I focused on making these legible from far away in a dark room: dark background,
       </item>
     
       <item>
-        <title>Interactive Scatterplot</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://www.socialprogressimperative.org/blog/posts/do-smoking-habits-change-with-social-progress&quot;&gt;&lt;img src=&quot;/assets/spi-smoking.png&quot; alt=&quot;Does smoking cause social progress?&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;A few months ago I started working at a non-profit that promotes national welfare index. Needless to say, this organization deals with a great deal of data, and part of my job is to think of presentations of it. I produced an interactive scatterplot of smoking rates (for men and women separately) vs. social progress as some blog fodder during a slow August.&lt;/p&gt;
-
-&lt;p&gt;Smoking has nothing to do with health performance, it turns out, but there is an interesting observation to be had about nations with higher female smoking rates. Read &lt;a href=&quot;http://www.socialprogressimperative.org/blog/posts/do-smoking-habits-change-with-social-progress&quot;&gt;my post&lt;/a&gt; to find out more.&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 05 Jul 2015 18:00:00 -0400</pubDate>
-        <link>/update/2015/07/05/smoking.html</link>
-        <guid isPermaLink="true">/update/2015/07/05/smoking.html</guid>
-        
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>Class Project</title>
-        <description>&lt;p&gt;&lt;a href=&quot;/assets/finalproject.pdf&quot;&gt;&lt;img src=&quot;/assets/different.png&quot; alt=&quot;LiquidLab project&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Just realized that I never added the final version of the fictitious juice company website I created for a graphic design class this spring. I never did find just the right pic online, so I’m leading with what might be the world’s first arm-only selfie (feat. beets!).&lt;/p&gt;
-
-&lt;p&gt;What did I learn from this exercise? It’s hard to deal with all the content your “client” (or school project prompt) suggests you add in. The idea of this fake company is that they get people to subscribe to their custom juicing plans, saving them time and improving their diet. But the description in the prompt felt a bit confused on that tip - lots of information about about farming practices, serious hand holding prior to seeing the actual lifestyle survey… Don’t these busy people want to cut through all that crap and start chugging acai berries already?&lt;/p&gt;
-
-&lt;p&gt;During the in-class review by local DC design professionals, I was repeatedly reminded that too much text is a bad thing. I wished I would have stuck with my instinct to simplify the content and come up with a more elegant site that felt right for the purpose. I’ve always found class projects challenging. Making up the rationale behind these imaginary people stretches your creative brain in the opposite way you need it to go for a real workplace scenario. In reality, the last thing you want to do is fill in a lot of blanks about what a customer wants. But in this case, since there was no real customer, I would have been better off accepting the prompt as a safe space for experimenting. After all, when facing real clients who don’t go along with every suggestion, it’s probably good to have the confidence that comes from having experiences where your instincts turned out to be right.&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 05 Jul 2015 18:00:00 -0400</pubDate>
-        <link>/update/2015/07/05/design-class-project.html</link>
-        <guid isPermaLink="true">/update/2015/07/05/design-class-project.html</guid>
-        
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
         <title>Birds Of Prey!</title>
         <description>&lt;p&gt;&lt;a href=&quot;/projects/birdsofprey.pdf&quot;&gt;&lt;img src=&quot;/assets/birdsofprey.png&quot; alt=&quot;Birds of prey&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -201,49 +171,6 @@ I focused on making these legible from far away in a dark room: dark background,
       </item>
     
       <item>
-        <title>Layout Time</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/liquidlab.png&quot; alt=&quot;Liquid Lab Layout&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Liquid Lab saves your time, health and money. Or just the first two… maybe. Actually it does nothing. It’s a fake company. I’m only crafting a layout for its website because I’m taking a course on graphic design, and this was the assignment.&lt;/p&gt;
-
-&lt;p&gt;I think this is a decent stab at doing a simple layout, but it’s not that interesting. And it looks more like a poster than a website.&lt;/p&gt;
-
-&lt;p&gt;Originally I wanted a simple white background, a well lit photo, bold sans serif text taking charge over the image. I thought that might feel like “you’re busy, you’re hip, you’re healthy - you want this juice”. However, I have yet to lay hands on such a photo- I’m going with what I find in the Creative Commons search (thanks and credit to Flickr user Stiftelsen Elektronikkbransjen for the photo!).&lt;/p&gt;
-
-&lt;p&gt;I would describe the sentiment behind this piece as: the vegetable pile is sort of like your chaotic life, and you’re glad to have someone else deal with it, blending it down into a sweet-ish, no-chew-required, food paste (“juicing”). I was just working with some phrasing like “Liquid Lab deals with these guys”, but I’m not entirely satisfied yet.&lt;/p&gt;
-
-&lt;p&gt;I’ll be sure to let you know what I come up with.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 21 Apr 2015 18:00:00 -0400</pubDate>
-        <link>/update/2015/04/21/liquid-lab.html</link>
-        <guid isPermaLink="true">/update/2015/04/21/liquid-lab.html</guid>
-        
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>A Lot Of Tail</title>
-        <description>&lt;p&gt;GIFs are hilarious. It’s great to watch just the funniest part of a &lt;a href=&quot;http://procatinator.com/images/tumblr_lkx04suye01qe1ucbo1_400.gif&quot;&gt;cat’s neurotic drive&lt;/a&gt; to bust through cardboard realized over and over again. Maybe they’re also sorta funny because that repetition is so unnatural. IDK. It would be great fun to really put my finger on exactly why a &lt;a href=&quot;http://www.ohmagif.com/wp-content/uploads/2012/03/cute-rabbit-falling-asleep.gif&quot;&gt;bunny falling asleep at his work station&lt;/a&gt; is so hilarious, but I think that could also turn into a life’s work.&lt;/p&gt;
-
-&lt;p&gt;In the meantime, have you noticed there are a lot of &lt;a href=&quot;http://www.jeanniejeannie.com/wp-content/uploads/2013/03/tumblr_mkc10ltCHw1qj6juso1_500.gif&quot;&gt;subtle uses&lt;/a&gt; of animation out there? I love how it only takes a little movement on screen to captivate me, and the stiller it is the more peaceful I feel. It’s a bit like the old days when we just watched TV for fun.&lt;/p&gt;
-
-&lt;p&gt;A lot of sites seem to be using background video this way (&lt;a href=&quot;https://www.airbnb.com/&quot;&gt;AirBNB&lt;/a&gt;: “Ah, I will be so relaxed staying in that total stranger’s home!”). Subtlety has arrived in GIF-land as well. Last night I came across a great &lt;a href=&quot;http://www.buzzfeed.com/kevintang/20-insanely-talented-gif-illustrators-you-should-follow?sub=3128308_2704994#.ba7wVOwAOQ&quot;&gt;roundup&lt;/a&gt; from BuzzFeed (!) of artists working with GIFs and decided, dangit, I want to try that, too. So this is where I got, just using layers in PhotoShop. If I do this again I think I will adhere to &lt;a href=&quot;http://tabletopwhale.com/2014/11/03/how-to-make-an-animated-infographic.html&quot;&gt;Tabletop Whale’s&lt;/a&gt; tutorial. She seems like she knows what she’s doing!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cat-wag.gif&quot; alt=&quot;Wag the cat&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 18 Apr 2015 06:21:00 -0400</pubDate>
-        <link>/update/2015/04/18/cat-wag.html</link>
-        <guid isPermaLink="true">/update/2015/04/18/cat-wag.html</guid>
-        
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
         <title>Mapping Jobs Data</title>
         <description>&lt;p&gt;&lt;a href=&quot;/projects/census/index.html&quot;&gt;&lt;img src=&quot;/assets/jobmap.png&quot; alt=&quot;Screenshot of map&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -264,21 +191,6 @@ Making this map also made me think about how, in some ways, every heatmap/quanti
         <link>/2015/03/21/job-map.html</link>
         <guid isPermaLink="true">/2015/03/21/job-map.html</guid>
         
-        
-      </item>
-    
-      <item>
-        <title>First Post</title>
-        <description>&lt;p&gt;I’m creating a space to collect my work as I experiment with graphics and web interactives.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/symbols.jpg&quot; alt=&quot;My drawing&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 20 Mar 2015 06:29:29 -0400</pubDate>
-        <link>/update/2015/03/20/first-post.html</link>
-        <guid isPermaLink="true">/update/2015/03/20/first-post.html</guid>
-        
-        
-        <category>update</category>
         
       </item>
     

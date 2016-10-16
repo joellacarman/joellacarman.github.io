@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Rio de Janeiro & Social Progress"
+date:   2016-08-29 22:00:00
+categories: update
+image: /assets/Rio-Olympics-SPI-map-large.png
+---
+
+It so happens that partners in Brazil completed a Social Progress Index for the administrative regions of Rio de Janeiro just months before the Olympics. Seizing on this opportunity to promote SPI's work, our director flew to Rio and presented the index to journalists covering not the games, but the city around the games. I created this map to be handed out to reporters at the event.
+
+![Map of social progress in Rio de Janeiro]({{ site.url }}/assets/Rio-Olympics-SPI-map-large.png)

@@ -2,24 +2,16 @@
  * Site header
  */
 .site-header {
-    border-bottom: 1px solid $grey-color-light;
-    min-height: 106px;
-    text-align: center;
-    // Positioning context for the mobile navigation icon
-    position: relative;
+    border-bottom: 1px solid $my-gold;
 }
 
 .site-title {
     color: $text-color;
-    font-family: "Roboto";
+    font-family: "Oswald";
     text-transform: uppercase;
-    font-size: 36px;
-    font-weight: 300;
-    line-height: 56px;
-    letter-spacing: 19px;
-    margin-bottom: 20px;
-    margin-top: 20px;
-    display: block;
+    font-size: $title-height;
+    display: inline;
+    padding-right: 5%;
     text-decoration: none;
 
     &,
@@ -32,42 +24,40 @@
     }
 }
 
-#header-img {
-    width: 300px;
-}
-
 #nav-links {
-    font-size: 24px;
-    letter-spacing: 3px;
-    padding-bottom: 3 * $spacing-unit;
-    padding-top: $spacing-unit;
+    display: inline;
+    font-size: $base-font-size;
+    position: relative;
+    bottom: ($title-height - $base-font-size);
     text-align: center;
     text-transform: uppercase;
+
+        @include media-query($on-laptop) {
+            display: block;
+            position: static;
+            text-align: left;
+        }
+
 }
 
 #nav-links > a {
     color: $text-color;
+    padding-right: 5%;
     text-decoration: none;
 }
+    @include media-query($on-laptop){
+        padding-left: 0px;
+        padding-right: 5%;
+    }
 
 #nav-links > a:hover {
     color: $my-gold;
     text-decoration: none;
 }
 
-#nav-links > a:nth-child(n+2)  {
-    border-left: 1px solid #000;
-    padding-left: 10px;
-}
-
-#nav-links > a:nth-child(1) {
-    padding-right: 2px;
-}
-
 
 .site-nav {
-    float: right;
-    line-height: 56px;
+    
 
     .menu-icon {
         display: none;
@@ -84,52 +74,33 @@
 
     }
 
-    @include media-query($on-palm) {
-        position: absolute;
-        top: 9px;
-        right: 30px;
-        background-color: $background-color;
-        border: 1px solid $grey-color-light;
-        border-radius: 5px;
-        text-align: right;
-
-        .menu-icon {
-            display: block;
-            float: right;
-            width: 36px;
-            height: 26px;
-            line-height: 0;
-            padding-top: 10px;
-            text-align: center;
-
-            > svg {
-                width: 18px;
-                height: 15px;
-
-                path {
-                    fill: $grey-color-dark;
-                }
-            }
-        }
-
-        .trigger {
-            clear: both;
-            display: none;
-        }
-
-
-
-        &:hover .trigger {
-            display: block;
-            padding-bottom: 5px;
-        }
-
-        .page-link {
-            display: block;
-            padding: 5px 10px;
-        }
+    .trigger {
+        clear: both;
+        display: none;
     }
+
+    &:hover .trigger {
+        display: block;
+        padding-bottom: 5px;
+    }
+
+    .page-link {
+        display: block;
+        padding: 5px 10px;
+    }
+
 }
+
+/**Footer
+**/
+
+
+
+.site-footer {
+    margin-left: 40%;
+    width: 20%;
+}
+
 
 /**
  * Page content
@@ -142,9 +113,9 @@ figcaption {
 }
 
 .page-content {
-
+    background-color: #f3f3f3;
     margin: 0 auto;
-    max-width: 600px;
+    width: 100%;
 }
 
 .page-heading {
@@ -156,7 +127,18 @@ figcaption {
     list-style: none;
 
     > li {
+        background-color: #ffffff;
         margin-bottom: 3 * $spacing-unit;
+        margin-right: ($spacing-unit);
+        padding: 1%;
+        max-width: ($content-width / 3.4);
+        float: left;
+        height: ($spacing-unit * 10);
+        border: 0.5px solid #dddddd;
+
+            @include media-query($on-palm) {
+                max-width: 100%;
+            }
     }
 }
 
@@ -167,9 +149,8 @@ figcaption {
 
 .post-link {
     display: block;
-    font-size: 20px;
+    font-size: ($base-font-size);
     text-transform: uppercase;
-    letter-spacing: 2px;
 }
 
 
@@ -195,6 +176,7 @@ figcaption {
 
 .post-content {
     margin-bottom: $spacing-unit;
+    width: 66%;
 
     h2 {
         font-size: 24px;
@@ -243,11 +225,26 @@ figcaption {
 
     img {
         max-width: 40%;
-        padding-left: 7%;
+        padding-right: 8%;
 
         @include media-query($on-palm) {
             max-width: 100%;
             padding-left: 0%;
+        }
+    }
+
+    p.portfolio-writeup {
+        border: 2px dotted $my-gold;
+        border-radius: 3px;
+        float: left;
+        font-size: 14px;
+        margin-right: 7%;
+        max-width: 35%;
+        padding: 2%;
+
+         @include media-query($on-palm) {
+            max-width: 100%;
+            margin-left: 0%;
         }
     }
 

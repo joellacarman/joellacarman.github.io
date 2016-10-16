@@ -3,7 +3,7 @@ layout: post
 title:  "Work Projects From 2015"
 date:   2015-12-26 22:00:00
 categories: update
-image: 
+image: /assets/TED-slide.png
 ---
 
 Here are a few notable projects from my year. Notable, at least, to me.
