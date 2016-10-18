@@ -36,6 +36,7 @@ Here's an example I downloaded from the browser as a .png:
 
 <br>
 
-Since I began working on these, a number of coworkers have gotten interested in using R for their work, so I've eliminated the calculations in JavaScript and have instead been working to port the code for generating strength/weaknesses values to R. Now a very large datasheet feeds the web app a straight value for the color of each dot. To avoid using the web all together, I've also created an InDesign template and used data merge to create the full set of cards. The resulting images are much sharper (rasterizeHTML does a good job, but it's not a pro designer tool), and the technology used to make them is understood by others on my team. In the end, I think this is a more flexible and smart arrangement, especially because the new site design doesn't include a natural home for these webified scorecards anyway. :(
+Since I began working on these, a number of coworkers have gotten interested in using R for their work, so I've eliminated the calculations in JavaScript and have instead been working to port the code for generating strength/weaknesses values to R. Now a very large datasheet feeds the web app a straight value for the color of each dot. To make it so anyone at this organization can generate a new set of scorecards, I've also created an InDesign template and used data merge to create the full set of cards. The resulting images are much sharper (rasterizeHTML does a good job, but it's not a pro designer tool), and, in the end, I think this is a more flexible and smart arrangement, especially because the new site design doesn't include a natural home for these webified scorecards anyway. :(
 
-
+![Scorecard for EU Regional Social Progress Index]({{ site.url }}/assets/EU-scorecards.jpg)
+<figcaption>Redesigned redesigned redesign of SPI scorecards.</figcaption>

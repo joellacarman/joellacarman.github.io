@@ -30,12 +30,6 @@ permalink: /portfolio/
 <a href="http://s3-us-west-2.amazonaws.com/scorecards-2016/index.html"><img src="/assets/portfolio/SA-scorecard.png" alt="Social Progress Index scorecard"></a>
 
 <p class="portfolio-writeup">
-    Business cards for Social Progress Imperative.<br />
-    <i>Design</i>
-</p>
-<img src="/assets/portfolio/bizcards.jpg" alt="Business cards for Social Progress Imperative">
-
-<p class="portfolio-writeup">
     I was the main developer on this interactive map for Partnership For A New American Economy. The map uses d3, Queue.js and a great deal of math to illustrate election scenarios.<br />
     <i>Development</i>
 </p>
