@@ -57,7 +57,7 @@
 
 
 .site-nav {
-    
+
 
     .menu-icon {
         display: none;
@@ -130,7 +130,7 @@ figcaption {
         background-color: #ffffff;
         margin-bottom: 3 * $spacing-unit;
         margin-right: ($spacing-unit);
-        padding: 1%;
+        padding: 1% 1% 1% 1%;
         max-width: ($content-width / 3.4);
         float: left;
         height: ($spacing-unit * 10);
@@ -140,6 +140,12 @@ figcaption {
                 max-width: 100%;
             }
     }
+
+}
+
+.image-wrapper {
+  height: 240px;
+  overflow: hidden;
 }
 
 .post-meta {

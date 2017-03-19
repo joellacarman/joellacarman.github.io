@@ -247,7 +247,7 @@ figcaption {
     background-color: #ffffff;
     margin-bottom: 90px;
     margin-right: 30px;
-    padding: 1%;
+    padding: 1% 1% 1% 1%;
     max-width: 27.94118%;
     float: left;
     height: 300px;
@@ -255,6 +255,10 @@ figcaption {
     @media screen and (max-width: 600px) {
       .post-list > li {
         max-width: 100%; } }
+
+.image-wrapper {
+  height: 240px;
+  overflow: hidden; }
 
 .post-meta {
   font-size: 14px;
