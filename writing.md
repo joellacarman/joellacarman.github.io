@@ -6,7 +6,6 @@ permalink: /writing/
 
 I enjoy the challenge of writing. Here are a few pieces published by various past employers, including NPR.
 
-[Does Smoking Cause Social Progress?](http://www.socialprogressimperative.org/blog/posts/do-smoking-habits-change-with-social-progress)
 
 [Can Raw Data Be Cooked?](http://graphicacy.com/can-raw-data-be-cooked/)
 
