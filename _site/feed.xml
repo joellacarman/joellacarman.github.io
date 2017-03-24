@@ -6,9 +6,24 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 19 Mar 2017 20:13:08 -0400</pubDate>
-    <lastBuildDate>Sun, 19 Mar 2017 20:13:08 -0400</lastBuildDate>
+    <pubDate>Thu, 23 Mar 2017 20:48:32 -0400</pubDate>
+    <lastBuildDate>Thu, 23 Mar 2017 20:48:32 -0400</lastBuildDate>
     <generator>Jekyll v3.4.2</generator>
+    
+      <item>
+        <title>Budget Cuts Illustrated</title>
+        <description>&lt;p&gt;Designed these for Twitter using stock illustration.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/leagueofcities/status/844263961440731140&quot;&gt;&lt;img src=&quot;/assets/edu-infrastructure.png&quot; alt=&quot;What will Trump's budget cut in your city? Education and infrastructure.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/leagueofcities/status/844219810812706818&quot;&gt;&lt;img src=&quot;/assets/business.png&quot; alt=&quot;What will Trump's budget cut in your city? Support for business.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 19 Mar 2017 08:53:02 -0400</pubDate>
+        <link>http://localhost:4000/2017/03/19/budget-cuts.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/03/19/budget-cuts.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>NLC Pension Report</title>
@@ -25,6 +40,40 @@
       </item>
     
       <item>
+        <title>Microcontent For Preemption Report</title>
+        <description>&lt;p&gt;I created a few Twitter graphics to go with the report on state preemption of municipal law making.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/leagueofcities/status/839476060282621952&quot;&gt;&lt;img src=&quot;/assets/paidleave.png&quot; alt=&quot;States that preempt paid leave.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Paid leave graphic also used by Senior Executive and Director of the Center for City Solutions’ &lt;a href=&quot;http://www.huffingtonpost.com/entry/when-cities-and-states-clash-women-and-families-suffer_us_58bfee77e4b070e55af9e988&quot;&gt;Huffington Post piece&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/minwage.png&quot; alt=&quot;States that preempt minimum wage.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/ridesharing.png&quot; alt=&quot;States that preempt ride sharing.&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 17 Mar 2017 08:53:02 -0400</pubDate>
+        <link>http://localhost:4000/2017/03/17/preemption-microcontent.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/03/17/preemption-microcontent.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Decorative Data Slides</title>
+        <description>&lt;p&gt;I was asked to design a few slides to be shown as conference attendees entered general sessions of the 2017 Congressional City Conference. My colleague Eric Howard located and mapped this data using QGIS and I did the design.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/college.png&quot; alt=&quot;City population over 25 with a college degree&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/assets/police.png&quot; alt=&quot;City population over 25 with a college degree&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 11 Mar 2017 10:54:02 -0500</pubDate>
+        <link>http://localhost:4000/2017/03/11/data-maps.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/03/11/data-maps.html</guid>
+        
+        
+      </item>
+    
+      <item>
         <title>Where Do States Preempt City Governments?</title>
         <description>&lt;p&gt;My new workplace, National League of Cities, advocates for municipal goverments in Washington. They also study issues that affect local government.&lt;/p&gt;
 
@@ -32,9 +81,9 @@
 
 &lt;p&gt;&lt;a href=&quot;http://nlc.org/sites/default/files/2017-02/NLC%20Preemption%20Report%202017.pdf&quot;&gt;&lt;img src=&quot;/assets/Preemption.png&quot; alt=&quot;Wheel of 50 states with preemption policies&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 17 Mar 2017 11:54:02 -0400</pubDate>
-        <link>http://localhost:4000/2017/03/17/preemption.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/03/17/preemption.html</guid>
+        <pubDate>Wed, 22 Feb 2017 10:54:02 -0500</pubDate>
+        <link>http://localhost:4000/2017/02/22/preemption.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/02/22/preemption.html</guid>
         
         
       </item>
@@ -155,57 +204,6 @@ As noted, images of these scorecards are everywhere and the team needs to get im
         
         
         <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>Birds Of Prey!</title>
-        <description>&lt;p&gt;&lt;a href=&quot;/projects/birdsofprey.pdf&quot;&gt;&lt;img src=&quot;/assets/birdsofprey.png&quot; alt=&quot;Birds of prey&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;I was looking around for some design prompts online and found a decent collection at &lt;a href=&quot;http://briefbox.me&quot;&gt;Briefbox&lt;/a&gt;. The first prompt to catch my eye asked for an infographic on &lt;a href=&quot;http://briefbox.me/design-brief/birds-of-prey-infographic/&quot;&gt;“birds of prey”&lt;/a&gt;. The Briefbox people suggest looking at Wikipedia, which I did, only to be overwhelmed and bored by an academic account of phylogenic studies.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The phylogeny of Accipitriformes is complex and difficult to unravel. Widespread paraphylies were observed in many phylogenetic studies. Unfortunately more recent and detailed studies are shown similar results. However, according to the findings of a 2014 study, the sister relationship between larger clades of Accipitriformes was well supported (e.g. relationship of Harpagus kites to buzzards and sea eagles and these latter two with Accipiter hawks are sister taxa of the clade containing Aquilinae and Harpiinae).&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;While science is totally of amazing, sometimes the way it’s presented on Wikipedia just makes one despair* of finding enough interesting, linear nuggets to make a little infographic story. So what did I do? I made some shit up.&lt;/p&gt;
-
-&lt;p&gt;I could have also used &lt;a href=&quot;http://www.catipsum.com/&quot;&gt;Cat Ipsum&lt;/a&gt;.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Meowing non stop for food plan steps for world domination but lick arm hair. Find something else more interesting intently stare at the same spot lick butt, for hate dog poop on grasses, chase laser.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;*Yeah, but… not for long! I learned about the &lt;a href=&quot;https://en.wikipedia.org/wiki/Secretarybird&quot;&gt;secretarybird&lt;/a&gt; from this article. Have you seen this thing??&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 11 Jun 2015 18:00:00 -0400</pubDate>
-        <link>http://localhost:4000/update/2015/06/11/birds-of-prey.html</link>
-        <guid isPermaLink="true">http://localhost:4000/update/2015/06/11/birds-of-prey.html</guid>
-        
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>Mapping Jobs Data</title>
-        <description>&lt;p&gt;&lt;a href=&quot;/projects/census/index.html&quot;&gt;&lt;img src=&quot;/assets/jobmap.png&quot; alt=&quot;Screenshot of map&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;I’ve done a few basic heatmaps at work and wanted to take what I had learned and put it toward some “interesting” data. I thought it would be fun to do something with the 2012 Economic Census, so I put together &lt;a href=&quot;/projects/census/index.html&quot;&gt;this piece&lt;/a&gt; that displays either the “job births” or “job destructions” counted in each of our nation’s 280+ lovely MSAs.&lt;/p&gt;
-
-&lt;p&gt;Most of my time so far has been spent on organizing the program to work efficiently. Since there are 8 survey years available (1977 to 2012), 280+ MSAs and something like 5 subcategories for each (depending on business size/age) preserving this dataset inside the program as something you can work with takes quite a bit of folding and unfolding. I found Shan Carter’s &lt;a href=&quot;http://bl.ocks.org/shancarter/raw/4748131/&quot;&gt;Mister Nester&lt;/a&gt; to be an invaluable tool for wrapping my head around nesting functions in D3.&lt;/p&gt;
-
-&lt;p&gt;What I have at this point is a basic, functioning map. I’d like to one day take advantage of the data set better by setting up some filtering options. As mentioned, the data identifies companies by size and age. Since there’s always so much chatter about the importance of small businesses being “job creators” I thought it would be interesting to see if any trends become evident on the map.&lt;/p&gt;
-
-&lt;p&gt;Making this map also made me think about how, in some ways, every heatmap/quantity map just becomes a map of the population. In this map, clearly New York and other large cities create and lose a ton of jobs. They also have a ton of people. I wonder whether adding a basic population heatmap as the base of the whole project would provide meaningful context.&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 21 Mar 2015 11:54:02 -0400</pubDate>
-        <link>http://localhost:4000/2015/03/21/job-map.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/03/21/job-map.html</guid>
-        
         
       </item>
     

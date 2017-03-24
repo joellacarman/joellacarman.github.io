@@ -57,8 +57,6 @@
 
 
 .site-nav {
-
-
     .menu-icon {
         display: none;
     }
@@ -93,8 +91,6 @@
 
 /**Footer
 **/
-
-
 
 .site-footer {
     margin-left: 40%;
@@ -144,7 +140,6 @@ html {
                 max-width: 100%;
             }
     }
-
 }
 
 .image-wrapper {
@@ -160,10 +155,9 @@ html {
 .post-link {
     display: block;
     font-size: ($base-font-size);
+    font-weight: bold;
     text-transform: uppercase;
 }
-
-
 
 /**
  * Posts
@@ -210,6 +204,12 @@ html {
         @include media-query($on-laptop) {
             font-size: 18px;
         }
+    }
+
+    img {
+      border: 2px solid #FFFFFF;
+      margin-top: 3 * $spacing-unit;
+      width: 70%;
     }
 
     a {
