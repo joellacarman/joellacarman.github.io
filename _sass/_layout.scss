@@ -12,6 +12,7 @@
     font-size: $title-height;
     display: inline;
     padding-right: 5%;
+    padding-left: 1%;
     text-decoration: none;
 
     &,
@@ -128,7 +129,7 @@ html {
 
     > li {
         background-color: #ffffff;
-        margin-bottom: 3 * $spacing-unit;
+        margin-bottom: $spacing-unit;
         margin-right: ($spacing-unit);
         padding: 1% 1% 1% 1%;
         max-width: ($content-width / 3.4);

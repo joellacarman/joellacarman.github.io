@@ -170,6 +170,7 @@ pre {
   font-size: 36px;
   display: inline;
   padding-right: 5%;
+  padding-left: 1%;
   text-decoration: none; }
   .site-title, .site-title:visited {
     color: #111; }
@@ -248,7 +249,7 @@ html {
   list-style: none; }
   .post-list > li {
     background-color: #ffffff;
-    margin-bottom: 90px;
+    margin-bottom: 30px;
     margin-right: 30px;
     padding: 1% 1% 1% 1%;
     max-width: 27.94118%;
