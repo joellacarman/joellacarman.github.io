@@ -138,6 +138,8 @@ html {
         border: 0.5px solid #dddddd;
 
             @include media-query($on-palm) {
+                height: auto;
+                margin-right: 0px;
                 max-width: 100%;
             }
     }
@@ -146,6 +148,9 @@ html {
 .image-wrapper {
   height: 240px;
   overflow: hidden;
+      @include media-query($on-palm) {
+        height: auto;
+    }
 }
 
 .post-meta {
@@ -182,6 +187,10 @@ html {
 .post-content {
     margin-bottom: $spacing-unit;
     width: 66%;
+
+    @include media-query($on-palm) {
+        width: 100%;
+    }
 
     h2 {
         font-size: 24px;

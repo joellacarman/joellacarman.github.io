@@ -258,11 +258,16 @@ html {
     border: 0.5px solid #dddddd; }
     @media screen and (max-width: 600px) {
       .post-list > li {
+        height: auto;
+        margin-right: 0px;
         max-width: 100%; } }
 
 .image-wrapper {
   height: 240px;
   overflow: hidden; }
+  @media screen and (max-width: 600px) {
+    .image-wrapper {
+      height: auto; } }
 
 .post-meta {
   font-size: 14px;
@@ -293,6 +298,9 @@ html {
 .post-content {
   margin-bottom: 30px;
   width: 66%; }
+  @media screen and (max-width: 600px) {
+    .post-content {
+      width: 100%; } }
   .post-content h2 {
     font-size: 24px; }
     @media screen and (max-width: 1024px) {
