@@ -10,8 +10,6 @@ I'm a graphic designer in Washington, D.C. and I work with the team at the Natio
 
 In a previous life I worked as a news researcher, where I learned to love all things esoteric and number-related. I've since followed my calling to do design work and built that initial interest in data and spreadsheet mechanics into web development skills, thanks in part to a coding bootcamp.
 
-I am a problem solver and I work hard to make things that make sense.
-
 Thanks for looking at my work.
 
 
