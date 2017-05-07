@@ -27,12 +27,10 @@
 
 #nav-links {
     display: inline;
+    font-family: "Oswald";
     font-size: $base-font-size;
-    position: relative;
-    bottom: ($title-height - $base-font-size);
     text-align: center;
     text-transform: uppercase;
-
         @include media-query($on-laptop) {
             display: block;
             position: static;
@@ -160,9 +158,10 @@ html {
 
 .post-link {
     display: block;
+    font-family: "Roboto Slab";
     font-size: ($base-font-size);
     font-weight: bold;
-    text-transform: uppercase;
+    // text-transform: uppercase;
 }
 
 /**
@@ -174,9 +173,8 @@ html {
 
 .post-title {
     font-size: 24px;
-    letter-spacing: 2px;
+    font-family: "Roboto Slab";
     line-height: 1;
-    text-transform: uppercase;
     padding-top: $spacing-unit;
 
     @include media-query($on-laptop) {

@@ -179,9 +179,8 @@ pre {
 
 #nav-links {
   display: inline;
+  font-family: "Oswald";
   font-size: 16px;
-  position: relative;
-  bottom: 20px;
   text-align: center;
   text-transform: uppercase; }
   @media screen and (max-width: 1024px) {
@@ -276,9 +275,9 @@ html {
 
 .post-link {
   display: block;
+  font-family: "Roboto Slab";
   font-size: 16px;
-  font-weight: bold;
-  text-transform: uppercase; }
+  font-weight: bold; }
 
 /**
  * Posts
@@ -288,9 +287,8 @@ html {
 
 .post-title {
   font-size: 24px;
-  letter-spacing: 2px;
+  font-family: "Roboto Slab";
   line-height: 1;
-  text-transform: uppercase;
   padding-top: 30px; }
   @media screen and (max-width: 1024px) {
     .post-title {
