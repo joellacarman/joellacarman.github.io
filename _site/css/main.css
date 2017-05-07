@@ -321,6 +321,9 @@ html {
     border: 2px solid #FFFFFF;
     margin-top: 90px;
     width: 70%; }
+    @media screen and (max-width: 600px) {
+      .post-content img {
+        width: 100%; } }
   .post-content a {
     color: #126caf;
     font-weight: bold; }

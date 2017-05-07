@@ -6,9 +6,49 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 20 Apr 2017 16:50:41 -0400</pubDate>
-    <lastBuildDate>Thu, 20 Apr 2017 16:50:41 -0400</lastBuildDate>
+    <pubDate>Sun, 07 May 2017 14:54:30 -0400</pubDate>
+    <lastBuildDate>Sun, 07 May 2017 14:54:30 -0400</lastBuildDate>
     <generator>Jekyll v3.4.2</generator>
+    
+      <item>
+        <title>Monthly Jobs Report: Local Government Jobs</title>
+        <description>&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: design &amp;amp; development&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Technology&lt;/strong&gt;: d3, CountUp.js&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Live project&lt;/strong&gt;: &lt;a href=&quot;http://www.nlc.org/article/employment-how-does-your-city-stack-up&quot;&gt;http://www.nlc.org/article/employment-how-does-your-city-stack-up&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Jobs in local government are the largest sector of government employment. The National League of Cities keeps track of the ups and downs in employment, issuing a monthly chart of data from the Bureau of Labor Statistics.&lt;/p&gt;
+
+&lt;p&gt;The original NLC chart was a high touch monthly assignment. I redesigned the project with the goal automating the work and supplying additional views to the data.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.nlc.org/article/employment-how-does-your-city-stack-up&quot;&gt;&lt;img src=&quot;/assets/apr-jobs-report.png&quot; alt=&quot;Chart with local government jobs data from Bureau of Labor Statistics.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 05 May 2017 08:53:02 -0400</pubDate>
+        <link>http://localhost:4000/2017/05/05/jobs-report.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/05/05/jobs-report.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Connected Cities</title>
+        <description>&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: interaction design &amp;amp; development&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Technology&lt;/strong&gt;: Snap.svg, jQuery&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Live project&lt;/strong&gt;: &lt;a href=&quot;http://www.nlc.org/resource/smart-city-development&quot;&gt;http://www.nlc.org/resource/smart-city-development&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;My colleague Soren Messner-Zidell created this engaging illustration for NLC’s report on &lt;a href=&quot;http://www.nlc.org/resource/smart-city-development&quot;&gt;Smart City Development&lt;/a&gt;. In the print report, the diagram is labeled with 20+ ways that sensors and data collection help city governments. To make it legible in a small space online, I proposed breaking the labels into topic sections. This multi-step “guided tour” borrows from Jim Vallandingham’s &lt;a href=&quot;http://vallandingham.me/stepper_steps.html&quot;&gt;stepper tutorial&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.nlc.org/article/sensors-data-and-the-future-of-cities&quot;&gt;&lt;img src=&quot;/assets/connected-cities.png&quot; alt=&quot;What the Internet of Things means for cities.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 21 Apr 2017 08:53:02 -0400</pubDate>
+        <link>http://localhost:4000/2017/04/21/iot-cities.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/04/21/iot-cities.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Budget Cuts Illustrated</title>
@@ -163,44 +203,6 @@ As noted, images of these scorecards are everywhere and the team needs to get im
         <pubDate>Tue, 10 May 2016 18:00:00 -0400</pubDate>
         <link>http://localhost:4000/update/2016/05/10/scorecards.html</link>
         <guid isPermaLink="true">http://localhost:4000/update/2016/05/10/scorecards.html</guid>
-        
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>Election Map For Partnership For A New American Economy</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://www.renewoureconomy.org/voterinteractive/&quot;&gt;&lt;img src=&quot;/assets/elexmap.png&quot; alt=&quot;Screenshot of map&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;This is the &lt;a href=&quot;http://www.renewoureconomy.org/voterinteractive/&quot;&gt;first interactive&lt;/a&gt; I worked on as an actual professional being paid cash money. I was the main developer on the project, with a lot of guidance from my excellent colleague, Reed Spool, for which I will always be grateful. I got a lot better at d3 and JavaScript after this project!&lt;/p&gt;
-</description>
-        <pubDate>Sat, 26 Dec 2015 17:00:00 -0500</pubDate>
-        <link>http://localhost:4000/update/2015/12/26/new-american-econ.html</link>
-        <guid isPermaLink="true">http://localhost:4000/update/2015/12/26/new-american-econ.html</guid>
-        
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>Business Cards &amp; TED Slides</title>
-        <description>&lt;p&gt;A few projects from late 2015:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/bizcards.jpg&quot; alt=&quot;Biz card&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I designed new business cards for the Social Progress Imperative. This organization has employees in many different countries, so we elected to leave off a location and make the website our home.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/TED-slide.png&quot; alt=&quot;TED slides&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I created slides for our director’s second &lt;a href=&quot;https://www.ted.com/talks/michael_green_how_we_can_make_the_world_a_better_place_by_2030?language=en&quot;&gt;TED Talk&lt;/a&gt; given in London last September at TED Global. The scatterplot is a perennial at SPI, since our mission is to advance this index as a measure of things left out of GDP, notably the things that actually make life better. The fact that some countries are so far over or under the curve demonstrates that GDP doesn’t automatically convert to what we describe as “social progress”, as measured by “indicators” like “water and sanitation”, “access to basic knowledge”, “nutrition and basic medical care”, “personal rights”, etc for a whole society.&lt;/p&gt;
-
-&lt;p&gt;I focused on making these legible from far away in a dark room: dark background, strong contrast, minimal markings on the charts. Reportedly (via Michael Green) these received compliments from the TED Global people!&lt;/p&gt;
-</description>
-        <pubDate>Thu, 15 Oct 2015 18:00:00 -0400</pubDate>
-        <link>http://localhost:4000/update/2015/10/15/biz-cards-and-slides.html</link>
-        <guid isPermaLink="true">http://localhost:4000/update/2015/10/15/biz-cards-and-slides.html</guid>
         
         
         <category>update</category>

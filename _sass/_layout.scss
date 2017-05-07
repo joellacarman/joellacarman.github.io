@@ -56,7 +56,6 @@
     text-decoration: none;
 }
 
-
 .site-nav {
     .menu-icon {
         display: none;
@@ -221,6 +220,10 @@ html {
       border: 2px solid #FFFFFF;
       margin-top: 3 * $spacing-unit;
       width: 70%;
+
+      @include media-query($on-palm) {
+        width: 100%;
+      }
     }
 
     a {
