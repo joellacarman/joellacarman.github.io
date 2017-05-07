@@ -2,7 +2,7 @@
 layout: post
 title:  "Monthly Jobs Report: Local Government Jobs"
 date:   2017-05-05 12:53:02
-image: /assets/apr-jobs-report.png
+image: /assets/apr-jobs-report-crop.png
 ---
 
 **Role**: design & development
