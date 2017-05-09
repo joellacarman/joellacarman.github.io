@@ -6,7 +6,11 @@ categories: update
 image: /assets/SA-scorecard.png
 ---
 
-When I started working at this organization last year, I began to see this table *a lot*. 
+**Role**: design & development
+
+**Technology**: d3, Gulp, rasterizeHTML
+
+When I started working at this organization last year, I began to see this table *a lot*.
 
 ![Old scorecard]({{ site.url }}/assets/UnitedStates.PNG)
 <figcaption>Is my country within the one average absolute deviation from the median??</figcaption>

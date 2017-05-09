@@ -8,4 +8,8 @@ image: /assets/elexmap.png
 
 [![Screenshot of map](/assets/elexmap.png)](http://www.renewoureconomy.org/voterinteractive/)
 
-This is the [first interactive](http://www.renewoureconomy.org/voterinteractive/) I worked on as an actual professional being paid cash money. I was the main developer on the project, with a lot of guidance from my excellent colleague, Reed Spool, for which I will always be grateful. I got a lot better at d3 and JavaScript after this project!
+**Role**: development
+
+**Technology**: d3, Grunt
+
+This is the [first interactive](http://www.renewoureconomy.org/voterinteractive/) I worked on as for a client. I was the main developer on the project, with guidance from my excellent colleague, Reed Spool, for which I will always be grateful. I got a lot better at d3 and JavaScript after this project!

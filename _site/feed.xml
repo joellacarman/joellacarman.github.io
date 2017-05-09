@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 07 May 2017 15:19:19 -0400</pubDate>
-    <lastBuildDate>Sun, 07 May 2017 15:19:19 -0400</lastBuildDate>
+    <pubDate>Mon, 08 May 2017 21:03:39 -0400</pubDate>
+    <lastBuildDate>Mon, 08 May 2017 21:03:39 -0400</lastBuildDate>
     <generator>Jekyll v3.4.2</generator>
     
       <item>
@@ -52,7 +52,7 @@
     
       <item>
         <title>Budget Cuts Illustrated</title>
-        <description>&lt;p&gt;Designed these for Twitter using stock illustration.&lt;/p&gt;
+        <description>&lt;p&gt;I designed these for Twitter using stock illustration.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/leagueofcities/status/850381415065808896&quot;&gt;&lt;img src=&quot;/assets/protect-programs.png&quot; alt=&quot;What will Trump's budget cut in your city? Education and infrastructure.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -100,7 +100,7 @@
     
       <item>
         <title>Decorative Data Slides</title>
-        <description>&lt;p&gt;I was asked to design a few slides to be shown as conference attendees entered general sessions of the 2017 Congressional City Conference. My colleague Eric Howard located and mapped this data using QGIS and I did the design.&lt;/p&gt;
+        <description>&lt;p&gt;I was asked to design a few slides to be shown as conference attendees entered general sessions of the 2017 Congressional City Conference. My colleague Eric Howard located and mapped this data using QGIS and I designed the slides.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/college.png&quot; alt=&quot;City population over 25 with a college degree&quot; /&gt;
 &lt;img src=&quot;http://localhost:4000/assets/police.png&quot; alt=&quot;City population over 25 with a college degree&quot; /&gt;&lt;/p&gt;
@@ -130,7 +130,7 @@
     
       <item>
         <title>Rio de Janeiro &amp; Social Progress</title>
-        <description>&lt;p&gt;It so happens that partners in Brazil completed a Social Progress Index for the administrative regions of Rio de Janeiro just months before the Olympics. Seizing on this opportunity to promote SPI’s work, our director flew to Rio and presented the index to journalists covering not the games, but the city around the games. I created this map to be handed out to reporters at the event.&lt;/p&gt;
+        <description>&lt;p&gt;A Social Progress Index for the administrative regions of Rio de Janeiro was completed just months before the summer Olympics took place there in 2016. Seizing on this opportunity to promote SPI’s work, our director flew to Rio and presented the index to journalists sent to Rio to cover the city surrounding the games. I created this map to be handed out to reporters at the event.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/Rio-Olympics-SPI-map-large.png&quot; alt=&quot;Map of social progress in Rio de Janeiro&quot; /&gt;&lt;/p&gt;
 </description>
@@ -164,48 +164,19 @@
       </item>
     
       <item>
-        <title>Redesigning SPI Scorecards (Again)</title>
-        <description>&lt;p&gt;When I started working at this organization last year, I began to see this table &lt;em&gt;a lot&lt;/em&gt;.&lt;/p&gt;
+        <title>Slopegraph: Earnings and Progress</title>
+        <description>&lt;p&gt;I concepted and designed this piece for social media promoting the 2016 Social Progress Index.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/UnitedStates.PNG&quot; alt=&quot;Old scorecard&quot; /&gt;&lt;/p&gt;
-&lt;figcaption&gt;Is my country within the one average absolute deviation from the median??&lt;/figcaption&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;The Social Progress Index does not include economic measures, so can be compared independently to GDP with interesting results: countries at similar levels of GDP do not have similar levels of social progress.&lt;/p&gt;
 
-&lt;p&gt;It’s almost standard in every presentation and report, but it’s nearly impossible to read. I set out to make this legible and professional looking, and to pry it out of Excel.&lt;/p&gt;
+&lt;p&gt;SPI uses scatterplots relentlessly to illustrate this concept, the slopegraph is a welcome alternate view of the same idea.&lt;/p&gt;
 
-&lt;p&gt;This was my initial remake:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://ec.europa.eu/regional_policy/en/information/maps/social_progress&quot;&gt;&lt;img src=&quot;/assets/scorecard.png&quot; alt=&quot;Screenshot of scorecard&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;figcaption&gt;Scorecards displayed on European Commission website for the Beta version of the EU Regional Social Progress Index. (Be thankful for UTF-8 encoding)&lt;/figcaption&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;##What’s It Made Out Of?##
-Even though the “visualization” piece of this project isn’t that sophisticated, I built these scorecards using D3. I found D3’s set of functions for stats-type math to be very handy, and D3 also provides a &lt;a href=&quot;http://www.macwright.org/2013/07/07/d3-for-html.html&quot;&gt;clean way to think about templating&lt;/a&gt;. It’s in a different universe from Excel speed-wise, but there is still a ton of math happening under the hood, which makes it a tidge slow to load, and also, vulnerable to crossbrowser weirdness.&lt;/p&gt;
-
-&lt;p&gt;##Getting Image Files##
-As noted, images of these scorecards are everywhere and the team needs to get image files easily. My original thought was to use SVG Crowbar to pry these out of the browser, so I set about making them out of pure SVG. Unfortunately, the images never came out with their CSS styling attached. Installing a Chrome extension to pry out images from a website is a bit of a big ask for most users anyway, so I abandoned this path.&lt;/p&gt;
-
-&lt;p&gt;Searching for another way, I looked into using html canvas and libraries that convert these into image files. Perfect, I thought, not using HTML/CSS for text layout sucks anyway! I ripped everything up and started over with a much more semantic approach, and found happily that &lt;a href=&quot;http://cburgmer.github.io/rasterizeHTML.js/&quot;&gt;rasterizeHTML&lt;/a&gt; does a great job of converting the screen graphics, even going between retina and non-retina displays. My design also got lighter and better once I had some of my old friends like “border” and “div” back in town. Everybody wins!&lt;/p&gt;
-
-&lt;p&gt;Here’s an example I downloaded from the browser as a .png:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/SA-scorecard.png&quot; alt=&quot;New scorecard&quot; /&gt;&lt;/p&gt;
-&lt;figcaption&gt;Redesigned redesign of SPI scorecards.&lt;/figcaption&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Since I began working on these, a number of coworkers have gotten interested in using R for their work, so I’ve eliminated the calculations in JavaScript and have instead been working to port the code for generating strength/weaknesses values to R. Now a very large datasheet feeds the web app a straight value for the color of each dot. To make it so anyone at this organization can generate a new set of scorecards, I’ve also created an InDesign template and used data merge to create the full set of cards. The resulting images are much sharper (rasterizeHTML does a good job, but it’s not a pro designer tool), and, in the end, I think this is a more flexible and smart arrangement, especially because the new site design doesn’t include a natural home for these webified scorecards anyway. :(&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/EU-scorecards.jpg&quot; alt=&quot;Scorecard for EU Regional Social Progress Index&quot; /&gt;&lt;/p&gt;
-&lt;figcaption&gt;Redesigned redesigned redesign of SPI scorecards.&lt;/figcaption&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/GDP-SPI-slopegraph.png&quot; alt=&quot;Are top earning countries top performers on Social Progress?&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 10 May 2016 18:00:00 -0400</pubDate>
-        <link>http://localhost:4000/update/2016/05/10/scorecards.html</link>
-        <guid isPermaLink="true">http://localhost:4000/update/2016/05/10/scorecards.html</guid>
+        <pubDate>Mon, 13 Jun 2016 08:53:02 -0400</pubDate>
+        <link>http://localhost:4000/2016/06/13/slopegraph.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/06/13/slopegraph.html</guid>
         
-        
-        <category>update</category>
         
       </item>
     
