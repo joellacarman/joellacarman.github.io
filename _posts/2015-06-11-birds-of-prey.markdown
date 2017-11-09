@@ -17,5 +17,3 @@ While science is totally of amazing, sometimes the way it's presented on Wikiped
 
 ********
 *Yeah, but... not for long! I learned about the [secretarybird](https://en.wikipedia.org/wiki/Secretarybird) from this article. Have you seen this thing??
-
-

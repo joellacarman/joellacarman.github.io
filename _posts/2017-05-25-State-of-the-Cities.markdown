@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "State of the Cities"
+title:  "Infographics: State of the Cities"
 date:   2017-05-25 12:53:02
 image: /assets/infog-SOTC-sm.png
 ---

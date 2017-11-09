@@ -6,17 +6,35 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 08 Nov 2017 21:40:27 -0500</pubDate>
-    <lastBuildDate>Wed, 08 Nov 2017 21:40:27 -0500</lastBuildDate>
+    <pubDate>Wed, 08 Nov 2017 22:34:00 -0500</pubDate>
+    <lastBuildDate>Wed, 08 Nov 2017 22:34:00 -0500</lastBuildDate>
     <generator>Jekyll v3.4.2</generator>
+    
+      <item>
+        <title>Infographics: The Future of Equity</title>
+        <description>&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: design, research, copywriting&lt;/p&gt;
+
+&lt;p&gt;I contributed two graphics to this year’s &lt;a href=&quot;&quot;&gt;City of the Future&lt;/a&gt; report, with design direction and layout by my colleague Soren Messner-Zidell. For both of these graphics I successfully pitched something different than what was originally planned, and consequently did the research and caption writing on top of design. In some ways it was a nice throw back to my days in the NPR library, but this time I got to tie the final bow on the work, too.&lt;/p&gt;
+
+&lt;p&gt;Click below to see the full spread.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/projects/infog-PoliceDemoHilite.pdf&quot;&gt;&lt;img src=&quot;/assets/infog-police-demo@4x.png&quot; alt=&quot;Future employment trends&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;/projects/infog-FutureEmpTrends.pdf&quot;&gt;&lt;img src=&quot;/assets/infog-econ-snip@4x.png&quot; alt=&quot;Police force demographics 1987-2013&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 15 Nov 2017 07:53:02 -0500</pubDate>
+        <link>http://localhost:4000/2017/11/15/future-of-equity.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/11/15/future-of-equity.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Cities and the Innovation Economy</title>
         <description>&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: cover design, report layout&lt;/p&gt;
 
-&lt;p&gt;This cover has the challenge of illustrating the invisible technology that underpins many new features of city life, like ridesharing.&lt;/p&gt;
+&lt;p&gt;What made this cover a challenge was that the concepts it illustrates are invisible, and also hugely consequential to daily life. That’s right, what I’m talking about is basically the Internet and all the apps and connected sensors and devices it enables.&lt;/p&gt;
 
-&lt;p&gt;Straight photography is important to the branding of projects like these, so rather than illustrate these abstract concepts I highlighted parts of an everyday view that could be part of this “innovation economy”.&lt;/p&gt;
+&lt;p&gt;Straight photography is important to the branding of projects like these, so rather than illustrate these abstract concepts I highlighted parts of an everyday view that might belong in this “innovation economy”.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;(http://www.nlc.org/resource/cities-and-innovation-economy-perceptions-of-local-leaders)&quot;&gt;Full report here&lt;/a&gt;&lt;/p&gt;
 
@@ -30,25 +48,7 @@
       </item>
     
       <item>
-        <title>Responsive Map and Table</title>
-        <description>&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: design, development, editing&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Technology&lt;/strong&gt;: d3, pym.js&lt;/p&gt;
-
-&lt;p&gt;This is &lt;a href=&quot;https://s3.amazonaws.com/peercities/parent.html&quot;&gt;an early version&lt;/a&gt; of a project that’s undergoing some reconcepting after an initial roadtest showed our audience was getting confused.&lt;/p&gt;
-
-&lt;p&gt;I hope to have a new version of this up soon, for now I just include it as an example of responsive design within an iframe.&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 01 Oct 2017 08:53:02 -0400</pubDate>
-        <link>http://localhost:4000/2017/10/01/responsive-map.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/10/01/responsive-map.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>State of the Cities</title>
+        <title>Infographics: State of the Cities</title>
         <description>&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: design, copywriting&lt;/p&gt;
 
 &lt;p&gt;Presidents are not the only leaders to make an annual speech on progress and wellbeing; many mayors give a “state of the city” address offering a local assessment, too. Each year the National League of Cities analyzes these speeches to learn which topics are foremost on the minds of local leaders. My colleague Soren Messner-Zidell designed this report, and I contributed graphics, including this repurposing for social media.&lt;/p&gt;

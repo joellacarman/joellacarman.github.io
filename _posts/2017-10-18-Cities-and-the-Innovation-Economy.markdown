@@ -7,9 +7,9 @@ image: /assets/InnovEconCover.png
 
 **Role**: cover design, report layout
 
-This cover has the challenge of illustrating the invisible technology that underpins many new features of city life, like ridesharing.
+What made this cover a challenge was that the concepts it illustrates are invisible, and also hugely consequential to daily life. That's right, what I'm talking about is basically the Internet and all the apps and connected sensors and devices it enables.
 
-Straight photography is important to the branding of projects like these, so rather than illustrate these abstract concepts I highlighted parts of an everyday view that could be part of this "innovation economy".
+Straight photography is important to the branding of projects like these, so rather than illustrate these abstract concepts I highlighted parts of an everyday view that might belong in this "innovation economy".
 
 [Full report here]((http://www.nlc.org/resource/cities-and-innovation-economy-perceptions-of-local-leaders))
 
