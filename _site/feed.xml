@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 08 Nov 2017 21:23:48 -0500</pubDate>
-    <lastBuildDate>Wed, 08 Nov 2017 21:23:48 -0500</lastBuildDate>
+    <pubDate>Wed, 08 Nov 2017 21:40:27 -0500</pubDate>
+    <lastBuildDate>Wed, 08 Nov 2017 21:40:27 -0500</lastBuildDate>
     <generator>Jekyll v3.4.2</generator>
     
       <item>
@@ -23,8 +23,26 @@
 &lt;p&gt;&lt;a href=&quot;http://www.nlc.org/resource/cities-and-innovation-economy-perceptions-of-local-leaders&quot;&gt;&lt;img src=&quot;/assets/InnovEconCover.png&quot; alt=&quot;Cities and the Innovation Economy&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 18 Oct 2017 08:53:02 -0400</pubDate>
-        <link>http://localhost:4000/2017/10/18/Cities-and-the-Innovation-Economy.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/10/18/Cities-and-the-Innovation-Economy.html</guid>
+        <link>http://localhost:4000/2017/10/18/cities-and-the-innovation-economy.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/10/18/cities-and-the-innovation-economy.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Responsive Map and Table</title>
+        <description>&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: design, development, editing&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Technology&lt;/strong&gt;: d3, pym.js&lt;/p&gt;
+
+&lt;p&gt;This is &lt;a href=&quot;https://s3.amazonaws.com/peercities/parent.html&quot;&gt;an early version&lt;/a&gt; of a project that’s undergoing some reconcepting after an initial roadtest showed our audience was getting confused.&lt;/p&gt;
+
+&lt;p&gt;I hope to have a new version of this up soon, for now I just include it as an example of responsive design within an iframe.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 01 Oct 2017 08:53:02 -0400</pubDate>
+        <link>http://localhost:4000/2017/10/01/responsive-map.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/10/01/responsive-map.html</guid>
         
         
       </item>
@@ -38,8 +56,8 @@
 &lt;p&gt;&lt;a href=&quot;http://www.nlc.org/SOTC&quot;&gt;&lt;img src=&quot;/assets/infog-SOTC.png&quot; alt=&quot;State of the Cities infographic&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 25 May 2017 08:53:02 -0400</pubDate>
-        <link>http://localhost:4000/2017/05/25/State-of-the-Cities.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/05/25/State-of-the-Cities.html</guid>
+        <link>http://localhost:4000/2017/05/25/state-of-the-cities.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/05/25/state-of-the-cities.html</guid>
         
         
       </item>
@@ -157,26 +175,6 @@
         <pubDate>Mon, 29 Aug 2016 18:00:00 -0400</pubDate>
         <link>http://localhost:4000/update/2016/08/29/rio-map.html</link>
         <guid isPermaLink="true">http://localhost:4000/update/2016/08/29/rio-map.html</guid>
-        
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>Olympics &amp; Social Progress</title>
-        <description>&lt;p&gt;A handful of Twitter graphics comparing Olympic medal count with social progress.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/Olympic-medals-US.png&quot; alt=&quot;Comparison of US Olympic medal wins to social progress performance&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/Olympic-medals-RU.png&quot; alt=&quot;Comparison of Russian Olympic medal wins to social progress performance&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/Olympic-medals-China.png&quot; alt=&quot;Comparison of Chinese Olympic medal wins to social progress performance&quot; /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 29 Aug 2016 18:00:00 -0400</pubDate>
-        <link>http://localhost:4000/update/2016/08/29/forgotten-cards.html</link>
-        <guid isPermaLink="true">http://localhost:4000/update/2016/08/29/forgotten-cards.html</guid>
         
         
         <category>update</category>
