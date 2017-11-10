@@ -167,6 +167,13 @@ html {
 /**
  * Posts
  */
+
+.post {
+  margin: 0 auto;
+  padding-left: 5%;
+  width: 66%;
+}
+
 .post-header {
     margin-bottom: $spacing-unit;
 }
@@ -184,7 +191,6 @@ html {
 
 .post-content {
     margin-bottom: $spacing-unit;
-    width: 66%;
 
     @include media-query($on-palm) {
         width: 100%;
@@ -216,7 +222,7 @@ html {
 
     img {
       border: 2px solid #FFFFFF;
-      margin-top: 3 * $spacing-unit;
+      margin: 5% 15%;
       width: 70%;
 
       @include media-query($on-palm) {

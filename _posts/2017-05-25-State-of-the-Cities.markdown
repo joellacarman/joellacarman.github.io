@@ -12,3 +12,5 @@ Presidents are not the only leaders to make an annual speech on progress and wel
 My colleague Soren Messner-Zidell designed this report and I contributed graphics, including this one, repurposed for social media.
 
 [![State of the Cities infographic](/assets/infog-SOTC.png)](http://www.nlc.org/SOTC)
+
+

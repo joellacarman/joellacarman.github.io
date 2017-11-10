@@ -282,6 +282,11 @@ html {
 /**
  * Posts
  */
+.post {
+  margin: 0 auto;
+  padding-left: 5%;
+  width: 66%; }
+
 .post-header {
   margin-bottom: 30px; }
 
@@ -295,8 +300,7 @@ html {
       font-size: 36px; } }
 
 .post-content {
-  margin-bottom: 30px;
-  width: 66%; }
+  margin-bottom: 30px; }
   @media screen and (max-width: 600px) {
     .post-content {
       width: 100%; } }
@@ -317,7 +321,7 @@ html {
         font-size: 18px; } }
   .post-content img {
     border: 2px solid #FFFFFF;
-    margin-top: 90px;
+    margin: 5% 15%;
     width: 70%; }
     @media screen and (max-width: 600px) {
       .post-content img {
