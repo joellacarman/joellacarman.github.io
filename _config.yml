@@ -10,4 +10,4 @@ github_username:  joellastraley
 
 # Build settings
 markdown: kramdown
-future: false
+future: true
