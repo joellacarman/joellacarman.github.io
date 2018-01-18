@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Birds Of Prey!"
+title:  "Birds of Prey!"
 date:   2015-06-11 22:00:00
 categories: update
 image: /assets/birdsofprey.png

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Olympics & Social Progress"
+title:  "Olympics and Social Progress"
 date:   2016-08-29 22:00:00
 categories: update
 image: /assets/Olympic-medals-China.png

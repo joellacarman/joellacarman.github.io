@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Redesigning SPI Scorecards (Again)"
+title:  "Redesigning SPI Scorecards"
 date:   2016-05-10 22:00:00
 categories: update
 image: /assets/SA-scorecard.png

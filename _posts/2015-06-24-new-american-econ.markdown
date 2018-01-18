@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Election Map For Partnership For A New American Economy"
+title:  "Election Map for Partnership For A New American Economy"
 date:   2015-12-26 22:00:00
 categories: update
 image: /assets/elexmap.png

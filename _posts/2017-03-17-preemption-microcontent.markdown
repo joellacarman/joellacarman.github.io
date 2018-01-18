@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Microcontent For Preemption Report"
+title:  "Microcontent for Preemption Report"
 date:   2017-03-17 12:53:02
 image: /assets/paidleave.png
 ---
