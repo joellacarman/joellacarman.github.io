@@ -1,20 +1,5 @@
 var YEAR_CHOICE = 1990
 
-
-d3.select("#year-choice-sub").on("click", function(event){
-	d3.event.preventDefault();
-
-	var entry = document.getElementById("year-choice").value;
-	
-	if (isNaN(+entry)) {
-		alert("Enter a number")
-	} else {
-		YEAR_CHOICE = entry; 
-		makeChart(dataset)
-	}
-		
-})
-
 var margin = {top: 20, right: 20, bottom: 30, left: 40},
     width = 960 - margin.left - margin.right,
     height = 500 - margin.top - margin.bottom;
@@ -41,12 +26,10 @@ var svg = d3.select("#chart").append("svg")
   .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-
-
-var dataset;
+var DATASET;
 
 d3.csv("data/gdp_gini.csv", function(data){
-	dataset = d3.nest()
+	DATASET = d3.nest()
 				.key(function(d){ return d["Country Code"]})
 				.entries(data);
 
@@ -78,59 +61,45 @@ d3.csv("data/gdp_gini.csv", function(data){
 	      	.style("text-anchor", "end")
 	      	.text("GINI")
 
-	makeChart(dataset);
+	makeChart(DATASET);
 
 })
 
-// function processDomainDataAndChart(data){
+d3.select("#year-choice-sub").on("click", function(event){
+  d3.event.preventDefault();
 
-// 	var giniYear = "gini" + YEAR_CHOICE;
-// 	var gdpYear = "gdp" + YEAR_CHOICE;
-// 	x.domain(d3.extent(data, function(d) { return d.values[0][gdpYear]; })) //gdp
-// 	y.domain(d3.extent(data, function(d){ return d.values[0][giniYear]; })) //gini
+  var entry = document.getElementById("year-choice").value;
 
+  if (isNaN(+entry)) {
+    alert("Enter a number")
+  } else {
+    YEAR_CHOICE = entry;
+    makeChart(DATASET)
+  }
 
-// 	makeChart(dataset);
-// }
+})
 
+//the chartmaking function with an update just takes in current dataset
+//it's set up to remove extra dots when a subsequent dataset has fewer members
 function makeChart(data){
 
 	var giniYear = "gini" + YEAR_CHOICE;
 	var gdpYear = "gdp" + YEAR_CHOICE;
 
-
-
-  	var update = svg.selectAll(".dot")
- 				  .data(data, function(d){ return d.key })
+	var update = svg.selectAll(".dot")
+				  .data(data, function(d){ return d.key })
 
 	var enter = update.enter()
-                        .append("circle")
-                        .attr("class", "dot")
-	// 				 .append("g")
+                    .append("circle")
+                    .attr("class", "dot")
 
-	// update.transition().duration(500).attr("transform", function (d, i) {
-	// 					return "translate(" + x(d.values[0][gdpYear])  + ', ' + y(d.values[0][giniYear]) + ")"
-	// 				})
-
-    update.transition().duration(500)
-        .attr("cx", function(d){ return x(d.values[0][gdpYear]); })
-        .attr("cy", function(d){ return y(d.values[0][giniYear]); })
-		.attr("r", 5)
-				
- 				
-	// update.append("text")
-	// 	.attr("class", "dot")
- // 		//.attr("x", function(d){ return x(d.values[0][gdpYear]); })
- // 		//.attr("y", function(d){ return y(d.values[0][giniYear]); })
- // 		.attr("text-anchor", "middle")
- // 		.text(function(d){ return d.values[0]["Country Name"] })
+  update.transition().duration(500)
+    .attr("cx", function(d){ return x(d.values[0][gdpYear]); })
+    .attr("cy", function(d){ return y(d.values[0][giniYear]); })
+	  .attr("r", 5)
 
  	var exit = update.exit();
 
-	// update.transition().duration(900)
- // 		.attr("cx", function(d){ return x(d.values[0][gdpYear]) })
- // 		.attr("cy", function(d){ return y(d.values[0][giniYear]) })
- 	
 	exit.remove();
-	 	
+
 }
