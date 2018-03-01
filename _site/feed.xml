@@ -4,11 +4,61 @@
     <title>JoElla Straley</title>
     <description>A place for charts and graphs.
 </description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 27 Feb 2018 21:07:50 -0500</pubDate>
-    <lastBuildDate>Tue, 27 Feb 2018 21:07:50 -0500</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 01 Mar 2018 18:05:59 -0500</pubDate>
+    <lastBuildDate>Thu, 01 Mar 2018 18:05:59 -0500</lastBuildDate>
     <generator>Jekyll v3.4.2</generator>
+    
+      <item>
+        <title>How Not To Make A Chart: Fiscal Policy Space, Take 2</title>
+        <description>&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: design, development&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tech&lt;/strong&gt;: D3, Pym.js&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://s3.amazonaws.com/fiscaldashboard/parent.html&quot;&gt;Here&lt;/a&gt; is take two on the &lt;a href=&quot;http://fiscalpolicyspace.greatcities.uic.edu/&quot;&gt;Fiscal Policy Space&lt;/a&gt; interactive (take one &lt;a href=&quot;/2018/03/01/responsive-map.html&quot;&gt;here&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;After the discovery that our audience was not buying the formula to create a set of “peer cities”, the researchers in charge decided to go with a straight presentation of the data. I had recently seen an &lt;a href=&quot;https://visual.ons.gov.uk/what-affects-an-areas-healthy-life-expectancy/&quot;&gt;interesting approach&lt;/a&gt; for showing the spread of observations on the UK’s Office for National Statistics site and thought it might work as a model. The idea was that city leaders might want to see how cities performing similarly to their own on one measure performed across all measures. In the end, this demo hit the reject pile as well.&lt;/p&gt;
+
+&lt;p&gt;I wish I could say this was an example of “fail fast”, but it was a long slow failure that took place sporadically over many months. Here’s what I would say about it in a retrospective:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What went well:&lt;/strong&gt; I created a novel and clicky, sticky presentation.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What didn’t go well:&lt;/strong&gt; On the design side, I didn’t understand what users might want to do with this product. I had no research to base my choices on, so I was mostly guessing and unable to defend my positions logically. This left me being very reactive to each round of criticism, which came from a researcher who was also guessing about what users want, not an actual user.&lt;/p&gt;
+
+&lt;p&gt;On the code side, I didn’t do a good job of controlling state or keeping things clean. I made so many tiny tweaks to satisfy whims that I gave up on best practices thinking I’d come back and fix it later. What I have now is partially responsive and probably buggy, but how would I know.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What I’d do differently next time:&lt;/strong&gt;
+Everything! Starting with an insistence on interviewing users. I’d also getting the client to be sure their message was hammered out first.&lt;/p&gt;
+
+&lt;p&gt;Click below to see it in action.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://s3.amazonaws.com/fiscaldashboard/parent.html&quot;&gt;&lt;img src=&quot;/assets/fiscal-dashboard.png&quot; alt=&quot;Peer cities chart of measures&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 01 Mar 2018 07:54:02 -0500</pubDate>
+        <link>http://localhost:4000/2018/03/01/novel-chart.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/03/01/novel-chart.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Unpublished Map: Fiscal Policy Space</title>
+        <description>&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: design, development
+&lt;strong&gt;Tech&lt;/strong&gt;: D3, Pym.js&lt;/p&gt;
+
+&lt;p&gt;This unpublished project was meant to be a simple view of stats for cities that share a similar &lt;a href=&quot;http://fiscalpolicyspace.greatcities.uic.edu/&quot;&gt;Fiscal Policy Space&lt;/a&gt;. I think the reason for its failure lies in a lack of user research (surprise!). The creators and their main audience never solidified the notion of what it means to be a “peer city” through this novel set of statistical measures. Therefore, no one was happy with the piece - except me, because this marks the first time I created a fully responsive map inside an iframe. H/t the great crew at NPR Visuals, I riffed on (stole) your table styles.&lt;/p&gt;
+
+&lt;p&gt;Click below to see it in action.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://s3.amazonaws.com/peercities/parent.html&quot;&gt;&lt;img src=&quot;/assets/peer-cities.png&quot; alt=&quot;Peer cities map and table&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 01 Mar 2018 07:53:02 -0500</pubDate>
+        <link>http://localhost:4000/2018/03/01/responsive-map.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/03/01/responsive-map.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Infographic: Self-Help Funding for Infrastructure</title>
@@ -22,8 +72,8 @@
 
 </description>
         <pubDate>Tue, 16 Jan 2018 07:53:02 -0500</pubDate>
-        <link>/2018/01/16/self-help-infrastructure.html</link>
-        <guid isPermaLink="true">/2018/01/16/self-help-infrastructure.html</guid>
+        <link>http://localhost:4000/2018/01/16/self-help-infrastructure.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/01/16/self-help-infrastructure.html</guid>
         
         
       </item>
@@ -40,8 +90,8 @@
 &lt;a href=&quot;/projects/infog-FutureEmpTrends.pdf&quot;&gt;&lt;img src=&quot;/assets/infog-FutureEmpTrends.jpg&quot; alt=&quot;Police force demographics 1987-2013&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 15 Nov 2017 07:53:02 -0500</pubDate>
-        <link>/2017/11/15/future-of-equity.html</link>
-        <guid isPermaLink="true">/2017/11/15/future-of-equity.html</guid>
+        <link>http://localhost:4000/2017/11/15/future-of-equity.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/11/15/future-of-equity.html</guid>
         
         
       </item>
@@ -59,8 +109,8 @@
 &lt;p&gt;&lt;a href=&quot;http://www.nlc.org/resource/cities-and-innovation-economy-perceptions-of-local-leaders&quot;&gt;&lt;img src=&quot;/assets/InnovEconCover.png&quot; alt=&quot;Cities and the Innovation Economy&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 18 Oct 2017 08:53:02 -0400</pubDate>
-        <link>/2017/10/18/cities-and-the-innovation-economy.html</link>
-        <guid isPermaLink="true">/2017/10/18/cities-and-the-innovation-economy.html</guid>
+        <link>http://localhost:4000/2017/10/18/cities-and-the-innovation-economy.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/10/18/cities-and-the-innovation-economy.html</guid>
         
         
       </item>
@@ -77,8 +127,8 @@
 
 </description>
         <pubDate>Thu, 25 May 2017 08:53:02 -0400</pubDate>
-        <link>/2017/05/25/state-of-the-cities.html</link>
-        <guid isPermaLink="true">/2017/05/25/state-of-the-cities.html</guid>
+        <link>http://localhost:4000/2017/05/25/state-of-the-cities.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/05/25/state-of-the-cities.html</guid>
         
         
       </item>
@@ -98,8 +148,8 @@
 &lt;p&gt;&lt;a href=&quot;http://www.nlc.org/article/employment-how-does-your-city-stack-up&quot;&gt;&lt;img src=&quot;/assets/apr-jobs-report.png&quot; alt=&quot;Chart with local government jobs data from Bureau of Labor Statistics.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 05 May 2017 08:53:02 -0400</pubDate>
-        <link>/2017/05/05/jobs-report.html</link>
-        <guid isPermaLink="true">/2017/05/05/jobs-report.html</guid>
+        <link>http://localhost:4000/2017/05/05/jobs-report.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/05/05/jobs-report.html</guid>
         
         
       </item>
@@ -117,8 +167,8 @@
 &lt;p&gt;&lt;a href=&quot;http://www.nlc.org/article/sensors-data-and-the-future-of-cities&quot;&gt;&lt;img src=&quot;/assets/connected-cities.png&quot; alt=&quot;What the Internet of Things means for cities.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 21 Apr 2017 08:53:02 -0400</pubDate>
-        <link>/2017/04/21/iot-cities.html</link>
-        <guid isPermaLink="true">/2017/04/21/iot-cities.html</guid>
+        <link>http://localhost:4000/2017/04/21/iot-cities.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/04/21/iot-cities.html</guid>
         
         
       </item>
@@ -132,8 +182,8 @@
 &lt;!-- [![Congress: Protect Programs Vital To Cities](/assets/protect-programs)]() --&gt;
 </description>
         <pubDate>Sun, 19 Mar 2017 08:53:02 -0400</pubDate>
-        <link>/2017/03/19/budget-cuts.html</link>
-        <guid isPermaLink="true">/2017/03/19/budget-cuts.html</guid>
+        <link>http://localhost:4000/2017/03/19/budget-cuts.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/03/19/budget-cuts.html</guid>
         
         
       </item>
@@ -146,43 +196,13 @@
 
 &lt;p&gt;Paid leave graphic also used by Senior Executive and Director of the Center for City Solutions’ &lt;a href=&quot;http://www.huffingtonpost.com/entry/when-cities-and-states-clash-women-and-families-suffer_us_58bfee77e4b070e55af9e988&quot;&gt;Huffington Post piece&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/minwage.png&quot; alt=&quot;States that preempt minimum wage.&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/minwage.png&quot; alt=&quot;States that preempt minimum wage.&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/ridesharing.png&quot; alt=&quot;States that preempt ride sharing.&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/ridesharing.png&quot; alt=&quot;States that preempt ride sharing.&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 17 Mar 2017 08:53:02 -0400</pubDate>
-        <link>/2017/03/17/preemption-microcontent.html</link>
-        <guid isPermaLink="true">/2017/03/17/preemption-microcontent.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Decorative Data Slides</title>
-        <description>&lt;p&gt;I was asked to design a few slides to be shown as conference attendees entered general sessions of the 2017 Congressional City Conference. My colleague Eric Howard located and mapped this data using QGIS and I designed the slides.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/college.png&quot; alt=&quot;City population over 25 with a college degree&quot; /&gt;
-&lt;img src=&quot;/assets/police.png&quot; alt=&quot;City population over 25 with a college degree&quot; /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 11 Mar 2017 10:54:02 -0500</pubDate>
-        <link>/2017/03/11/data-maps.html</link>
-        <guid isPermaLink="true">/2017/03/11/data-maps.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Where Do States Preempt City Governments?</title>
-        <description>&lt;p&gt;My new workplace, National League of Cities, advocates for municipal goverments in Washington. They also study issues that affect local government.&lt;/p&gt;
-
-&lt;p&gt;For this report I was asked to create a graphic of the 50 states showing seven policy areas where states commonly limit what individual cities can do. Click on the image for the report, &lt;em&gt;City Rights in an Era of Preemption: A State-by-State Analysis&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://nlc.org/sites/default/files/2017-02/NLC%20Preemption%20Report%202017.pdf&quot;&gt;&lt;img src=&quot;/assets/Preemption.png&quot; alt=&quot;Wheel of 50 states with preemption policies&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 22 Feb 2017 10:54:02 -0500</pubDate>
-        <link>/2017/02/22/preemption.html</link>
-        <guid isPermaLink="true">/2017/02/22/preemption.html</guid>
+        <link>http://localhost:4000/2017/03/17/preemption-microcontent.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/03/17/preemption-microcontent.html</guid>
         
         
       </item>
