@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 01 Mar 2018 18:05:59 -0500</pubDate>
-    <lastBuildDate>Thu, 01 Mar 2018 18:05:59 -0500</lastBuildDate>
+    <pubDate>Thu, 01 Mar 2018 23:06:49 -0500</pubDate>
+    <lastBuildDate>Thu, 01 Mar 2018 23:06:49 -0500</lastBuildDate>
     <generator>Jekyll v3.4.2</generator>
     
       <item>
@@ -18,20 +18,26 @@
 
 &lt;p&gt;&lt;a href=&quot;https://s3.amazonaws.com/fiscaldashboard/parent.html&quot;&gt;Here&lt;/a&gt; is take two on the &lt;a href=&quot;http://fiscalpolicyspace.greatcities.uic.edu/&quot;&gt;Fiscal Policy Space&lt;/a&gt; interactive (take one &lt;a href=&quot;/2018/03/01/responsive-map.html&quot;&gt;here&lt;/a&gt;).&lt;/p&gt;
 
-&lt;p&gt;After the discovery that our audience was not buying the formula to create a set of “peer cities”, the researchers in charge decided to go with a straight presentation of the data. I had recently seen an &lt;a href=&quot;https://visual.ons.gov.uk/what-affects-an-areas-healthy-life-expectancy/&quot;&gt;interesting approach&lt;/a&gt; for showing the spread of observations on the UK’s Office for National Statistics site and thought it might work as a model. The idea was that city leaders might want to see how cities performing similarly to their own on one measure performed across all measures. In the end, this demo hit the reject pile as well.&lt;/p&gt;
+&lt;p&gt;After the discovery that our audience was not buying the formula used to create a set of peers inside this “fiscal policy space” (cities that face similar economic and political constraints and therefore might be good sources for borrowed policy), the researchers in charge decided to go with a straight presentation of the data.&lt;/p&gt;
 
-&lt;p&gt;I wish I could say this was an example of “fail fast”, but it was a long slow failure that took place sporadically over many months. Here’s what I would say about it in a retrospective:&lt;/p&gt;
+&lt;p&gt;I had recently seen an &lt;a href=&quot;https://visual.ons.gov.uk/what-affects-an-areas-healthy-life-expectancy/&quot;&gt;interesting approach&lt;/a&gt; for showing the spread of observations on the UK’s Office for National Statistics site and thought it might work as a model. My idea was that city leaders might want to see how cities performing similarly to their own on one measure performed across all measures. But would they? Is that interesting? I had a feeling the hardest thing to get over would be the novelty of these measures. Wondering how “property tax gap” might relate to the number of taxes available to a municipality is not exactly like looking for similarities between rates of smoking, drinking and early death in UK cities.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;What went well:&lt;/strong&gt; I created a novel and clicky, sticky presentation.&lt;/p&gt;
+&lt;p&gt;In the end, this demo hit the reject pile. After months of arguing over what to highlight and slapping together prototypes to demo potential solutions, the group concluded city leaders only want to see comparisons against a stock list of rivals they keep stored in their heads. (So much for the novel set of measurements to help leaders find new, better rivals). I threw in the towel and suggested Tableau might have some nice map/table features that could be easily updated with more data in the future.&lt;/p&gt;
+
+&lt;p&gt;The whole experience made me feel like the person &lt;a href=&quot;https://abookapart.com/products/design-is-a-job&quot;&gt;Mike Montiero&lt;/a&gt; warned you about. I did everything wrong, including the way I failed: not fast like a daring, experimental hot shot, but long and slow with great stubbornness and baseless hope that things might work out.&lt;/p&gt;
+
+&lt;p&gt;It was not pretty, and I knew it was wrong at the time but I wasn’t sure how to get to a position where I could do things the right way. In the interest of learning from my mistakes, here’s what I would say about it in a retrospective:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What went well:&lt;/strong&gt; I created a cool-looking clicky, sticky presentation.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;What didn’t go well:&lt;/strong&gt; On the design side, I didn’t understand what users might want to do with this product. I had no research to base my choices on, so I was mostly guessing and unable to defend my positions logically. This left me being very reactive to each round of criticism, which came from a researcher who was also guessing about what users want, not an actual user.&lt;/p&gt;
 
-&lt;p&gt;On the code side, I didn’t do a good job of controlling state or keeping things clean. I made so many tiny tweaks to satisfy whims that I gave up on best practices thinking I’d come back and fix it later. What I have now is partially responsive and probably buggy, but how would I know.&lt;/p&gt;
+&lt;p&gt;On the code side, I didn’t do a good job of controlling state or keeping things clean. I made so many tiny tweaks to satisfy whims that I gave up on best practices thinking I’d come back and fix it later. What I have now is partially responsive (incomplete) and probably buggy, but how would I know.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;What I’d do differently next time:&lt;/strong&gt;
-Everything! Starting with an insistence on interviewing users. I’d also getting the client to be sure their message was hammered out first.&lt;/p&gt;
+Everything! Starting with an insistence on interviewing users. I’d also be better about, you know, getting the client to be sure their message was hammered out first.&lt;/p&gt;
 
-&lt;p&gt;Click below to see it in action.&lt;/p&gt;
+&lt;p&gt;Click below to see it in action (if you dare).&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://s3.amazonaws.com/fiscaldashboard/parent.html&quot;&gt;&lt;img src=&quot;/assets/fiscal-dashboard.png&quot; alt=&quot;Peer cities chart of measures&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
