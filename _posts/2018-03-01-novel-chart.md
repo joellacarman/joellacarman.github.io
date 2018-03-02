@@ -5,16 +5,18 @@ date:   2018-03-01 12:54:02
 image: /assets/fiscal-dashboard.png
 ---
 
-**Role**: design, development
+**Role**: design, development, failure at both
 
 **Tech**: D3, Pym.js
 
 
 [Here](https://s3.amazonaws.com/fiscaldashboard/parent.html) is take two on the [Fiscal Policy Space](http://fiscalpolicyspace.greatcities.uic.edu/) interactive (take one [here](/2018/03/01/responsive-map.html)). 
 
-After the discovery that our audience was not buying the formula used to create a set of peer cities inside the "fiscal policy space" (places with similar economic and political constraints that mayors could look to for policy ideas), the researchers in charge decided to go with a straight presentation of the data. 
+This project, a collaboration between National League of Cities and the University of Illinois at Chicago, seeks to document what makes a city unique from a fiscal and policy perspective. The idea is that things like limitations on local taxes have more impact on city government than the common stats used to find "peers" (population, location). Armed with this more precise understanding of their contemporaries, leaders could glean applicable policy ideas from others facing the same set of constraints.
 
-I had recently seen an [interesting approach](https://visual.ons.gov.uk/what-affects-an-areas-healthy-life-expectancy/) for showing the spread of observations on the UK's Office for National Statistics site and thought it might work as a model. My idea was that city leaders might want to see how cities performing similarly to their own on one measure performed across all measures. But would they? Is that interesting? I had a feeling the hardest thing to get over would be the novelty of these measures. Wondering how "property tax gap" might relate to "demand score" or the number of taxes available to a municipality is not exactly like looking for similarities between rates of smoking, drinking and early death in UK cities. 
+However, nothing is that simple. The original plan was to show peer groups among 100 cities, with a table of details about each. The formula yielded interesting results (Akron, OH was a peer with New York City), and city leaders weren't convinced. So the researchers in charge decided to go with a straight presentation of the data, with the idea that leaders could see the numbers and draw their own conclusion about their peers.
+
+I had recently seen an [interesting approach](https://visual.ons.gov.uk/what-affects-an-areas-healthy-life-expectancy/) for showing the spread of observations on the UK's Office for National Statistics site and thought it might work as a model. My idea was that leaders might want to see how cities performing similarly to their own on one measure performed across all measures. But would they? Is that interesting? I had a feeling the hardest thing to get over would be the novelty of these measures. Wondering how "property tax gap" relates to "demand score" or the number of taxes available to a municipality is not exactly like looking for similarities between rates of smoking, drinking and early death in UK cities. 
 
 In the end, this demo hit the reject pile. After months of arguing over what to highlight and slapping together prototypes of potential solutions, the group concluded city leaders only want to see comparisons against a stock list of rivals they keep stored in their heads. (So much for the novel set of measurements to help leaders find new, more tailored rivals). I threw in the towel and suggested Tableau might have some nice map/table features that could be easily updated with more data in the future.
 
