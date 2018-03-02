@@ -286,6 +286,10 @@ html {
   margin: 0 auto;
   padding-left: 5%;
   width: 66%; }
+  @media screen and (max-width: 600px) {
+    .post {
+      width: 100%;
+      padding-left: 0; } }
 
 .post-header {
   margin-bottom: 30px; }

@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 01 Mar 2018 23:06:49 -0500</pubDate>
-    <lastBuildDate>Thu, 01 Mar 2018 23:06:49 -0500</lastBuildDate>
+    <pubDate>Fri, 02 Mar 2018 13:50:07 -0500</pubDate>
+    <lastBuildDate>Fri, 02 Mar 2018 13:50:07 -0500</lastBuildDate>
     <generator>Jekyll v3.4.2</generator>
     
       <item>
@@ -18,11 +18,11 @@
 
 &lt;p&gt;&lt;a href=&quot;https://s3.amazonaws.com/fiscaldashboard/parent.html&quot;&gt;Here&lt;/a&gt; is take two on the &lt;a href=&quot;http://fiscalpolicyspace.greatcities.uic.edu/&quot;&gt;Fiscal Policy Space&lt;/a&gt; interactive (take one &lt;a href=&quot;/2018/03/01/responsive-map.html&quot;&gt;here&lt;/a&gt;).&lt;/p&gt;
 
-&lt;p&gt;After the discovery that our audience was not buying the formula used to create a set of peers inside this “fiscal policy space” (cities that face similar economic and political constraints and therefore might be good sources for borrowed policy), the researchers in charge decided to go with a straight presentation of the data.&lt;/p&gt;
+&lt;p&gt;After the discovery that our audience was not buying the formula used to create a set of peer cities inside the “fiscal policy space” (places with similar economic and political constraints that mayors could look to for policy ideas), the researchers in charge decided to go with a straight presentation of the data.&lt;/p&gt;
 
-&lt;p&gt;I had recently seen an &lt;a href=&quot;https://visual.ons.gov.uk/what-affects-an-areas-healthy-life-expectancy/&quot;&gt;interesting approach&lt;/a&gt; for showing the spread of observations on the UK’s Office for National Statistics site and thought it might work as a model. My idea was that city leaders might want to see how cities performing similarly to their own on one measure performed across all measures. But would they? Is that interesting? I had a feeling the hardest thing to get over would be the novelty of these measures. Wondering how “property tax gap” might relate to the number of taxes available to a municipality is not exactly like looking for similarities between rates of smoking, drinking and early death in UK cities.&lt;/p&gt;
+&lt;p&gt;I had recently seen an &lt;a href=&quot;https://visual.ons.gov.uk/what-affects-an-areas-healthy-life-expectancy/&quot;&gt;interesting approach&lt;/a&gt; for showing the spread of observations on the UK’s Office for National Statistics site and thought it might work as a model. My idea was that city leaders might want to see how cities performing similarly to their own on one measure performed across all measures. But would they? Is that interesting? I had a feeling the hardest thing to get over would be the novelty of these measures. Wondering how “property tax gap” might relate to “demand score” or the number of taxes available to a municipality is not exactly like looking for similarities between rates of smoking, drinking and early death in UK cities.&lt;/p&gt;
 
-&lt;p&gt;In the end, this demo hit the reject pile. After months of arguing over what to highlight and slapping together prototypes to demo potential solutions, the group concluded city leaders only want to see comparisons against a stock list of rivals they keep stored in their heads. (So much for the novel set of measurements to help leaders find new, better rivals). I threw in the towel and suggested Tableau might have some nice map/table features that could be easily updated with more data in the future.&lt;/p&gt;
+&lt;p&gt;In the end, this demo hit the reject pile. After months of arguing over what to highlight and slapping together prototypes of potential solutions, the group concluded city leaders only want to see comparisons against a stock list of rivals they keep stored in their heads. (So much for the novel set of measurements to help leaders find new, more tailored rivals). I threw in the towel and suggested Tableau might have some nice map/table features that could be easily updated with more data in the future.&lt;/p&gt;
 
 &lt;p&gt;The whole experience made me feel like the person &lt;a href=&quot;https://abookapart.com/products/design-is-a-job&quot;&gt;Mike Montiero&lt;/a&gt; warned you about. I did everything wrong, including the way I failed: not fast like a daring, experimental hot shot, but long and slow with great stubbornness and baseless hope that things might work out.&lt;/p&gt;
 
