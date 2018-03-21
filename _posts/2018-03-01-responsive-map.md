@@ -5,11 +5,22 @@ date:   2018-03-01 12:53:02
 image: /assets/peer-cities.png
 ---
 
-**Role**: design, development
+**Role**: design, development, editing
+
 **Tech**: D3, Pym.js
 
-This unpublished project was meant to be a simple view of stats for cities that share a similar [Fiscal Policy Space](http://fiscalpolicyspace.greatcities.uic.edu/). I think the reason for its failure lies in a lack of user research (surprise!). The creators and their main audience never solidified the notion of what it means to be a "peer city" through this novel set of statistical measures. Therefore, no one was happy with the piece - except me, because this marks the first time I created a fully responsive map inside an iframe. H/t the great crew at NPR Visuals, I riffed on (stole) your table styles.
+This unpublished project was meant to be a simple view of stats for cities that share a similar [Fiscal Policy Space](http://fiscalpolicyspace.greatcities.uic.edu/). However, the team encountered some issues defining what it means to be a "peer city" through this novel set of statistical measures and we canned the approach. 
 
-Click below to see it in action.
+For me the project was still a success because it marks the first time I created a fully responsive map inside an iframe. 
 
-[![Peer cities map and table](/assets/peer-cities.png)](https://s3.amazonaws.com/peercities/parent.html)
+H/t the great crew at NPR Visuals, I riffed on (stole) your table styles.
+
+{% raw %}
+  <div class="wrapper">
+    <div id="iframe-here"></div>
+  </div>
+  <script src="https://pym.nprapps.org/pym.v1.js" type="text/javascript"></script>
+  <script>
+      var pymParent = new pym.Parent("iframe-here", "https://s3.amazonaws.com/peercities/index.html", {});
+  </script>
+{% endraw %}
