@@ -33,7 +33,7 @@ I'm not sure presenting the statistics in isolation like this would be meaningfu
 
 **Conclusion: Gone But Not Forgotten**
 
-Needless to say, this demo hit the reject pile. I still include it in my collection of work because I think it's an interesting riff on the work already done by the UK Office for National Statistics. With more familiar measures or better explanation of the ones that are there, I think the approach could work.
+This demo hit the reject pile. I still include it in my collection of work because I think it's an interesting riff on the work already done by the UK Office for National Statistics. With more familiar measures or better explanation of the ones that are there, I think the approach could work.
 
 
 
