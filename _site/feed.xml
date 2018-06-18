@@ -1,53 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>JoElla Straley</title>
+    <title>JoElla Carman</title>
     <description>A place for charts and graphs.
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 20 Mar 2018 20:26:37 -0400</pubDate>
-    <lastBuildDate>Tue, 20 Mar 2018 20:26:37 -0400</lastBuildDate>
-    <generator>Jekyll v3.4.2</generator>
+    <pubDate>Mon, 18 Jun 2018 14:05:55 -0400</pubDate>
+    <lastBuildDate>Mon, 18 Jun 2018 14:05:55 -0400</lastBuildDate>
+    <generator>Jekyll v3.8.3</generator>
     
       <item>
-        <title>How Not to Make a Chart: Fiscal Policy Space, Take 2</title>
-        <description>&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: design, development, client management&lt;/p&gt;
+        <title>Fiscal Policy Space, Take 2</title>
+        <description>&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: design, development&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Tech&lt;/strong&gt;: D3, Pym.js&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;#the-project&quot;&gt;Skip Ahead to the Project&lt;/a&gt;&lt;/p&gt;
-
 &lt;p&gt;&lt;a href=&quot;https://s3.amazonaws.com/fiscaldashboard/parent.html&quot;&gt;Here&lt;/a&gt; is take two on the &lt;a href=&quot;http://fiscalpolicyspace.greatcities.uic.edu/&quot;&gt;Fiscal Policy Space&lt;/a&gt; interactive (take one &lt;a href=&quot;/2018/03/01/responsive-map.html&quot;&gt;here&lt;/a&gt;).&lt;/p&gt;
 
-&lt;p&gt;This project, a collaboration between National League of Cities and the University of Illinois at Chicago, seeks to document what makes a city unique from a fiscal and policy perspective. The idea is that things like limitations on local taxes are more core to a city’s identity than common ways of describing similar cities (population or location, for example). This better definition of “peer” could help leaders more easily find solutions for their own issues, since they would now know where to look for governments working within the same constraints.&lt;/p&gt;
+&lt;p&gt;This project, a collaboration between National League of Cities and the University of Illinois at Chicago, seeks to define peer cities from a fiscal and policy perspective, putting leaders in touch with other cities that are truly similar. It may seem the way to find similar cities already exists, go by population size or geography, for example. But these are not always the most useful.&lt;/p&gt;
+
+&lt;p&gt;Consider a big city with a big budget. It may have an overall budget number that looks like other cities its size, but if it has numerous constraints on local taxes and a population with low expectations of government services, an expansion of the parks program is unlikely to be a hit here just because it worked well somewhere with a similar population size.&lt;/p&gt;
+
+&lt;p&gt;By collecting statistics that describe this “fiscal policy space” (tax law, tax application, citizen expectation) the project can help make more accurate predictions about which policy solutions might be successfully imported from where.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Defining Peers: Not So Easy&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;The &lt;a href=&quot;/2018/03/01/responsive-map.html&quot;&gt;original plan&lt;/a&gt; for this project was to show peer groups among 100 cities, with a table of details about each. But nothing is that simple. The “peer” formula yielded interesting results (Akron, OH was a peer with New York City), and city leaders weren’t convinced. So the researchers in charge decided to go with a straight presentation of the data, allowing leaders to draw their own conclusions.&lt;/p&gt;
+&lt;p&gt;The project promises new insights into what makes cities similar and when put into action it really delivers. Medium and large cities found themselves grouped together, Akron, OH and New York City, for example. The results look confusing when we’re accustomed to seeing peers in terms of population size alone.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Take Two: Simplifying Peers&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In this case, it was too confusing so the &lt;a href=&quot;/2018/03/01/responsive-map.html&quot;&gt;original plan&lt;/a&gt; to show peer groups among 100 cities, with a table of details about each, was scrapped. The research team decided for now they’d prefer a straight presentation of the data, allowing leaders to draw their own conclusions.&lt;/p&gt;
 
-&lt;p&gt;I had recently seen an &lt;a href=&quot;https://visual.ons.gov.uk/what-affects-an-areas-healthy-life-expectancy/&quot;&gt;interesting approach&lt;/a&gt; for showing the spread of observations on the UK’s Office for National Statistics site and thought it might work as a model here. We could enable leaders to see how cities performing similarly to their own on one measure performed across all measures and maybe there would be a pattern! But would they care? Is that useful? I had a feeling the hardest thing to get over would be the novelty of these measures. Wondering how “property tax gap” relates to “demand score” or the number of taxes available to a municipality is not exactly like looking for similarities between rates of smoking, drinking and early death in UK cities.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Take Two: Simplifying&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;In the end, this demo hit the reject pile. After months of arguing over what to highlight and slapping together prototypes of potential solutions, the group concluded city leaders only want to compare performance against a stock list of rivals they keep stored in their heads. (So much for the novel set of measurements to help leaders find new, more tailored rivals).&lt;/p&gt;
+&lt;p&gt;I had recently seen an &lt;a href=&quot;https://visual.ons.gov.uk/what-affects-an-areas-healthy-life-expectancy/&quot;&gt;interesting approach&lt;/a&gt; for showing the spread of observations on the UK’s Office for National Statistics site and thought it might work as a model here. We could enable leaders to see how cities performing similarly to their own on one measure performed across all measures.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;A Peerless Failure: Reflections&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Still, the main challenge seemed to me to be the novelty of these measures. Wondering how “property tax gap” relates to “demand score” is not exactly like looking for similarities between rates of smoking, drinking and early death in UK cities.&lt;/p&gt;
 
-&lt;p&gt;The whole experience made me feel like the person &lt;a href=&quot;https://abookapart.com/products/design-is-a-job&quot;&gt;Mike Montiero&lt;/a&gt; warned you about. I did everything wrong, including the way I failed: not fast like a daring, experimental hot shot, but long and slow with great stubbornness and baseless hope that things might work out.&lt;/p&gt;
+&lt;p&gt;I’m not sure presenting the statistics in isolation like this would be meaningful to anyone. My hope for the charts I’ve built below is that they might someday be incorporated into a post on the data behind the measures. They could help give some life to the explanation.&lt;/p&gt;
 
-&lt;p&gt;It was not pretty, and I knew it was wrong at the time but I wasn’t sure how to get to a position where I could do things the right way. It now seems the best I can do is learn from my mistakes, so here’s what I would say about the project in a retrospective:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusion: Gone But Not Forgotten&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;What went well:&lt;/strong&gt; I created a cool-looking clicky, sticky presentation.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;What didn’t go well:&lt;/strong&gt; On the design side, I didn’t understand what users might want to do with this product. I had no research to base my choices on, so I was mostly guessing and unable to truly defend my positions. This left me being very reactive to each round of criticism, which came from a researcher who was also guessing about what users want, not an actual user.&lt;/p&gt;
-
-&lt;p&gt;On the code side, I didn’t do a good job of controlling state or keeping things clean. I made so many tiny tweaks to satisfy whims that I gave up on best practices thinking I’d come back and fix it later. What I have now is partially responsive (incomplete) and probably buggy.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;What I’d do differently next time:&lt;/strong&gt;
-Everything! Starting with an insistence on interviewing users. I’d also be better about getting the client to be sure their message was hammered out first.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-project&quot;&gt;The Project&lt;/h2&gt;
+&lt;p&gt;Needless to say, this demo hit the reject pile. I still include it in my collection of work because I think it’s an interesting riff on the work already done by the UK Office for National Statistics. With more familiar measures or better explanation of the ones that are there, I think the approach could work.&lt;/p&gt;
 
 &lt;div class=&quot;wrapper&quot;&gt;
     &lt;div id=&quot;iframe-here&quot;&gt;&lt;/div&gt;
@@ -144,8 +137,8 @@ Everything! Starting with an insistence on interviewing users. I’d also be bet
 &lt;p&gt;&lt;a href=&quot;http://www.nlc.org/resource/cities-and-innovation-economy-perceptions-of-local-leaders&quot;&gt;&lt;img src=&quot;/assets/InnovEconCover.png&quot; alt=&quot;Cities and the Innovation Economy&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 18 Oct 2017 08:53:02 -0400</pubDate>
-        <link>http://localhost:4000/2017/10/18/cities-and-the-innovation-economy.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/10/18/cities-and-the-innovation-economy.html</guid>
+        <link>http://localhost:4000/2017/10/18/Cities-and-the-Innovation-Economy.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/10/18/Cities-and-the-Innovation-Economy.html</guid>
         
         
       </item>
@@ -162,8 +155,8 @@ Everything! Starting with an insistence on interviewing users. I’d also be bet
 
 </description>
         <pubDate>Thu, 25 May 2017 08:53:02 -0400</pubDate>
-        <link>http://localhost:4000/2017/05/25/state-of-the-cities.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/05/25/state-of-the-cities.html</guid>
+        <link>http://localhost:4000/2017/05/25/State-of-the-Cities.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/05/25/State-of-the-Cities.html</guid>
         
         
       </item>
