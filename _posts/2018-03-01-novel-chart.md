@@ -16,19 +16,21 @@ What does it mean for cities to be alike? Are they the same size, in the same re
 The National League of Cities and the University of Illinois at Chicago are collaborating on a  project to do just that: define peer cities from a fiscal and policy perspective. And I got to work on some visuals to present the data.
 
 **When Your Peer Doesn't Look Like You**
+
 The original presentation requested by the team was a straightforward map and table. Click on a city and see its peers along with their data. Simple from a data-presentation perspective, but not simple in overall theory and we lost our audience with novel pairings such as New York City and Akron, OH. 
 
-Instead, as a transitional approach to this new way of seeing, the research team suggested just surfacing the data points they'd created and allowing viewers to draw their own conclusions, rather than assigning peers.
+Instead, as a transitional approach to this new way of seeing, the research team suggested just surfacing the data points they'd created and allow viewers to draw their own conclusions.
 
-**A Good Model for Presenting Observations**
-I had recently seen an [interesting approach](https://visual.ons.gov.uk/what-affects-an-areas-healthy-life-expectancy/) for showing a data set's spread on the UK’s Office for National Statistics site and thought it might work as a model here. We could enable leaders to see how cities performing similarly to their own on one measure performed across all measures. 
+**A Good Model**
+
+I had recently seen an [interesting approach](https://visual.ons.gov.uk/what-affects-an-areas-healthy-life-expectancy/) for showing a data set's spread on the UK’s Office for National Statistics site and thought it might work as a model here. We could expand on the close-scoring cities to enable leaders to see how those cities did across all other measures. Perhaps they would notice patterns or find something unexpected. But this approach got scrapped as well in favor of something that simply allows the user to pick their set of typical comparison cities and see results only for them.
 
 **Looking Forward**
-The main challenge seemed to me to be the novelty of these measures. Wondering how “property tax gap” relates to “demand score” is not exactly like looking for similarities between rates of smoking, drinking and early death in UK cities. 
+The main challenge with this project seems to me to be novelty. Wondering how “property tax gap” relates to “demand score” is not exactly like looking for similarities between rates of smoking, drinking and early death in UK cities. I think any approach to visualizing this data needs to keep that in mind.
 
-I'm not sure presenting the statistics in isolation like this would be meaningful to anyone. My hope for the charts I've built below is that they might someday be incorporated into a post on the data behind the measures. They could help give some life to the explanation.
+My hope for the charts I've built below is that they might someday be incorporated into a post on the thinking and data points behind these composite scores. The interactive charts could be used to facilitate explanation and help give some life to the explanation.
 
-Though this work has not been "published" I still include it in my collection of work because I think it's an interesting riff on the work already done by the UK Office for National Statistics. With more familiar measures or better explanation of the ones that are there, I think it could work.
+Though this work has not been "published" I still include it in my collection because I think it's an interesting riff on what the UK Office for National Statistics did. With more familiar measures or better explanation of the ones that are there, I think it could work.
 
 
 
