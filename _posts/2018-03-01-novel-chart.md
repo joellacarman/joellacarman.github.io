@@ -11,29 +11,24 @@ image: /assets/fiscal-dashboard.png
 
 [Here](https://s3.amazonaws.com/fiscaldashboard/parent.html) is take two on the [Fiscal Policy Space](http://fiscalpolicyspace.greatcities.uic.edu/) interactive (take one [here](/2018/03/01/responsive-map.html)). 
 
-This project, a collaboration between National League of Cities and the University of Illinois at Chicago, seeks to define peer cities from a fiscal and policy perspective, putting leaders in touch with other cities that are truly similar. It may seem the way to find similar cities already exists, go by population size or geography, for example. But these are not always the most useful.
+What does it mean for cities to be alike? Are they the same size, in the same region? Are there other identifiers that could help policy makers zero in on locations that have successfully faced issues similar to their own? 
 
-Consider a big city with a big budget. It may have an overall budget number that looks like other cities its size, but if it has numerous constraints on local taxes and a population with low expectations of government services, an expansion of the parks program is unlikely to be a hit here just because it worked well somewhere with a similar population size. 
+The National League of Cities and the University of Illinois at Chicago are collaborating on a  project to do just that: define peer cities from a fiscal and policy perspective. And I got to work on some visuals to present the data.
 
-By collecting statistics that describe this "fiscal policy space" (tax law, tax application, citizen expectation) the project can help make more accurate predictions about which policy solutions might be successfully imported from where.
+**When Your Peer Doesn't Look Like You**
+The original presentation requested by the team was a straightforward map and table. Click on a city and see its peers along with their data. Simple from a data-presentation perspective, but not simple in overall theory and we lost our audience with novel pairings such as New York City and Akron, OH. 
 
-**Defining Peers: Not So Easy**
+Instead, as a transitional approach to this new way of seeing, the research team suggested just surfacing the data points they'd created and allowing viewers to draw their own conclusions, rather than assigning peers.
 
-The project promises new insights into what makes cities similar and when put into action it really delivers. Medium and large cities found themselves grouped together, Akron, OH and New York City, for example. The results look confusing when we're accustomed to seeing peers in terms of population size alone. 
+**A Good Model for Presenting Observations**
+I had recently seen an [interesting approach](https://visual.ons.gov.uk/what-affects-an-areas-healthy-life-expectancy/) for showing a data set's spread on the UK’s Office for National Statistics site and thought it might work as a model here. We could enable leaders to see how cities performing similarly to their own on one measure performed across all measures. 
 
-In this case, it was too confusing so the [original plan](/2018/03/01/responsive-map.html) to show peer groups among 100 cities, with a table of details about each, was scrapped. The research team decided for now they'd prefer a straight presentation of the data, allowing leaders to draw their own conclusions.
-
-**Take Two: Simplifying**
-
-I had recently seen an [interesting approach](https://visual.ons.gov.uk/what-affects-an-areas-healthy-life-expectancy/) for showing the spread of observations on the UK’s Office for National Statistics site and thought it might work as a model here. We could enable leaders to see how cities performing similarly to their own on one measure performed across all measures. 
-
-Still, the main challenge seemed to me to be the novelty of these measures. Wondering how “property tax gap” relates to “demand score” is not exactly like looking for similarities between rates of smoking, drinking and early death in UK cities. 
+**Looking Forward**
+The main challenge seemed to me to be the novelty of these measures. Wondering how “property tax gap” relates to “demand score” is not exactly like looking for similarities between rates of smoking, drinking and early death in UK cities. 
 
 I'm not sure presenting the statistics in isolation like this would be meaningful to anyone. My hope for the charts I've built below is that they might someday be incorporated into a post on the data behind the measures. They could help give some life to the explanation.
 
-**Conclusion: Gone But Not Forgotten**
-
-This demo hit the reject pile. I still include it in my collection of work because I think it's an interesting riff on the work already done by the UK Office for National Statistics. With more familiar measures or better explanation of the ones that are there, I think the approach could work.
+Though this work has not been "published" I still include it in my collection of work because I think it's an interesting riff on the work already done by the UK Office for National Statistics. With more familiar measures or better explanation of the ones that are there, I think it could work.
 
 
 
