@@ -284,8 +284,8 @@ html {
  */
 .post {
   margin: 0 auto;
-  padding-left: 5%;
-  width: 66%; }
+  width: 66%;
+  max-width: 700px; }
   @media screen and (max-width: 600px) {
     .post {
       width: 100%;

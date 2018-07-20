@@ -170,8 +170,8 @@ html {
 
 .post {
   margin: 0 auto;
-  padding-left: 5%;
   width: 66%;
+  max-width: 700px;
 
     @include media-query($on-palm) {
         width: 100%;

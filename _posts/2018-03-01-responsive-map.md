@@ -16,7 +16,7 @@ For me the project was still a success because it marks the first time I created
 H/t the great crew at NPR Visuals, I riffed on (stole) your table styles.
 
 {% raw %}
-  <div class="wrapper">
+  <div>
     <div id="iframe-here"></div>
   </div>
   <script src="https://pym.nprapps.org/pym.v1.js" type="text/javascript"></script>

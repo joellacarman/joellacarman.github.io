@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 18 Jun 2018 14:05:55 -0400</pubDate>
-    <lastBuildDate>Mon, 18 Jun 2018 14:05:55 -0400</lastBuildDate>
+    <pubDate>Fri, 20 Jul 2018 15:33:33 -0400</pubDate>
+    <lastBuildDate>Fri, 20 Jul 2018 15:33:33 -0400</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
     
       <item>
@@ -18,31 +18,29 @@
 
 &lt;p&gt;&lt;a href=&quot;https://s3.amazonaws.com/fiscaldashboard/parent.html&quot;&gt;Here&lt;/a&gt; is take two on the &lt;a href=&quot;http://fiscalpolicyspace.greatcities.uic.edu/&quot;&gt;Fiscal Policy Space&lt;/a&gt; interactive (take one &lt;a href=&quot;/2018/03/01/responsive-map.html&quot;&gt;here&lt;/a&gt;).&lt;/p&gt;
 
-&lt;p&gt;This project, a collaboration between National League of Cities and the University of Illinois at Chicago, seeks to define peer cities from a fiscal and policy perspective, putting leaders in touch with other cities that are truly similar. It may seem the way to find similar cities already exists, go by population size or geography, for example. But these are not always the most useful.&lt;/p&gt;
+&lt;p&gt;What does it mean for cities to be alike? Are they the same size, in the same region? Are there other identifiers that could help policy makers zero in on locations that have tackled issues similar to their own?&lt;/p&gt;
 
-&lt;p&gt;Consider a big city with a big budget. It may have an overall budget number that looks like other cities its size, but if it has numerous constraints on local taxes and a population with low expectations of government services, an expansion of the parks program is unlikely to be a hit here just because it worked well somewhere with a similar population size.&lt;/p&gt;
+&lt;p&gt;The National League of Cities and the University of Illinois at Chicago are collaborating on a  project to do just that: define peer cities from a fiscal and policy perspective. And I got to work on some visuals to present the data.&lt;/p&gt;
 
-&lt;p&gt;By collecting statistics that describe this “fiscal policy space” (tax law, tax application, citizen expectation) the project can help make more accurate predictions about which policy solutions might be successfully imported from where.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Peers That Seem… Different&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Defining Peers: Not So Easy&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&quot;/2018/03/01/responsive-map.html&quot;&gt;original presentation&lt;/a&gt; requested by the team was a straightforward map and table. Click on a city and see its peers along with their data. Simple from a data-presentation perspective, but not simple in overall theory and we lost our audience with novel pairings such as New York City and Akron, OH.&lt;/p&gt;
 
-&lt;p&gt;The project promises new insights into what makes cities similar and when put into action it really delivers. Medium and large cities found themselves grouped together, Akron, OH and New York City, for example. The results look confusing when we’re accustomed to seeing peers in terms of population size alone.&lt;/p&gt;
+&lt;p&gt;Instead, as a transitional approach to this new way of seeing, the research team suggested just surfacing the data points they’d created and allow viewers to draw their own conclusions.&lt;/p&gt;
 
-&lt;p&gt;In this case, it was too confusing so the &lt;a href=&quot;/2018/03/01/responsive-map.html&quot;&gt;original plan&lt;/a&gt; to show peer groups among 100 cities, with a table of details about each, was scrapped. The research team decided for now they’d prefer a straight presentation of the data, allowing leaders to draw their own conclusions.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Changing Course&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Take Two: Simplifying&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I had recently seen an &lt;a href=&quot;https://visual.ons.gov.uk/what-affects-an-areas-healthy-life-expectancy/&quot;&gt;interesting approach&lt;/a&gt; for showing a data set’s spread on the UK’s Office for National Statistics site and thought it might work as a model here. We could expand on the close-scoring cities to enable leaders to see how those cities did across all other measures. Perhaps they would notice patterns or find something unexpected. But this approach got scrapped as well in favor of something that simply allows the user to pick their set of typical comparison cities and see results only for them.&lt;/p&gt;
 
-&lt;p&gt;I had recently seen an &lt;a href=&quot;https://visual.ons.gov.uk/what-affects-an-areas-healthy-life-expectancy/&quot;&gt;interesting approach&lt;/a&gt; for showing the spread of observations on the UK’s Office for National Statistics site and thought it might work as a model here. We could enable leaders to see how cities performing similarly to their own on one measure performed across all measures.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Looking Forward&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Still, the main challenge seemed to me to be the novelty of these measures. Wondering how “property tax gap” relates to “demand score” is not exactly like looking for similarities between rates of smoking, drinking and early death in UK cities.&lt;/p&gt;
+&lt;p&gt;The main challenge with this project seems to me to be novelty. Wondering how “property tax gap” relates to “demand score” is not exactly like looking for similarities between rates of smoking, drinking and early death in UK cities. I think any approach to visualizing this data needs to keep that in mind.&lt;/p&gt;
 
-&lt;p&gt;I’m not sure presenting the statistics in isolation like this would be meaningful to anyone. My hope for the charts I’ve built below is that they might someday be incorporated into a post on the data behind the measures. They could help give some life to the explanation.&lt;/p&gt;
+&lt;p&gt;My hope for the charts I’ve built below is that they might someday be incorporated into a post on the thinking and data points behind these composite scores. The interactive charts could be used to facilitate explanation and help give some life to the piece.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Conclusion: Gone But Not Forgotten&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Though this work has not been “published” I still include it in my collection because I think it’s an interesting riff on what the UK Office for National Statistics did. With more familiar measures or better explanation of the ones that are there, I think it could work.&lt;/p&gt;
 
-&lt;p&gt;Needless to say, this demo hit the reject pile. I still include it in my collection of work because I think it’s an interesting riff on the work already done by the UK Office for National Statistics. With more familiar measures or better explanation of the ones that are there, I think the approach could work.&lt;/p&gt;
-
-&lt;div class=&quot;wrapper&quot;&gt;
+&lt;div&gt;
     &lt;div id=&quot;iframe-here&quot;&gt;&lt;/div&gt;
   &lt;/div&gt;
 &lt;script src=&quot;https://pym.nprapps.org/pym.v1.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
@@ -71,7 +69,7 @@
 
 &lt;p&gt;H/t the great crew at NPR Visuals, I riffed on (stole) your table styles.&lt;/p&gt;
 
-&lt;div class=&quot;wrapper&quot;&gt;
+&lt;div&gt;
     &lt;div id=&quot;iframe-here&quot;&gt;&lt;/div&gt;
   &lt;/div&gt;
 &lt;script src=&quot;https://pym.nprapps.org/pym.v1.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
@@ -92,7 +90,7 @@
         <title>Infographic: Self-Help Funding for Infrastructure</title>
         <description>&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: design&lt;/p&gt;
 
-&lt;p&gt;This piece shows the uneven playing field for cities being asked to raise their own funds for infrastructure projects. Many cities lack anything resembling full control over revenue generation through taxes and public-private partnerships.&lt;/p&gt;
+&lt;p&gt;A federal infrastructure package that asks cities to raise the funds as an “ante” is unfair. Each city in the US operates under a unique set of laws. They do not share same ability to raise funds through taxes, public-private partnerships, and other means. The chart below shows how different the path to “self-help” is for 15 sample cities.&lt;/p&gt;
 
 &lt;p&gt;Click below to see the full piece.&lt;/p&gt;
 
@@ -128,9 +126,9 @@
         <title>Cities and the Innovation Economy</title>
         <description>&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: cover design, report layout&lt;/p&gt;
 
-&lt;p&gt;What made this cover a challenge was that the concepts it illustrates are invisible, and also hugely consequential to daily life. That’s right, what I’m talking about is basically the Internet and all the apps and connected sensors and devices it enables.&lt;/p&gt;
+&lt;p&gt;This cover was a challenge. The main concepts of the report are invisible but hugely consequential to daily life (basically the Internet and all the apps and connected sensors and devices it enables).&lt;/p&gt;
 
-&lt;p&gt;Straight photography is important to the branding of projects like these, so rather than illustrate these abstract concepts I highlighted parts of an everyday view that might belong in this “innovation economy”.&lt;/p&gt;
+&lt;p&gt;Straight photography is important to the branding of projects like these, so rather than illustrate these abstract concepts I highlighted parts of an everyday view that might belong in this “innovation economy” resulting in a quick and easy take on the main idea.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;(http://www.nlc.org/resource/cities-and-innovation-economy-perceptions-of-local-leaders)&quot;&gt;Full report here&lt;/a&gt;&lt;/p&gt;
 

@@ -36,7 +36,7 @@ Though this work has not been "published" I still include it in my collection be
 
 
 {% raw %}
-  <div class="wrapper">
+  <div>
     <div id="iframe-here"></div>
   </div>
   <script src="https://pym.nprapps.org/pym.v1.js" type="text/javascript"></script>
