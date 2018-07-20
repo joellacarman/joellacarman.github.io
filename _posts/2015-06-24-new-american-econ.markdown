@@ -12,4 +12,4 @@ image: /assets/elexmap.png
 
 **Technology**: d3, Grunt
 
-This is the [first interactive](http://www.renewoureconomy.org/voterinteractive/) I worked on as for a client. I was the main developer on the project, with guidance from my excellent colleague, Reed Spool, for which I will always be grateful. I got a lot better at d3 and JavaScript after this project!
+This is the [first interactive](http://www.renewoureconomy.org/voterinteractive/) I worked on as for a client. I was the main developer on the project, with guidance from my excellent colleague, Reed Spool, for which I will always be grateful. I got a lot better at d3 and JavaScript because of this project!

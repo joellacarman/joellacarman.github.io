@@ -4,13 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I'm a graphic designer in Washington, D.C. I work with the team at the National League of Cities.  
+I’m a graphic designer in Washington, D.C. I work with the team at the National League of Cities making data visualizations, interactive work (I also code), assorted web graphics, print work and copywriting for marketing pieces. 
 
-Previously I worked as a news librarian at NPR where I learned the fine art of digging and a love for all things esoteric and number-related. 
+Previously I worked as a librarian at NPR. I’ve retained a healthy need to dig from my time in the newsroom. I can be counted on to find out *why*, and to spot things that don’t quite add up. 
 
-I've spent the years since NPR learning how to bring visual structures to stories, create graphics that engage, and develop data visualizations that function well across devices.
-
-Thanks for looking at my work, DM me on Twitter if you'd like: @jestraley.
+My goal is to bring these various talents together to tell important stories. If you think I could help with yours, reach out: jstraley@gmail.com.
 
 
 

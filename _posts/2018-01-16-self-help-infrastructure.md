@@ -7,7 +7,7 @@ image: /assets/infog-SelfHelp.png
 
 **Role**: design
 
-This piece shows the uneven playing field for cities being asked to raise their own funds for infrastructure projects. Many cities lack anything resembling full control over revenue generation through taxes and public-private partnerships.
+A federal infrastructure package that asks cities to raise the funds as an “ante” is unfair. Each city in the US operates under a unique set of laws. They do not share same ability to raise funds through taxes, public-private partnerships, and other means. The chart below shows how different the path to “self-help” is for 15 sample cities.
 
 Click below to see the full piece.
 
