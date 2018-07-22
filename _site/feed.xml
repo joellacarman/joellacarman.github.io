@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 20 Jul 2018 15:33:33 -0400</pubDate>
-    <lastBuildDate>Fri, 20 Jul 2018 15:33:33 -0400</lastBuildDate>
+    <pubDate>Sun, 22 Jul 2018 10:00:03 -0400</pubDate>
+    <lastBuildDate>Sun, 22 Jul 2018 10:00:03 -0400</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
     
       <item>
@@ -18,27 +18,11 @@
 
 &lt;p&gt;&lt;a href=&quot;https://s3.amazonaws.com/fiscaldashboard/parent.html&quot;&gt;Here&lt;/a&gt; is take two on the &lt;a href=&quot;http://fiscalpolicyspace.greatcities.uic.edu/&quot;&gt;Fiscal Policy Space&lt;/a&gt; interactive (take one &lt;a href=&quot;/2018/03/01/responsive-map.html&quot;&gt;here&lt;/a&gt;).&lt;/p&gt;
 
-&lt;p&gt;What does it mean for cities to be alike? Are they the same size, in the same region? Are there other identifiers that could help policy makers zero in on locations that have tackled issues similar to their own?&lt;/p&gt;
+&lt;p&gt;What does it mean for cities to be alike? Are they the same size, in the same region? Are there other identifiers that are more meaningful?&lt;/p&gt;
 
-&lt;p&gt;The National League of Cities and the University of Illinois at Chicago are collaborating on a  project to do just that: define peer cities from a fiscal and policy perspective. And I got to work on some visuals to present the data.&lt;/p&gt;
+&lt;p&gt;The National League of Cities and the University of Illinois at Chicago are collaborating on a  project to help city leaders find other places like their own. Using statistical analysis, they’ve created values that indicate likeness from a fiscal and policy perspective. And I got to work on some visuals to present the data.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Peers That Seem… Different&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The &lt;a href=&quot;/2018/03/01/responsive-map.html&quot;&gt;original presentation&lt;/a&gt; requested by the team was a straightforward map and table. Click on a city and see its peers along with their data. Simple from a data-presentation perspective, but not simple in overall theory and we lost our audience with novel pairings such as New York City and Akron, OH.&lt;/p&gt;
-
-&lt;p&gt;Instead, as a transitional approach to this new way of seeing, the research team suggested just surfacing the data points they’d created and allow viewers to draw their own conclusions.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Changing Course&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;I had recently seen an &lt;a href=&quot;https://visual.ons.gov.uk/what-affects-an-areas-healthy-life-expectancy/&quot;&gt;interesting approach&lt;/a&gt; for showing a data set’s spread on the UK’s Office for National Statistics site and thought it might work as a model here. We could expand on the close-scoring cities to enable leaders to see how those cities did across all other measures. Perhaps they would notice patterns or find something unexpected. But this approach got scrapped as well in favor of something that simply allows the user to pick their set of typical comparison cities and see results only for them.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Looking Forward&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The main challenge with this project seems to me to be novelty. Wondering how “property tax gap” relates to “demand score” is not exactly like looking for similarities between rates of smoking, drinking and early death in UK cities. I think any approach to visualizing this data needs to keep that in mind.&lt;/p&gt;
-
-&lt;p&gt;My hope for the charts I’ve built below is that they might someday be incorporated into a post on the thinking and data points behind these composite scores. The interactive charts could be used to facilitate explanation and help give some life to the piece.&lt;/p&gt;
-
-&lt;p&gt;Though this work has not been “published” I still include it in my collection because I think it’s an interesting riff on what the UK Office for National Statistics did. With more familiar measures or better explanation of the ones that are there, I think it could work.&lt;/p&gt;
+&lt;p&gt;(Discussion of the project follows).&lt;/p&gt;
 
 &lt;div&gt;
     &lt;div id=&quot;iframe-here&quot;&gt;&lt;/div&gt;
@@ -48,6 +32,23 @@
 &lt;script&gt;
       var pymParent = new pym.Parent(&quot;iframe-here&quot;, &quot;https://s3.amazonaws.com/fiscaldashboard/index.html&quot;, {});
   &lt;/script&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;where-it-started&quot;&gt;Where It Started&lt;/h2&gt;
+&lt;p&gt;The &lt;a href=&quot;/2018/03/01/responsive-map.html&quot;&gt;original presentation&lt;/a&gt; requested by the team was a straightforward map and table. Click on a city and see its peers along with their data. Simple from a data-presentation perspective, but not simple in overall theory and we lost our audience with novel pairings such as New York City and Akron, OH.&lt;/p&gt;
+
+&lt;p&gt;Instead, as a transitional approach to this new way of seeing, the research team suggested just surfacing the data points they’d created and allow viewers to draw their own conclusions.&lt;/p&gt;
+
+&lt;h2 id=&quot;changing-course&quot;&gt;Changing Course&lt;/h2&gt;
+&lt;p&gt;I had recently seen an &lt;a href=&quot;https://visual.ons.gov.uk/what-affects-an-areas-healthy-life-expectancy/&quot;&gt;interesting approach&lt;/a&gt; for showing a data set’s spread on the UK’s Office for National Statistics site and thought it might work as a model here. We could expand on the close-scoring cities to enable leaders to see how those cities did across all other measures. Perhaps they would notice patterns or find something unexpected. But this approach got scrapped as well in favor of something that simply allows the user to pick their set of typical comparison cities and see results only for them.&lt;/p&gt;
+
+&lt;h2 id=&quot;looking-forward&quot;&gt;Looking Forward&lt;/h2&gt;
+&lt;p&gt;The main challenge with this project seems to me to be novelty. Wondering how “property tax gap” relates to “demand score” is not exactly like looking for similarities between rates of smoking, drinking and early death in UK cities. I think any approach to visualizing this data needs to keep that in mind.&lt;/p&gt;
+
+&lt;p&gt;My hope for the charts I’ve built below is that they might someday be incorporated into a post on the thinking and data points behind these composite scores. The interactive charts could be used to facilitate explanation and help give some life to the piece.&lt;/p&gt;
+
+&lt;p&gt;Though this work has not been “published” I still include it in my collection because I think it’s an interesting riff on what the UK Office for National Statistics did. With more familiar measures or better explanation of the ones that are there, I think it could work.&lt;/p&gt;
 
 </description>
         <pubDate>Thu, 01 Mar 2018 07:54:02 -0500</pubDate>
@@ -92,9 +93,9 @@
 
 &lt;p&gt;A federal infrastructure package that asks cities to raise the funds as an “ante” is unfair. Each city in the US operates under a unique set of laws. They do not share same ability to raise funds through taxes, public-private partnerships, and other means. The chart below shows how different the path to “self-help” is for 15 sample cities.&lt;/p&gt;
 
-&lt;p&gt;Click below to see the full piece.&lt;/p&gt;
+&lt;p&gt;Click for larger image.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/projects/infog-SelfHelp.pdf&quot;&gt;&lt;img src=&quot;/assets/infog-SelfHelp.png&quot; alt=&quot;Uneven access to self-help tools&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/projects/infog-SelfHelp.pdf&quot;&gt;&lt;img src=&quot;/assets/infog-SelfHelp.jpg&quot; alt=&quot;Uneven access to self-help tools&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 16 Jan 2018 07:53:02 -0500</pubDate>
@@ -110,7 +111,7 @@
 
 &lt;p&gt;I contributed two graphics to NLC’s &lt;a href=&quot;http://www.nlc.org/article/urban-growth-trends-and-rise-of-tech-in-cities-point-to-widening-disparities&quot;&gt;The Future of Equity in Cities&lt;/a&gt;, with design direction and layout by my colleague Soren Messner-Zidell. For both of these graphics I successfully pitched something different than what was originally planned, and consequently did the research and caption writing on top of design. In some ways it was a nice throw back to my days in the NPR library, but this time I got to tie the final bow on the work, too.&lt;/p&gt;
 
-&lt;p&gt;Click below to see the full spread.&lt;/p&gt;
+&lt;p&gt;Click for larger image.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/projects/infog-PoliceDemoHilite.pdf&quot;&gt;&lt;img src=&quot;/assets/infog-police.jpg&quot; alt=&quot;Future employment trends&quot; /&gt;&lt;/a&gt;
 &lt;a href=&quot;/projects/infog-FutureEmpTrends.pdf&quot;&gt;&lt;img src=&quot;/assets/infog-FutureEmpTrends.jpg&quot; alt=&quot;Police force demographics 1987-2013&quot; /&gt;&lt;/a&gt;&lt;/p&gt;

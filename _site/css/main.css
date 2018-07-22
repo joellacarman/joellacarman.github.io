@@ -11,7 +11,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font-family: "Roboto";
+  font-family: "Merriweather";
   font-size: 16px;
   line-height: 1.5;
   font-weight: 300;
@@ -165,8 +165,8 @@ pre {
 
 .site-title {
   color: #111;
-  font-family: "Oswald";
-  text-transform: uppercase;
+  font-family: "Merriweather";
+  font-weight: bold;
   font-size: 36px;
   display: inline;
   padding-right: 5%;
@@ -179,7 +179,8 @@ pre {
 
 #nav-links {
   display: inline;
-  font-family: "Oswald";
+  font-family: "Merriweather";
+  font-weight: 400;
   font-size: 16px;
   text-align: center;
   text-transform: uppercase; }
@@ -275,9 +276,9 @@ html {
 
 .post-link {
   display: block;
-  font-family: "Roboto Slab";
-  font-size: 16px;
-  font-weight: bold; }
+  font-family: "Merriweather";
+  font-weight: 400;
+  font-size: 21.112px; }
 
 /**
  * Posts
@@ -295,13 +296,11 @@ html {
   margin-bottom: 30px; }
 
 .post-title {
-  font-size: 24px;
-  font-family: "Roboto Slab";
-  line-height: 1;
+  font-size: 27.8576px;
+  font-family: "Merriweather";
+  font-weight: 700;
+  line-height: 1.4;
   padding-top: 30px; }
-  @media screen and (max-width: 1024px) {
-    .post-title {
-      font-size: 36px; } }
 
 .post-content {
   margin-bottom: 30px; }
@@ -309,24 +308,17 @@ html {
     .post-content {
       width: 100%; } }
   .post-content h2 {
-    font-size: 24px; }
-    @media screen and (max-width: 1024px) {
-      .post-content h2 {
-        font-size: 28px; } }
+    font-family: "Merriweather";
+    font-size: 21.112px;
+    font-weight: 400;
+    margin-bottom: 0;
+    margin-top: 30px; }
   .post-content h3 {
-    font-size: 26px; }
-    @media screen and (max-width: 1024px) {
-      .post-content h3 {
-        font-size: 22px; } }
+    font-size: 18.3792px; }
   .post-content h4 {
-    font-size: 20px; }
-    @media screen and (max-width: 1024px) {
-      .post-content h4 {
-        font-size: 18px; } }
+    font-size: 18.3792px; }
   .post-content img {
-    border: 2px solid #FFFFFF;
-    margin: 5% 15%;
-    width: 70%; }
+    border: 2px solid #FFFFFF; }
     @media screen and (max-width: 600px) {
       .post-content img {
         width: 100%; } }

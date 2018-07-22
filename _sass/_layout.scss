@@ -7,8 +7,8 @@
 
 .site-title {
     color: $text-color;
-    font-family: "Oswald";
-    text-transform: uppercase;
+    font-family: "Merriweather";
+    font-weight: bold;
     font-size: $title-height;
     display: inline;
     padding-right: 5%;
@@ -27,7 +27,8 @@
 
 #nav-links {
     display: inline;
-    font-family: "Oswald";
+    font-family: "Merriweather";
+    font-weight: 400;
     font-size: $base-font-size;
     text-align: center;
     text-transform: uppercase;
@@ -158,9 +159,9 @@ html {
 
 .post-link {
     display: block;
-    font-family: "Roboto Slab";
-    font-size: ($base-font-size);
-    font-weight: bold;
+    font-family: "Merriweather";
+    font-weight: 400;
+    font-size: ($base-font-size * 1.3195);
     // text-transform: uppercase;
 }
 
@@ -184,14 +185,11 @@ html {
 }
 
 .post-title {
-    font-size: 24px;
-    font-family: "Roboto Slab";
-    line-height: 1;
+    font-size: ($base-font-size * 1.7411);
+    font-family: "Merriweather";
+    font-weight: 700;
+    line-height: 1.4;
     padding-top: $spacing-unit;
-
-    @include media-query($on-laptop) {
-        font-size: 36px;
-    }
 }
 
 .post-content {
@@ -202,33 +200,25 @@ html {
     }
 
     h2 {
-        font-size: 24px;
-
-        @include media-query($on-laptop) {
-            font-size: 28px;
-        }
+        font-family: "Merriweather";
+        font-size: ($base-font-size * 1.3195);
+        font-weight: 400;
+        margin-bottom: 0;
+        margin-top: $spacing-unit;
     }
 
     h3 {
-        font-size: 26px;
-
-        @include media-query($on-laptop) {
-            font-size: 22px;
-        }
+        font-size: ($base-font-size * 1.1487);
     }
 
     h4 {
-        font-size: 20px;
-
-        @include media-query($on-laptop) {
-            font-size: 18px;
-        }
+        font-size: ($base-font-size * 1.1487);
     }
 
     img {
       border: 2px solid #FFFFFF;
-      margin: 5% 15%;
-      width: 70%;
+      // margin: 5% 15%;
+      // width: 70%;
 
       @include media-query($on-palm) {
         width: 100%;
