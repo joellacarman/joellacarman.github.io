@@ -7,12 +7,13 @@
 
 .site-title {
     color: $text-color;
-    font-family: "Merriweather";
+    font-family: "Lora";
     font-weight: bold;
     font-size: $title-height;
     display: inline;
     padding-right: 5%;
     padding-left: 1%;
+    letter-spacing: 4px;
     text-decoration: none;
 
     &,
@@ -27,11 +28,9 @@
 
 #nav-links {
     display: inline;
-    font-family: "Merriweather";
     font-weight: 400;
-    font-size: $base-font-size;
-    text-align: center;
-    text-transform: uppercase;
+    font-size: $large-font-size;
+    // text-transform: uppercase;
         @include media-query($on-laptop) {
             display: block;
             position: static;
@@ -159,9 +158,9 @@ html {
 
 .post-link {
     display: block;
-    font-family: "Merriweather";
+    font-family: "Lora";
     font-weight: 400;
-    font-size: ($base-font-size * 1.3195);
+    font-size: $large-font-size;
     // text-transform: uppercase;
 }
 
@@ -185,9 +184,9 @@ html {
 }
 
 .post-title {
-    font-size: ($base-font-size * 1.7411);
-    font-family: "Merriweather";
-    font-weight: 700;
+    font-size: $title-height;
+    font-family: "Lora";
+    font-weight: 400;
     line-height: 1.4;
     padding-top: $spacing-unit;
 }
@@ -200,19 +199,19 @@ html {
     }
 
     h2 {
-        font-family: "Merriweather";
-        font-size: ($base-font-size * 1.3195);
+        font-family: "Lora";
+        font-size: $large-font-size;
         font-weight: 400;
         margin-bottom: 0;
         margin-top: $spacing-unit;
     }
 
     h3 {
-        font-size: ($base-font-size * 1.1487);
+        font-size: $larger-font-size;
     }
 
     h4 {
-        font-size: ($base-font-size * 1.1487);
+        font-size: $larger-font-size;
     }
 
     img {

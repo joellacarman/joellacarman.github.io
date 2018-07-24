@@ -4,9 +4,12 @@
 @charset "utf-8";
 
 // Our variables
-$base-font-family: "Merriweather";
+$base-font-family: "Karla";
 $base-font-size:   16px;
-$small-font-size:  $base-font-size * 0.875;
+$small-font-size:  $base-font-size * 0.7862;
+$large-font-size:  $base-font-size * 1.272;
+$larger-font-size: $base-font-size * 1.618;
+$largest-font-size: $base-font-size * 2.0581;
 $base-line-height: 1.5;
 $title-height: 36px;
 

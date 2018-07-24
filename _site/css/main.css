@@ -11,7 +11,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font-family: "Merriweather";
+  font-family: "Karla";
   font-size: 16px;
   line-height: 1.5;
   font-weight: 300;
@@ -43,7 +43,7 @@ figure > img {
   display: block; }
 
 figcaption {
-  font-size: 14px; }
+  font-size: 12.5792px; }
 
 /**
  * Lists
@@ -165,12 +165,13 @@ pre {
 
 .site-title {
   color: #111;
-  font-family: "Merriweather";
+  font-family: "Lora";
   font-weight: bold;
   font-size: 36px;
   display: inline;
   padding-right: 5%;
   padding-left: 1%;
+  letter-spacing: 4px;
   text-decoration: none; }
   .site-title, .site-title:visited {
     color: #111; }
@@ -179,11 +180,8 @@ pre {
 
 #nav-links {
   display: inline;
-  font-family: "Merriweather";
   font-weight: 400;
-  font-size: 16px;
-  text-align: center;
-  text-transform: uppercase; }
+  font-size: 20.352px; }
   @media screen and (max-width: 1024px) {
     #nav-links {
       display: block;
@@ -271,14 +269,14 @@ html {
       height: auto; } }
 
 .post-meta {
-  font-size: 14px;
+  font-size: 12.5792px;
   color: #828282; }
 
 .post-link {
   display: block;
-  font-family: "Merriweather";
+  font-family: "Lora";
   font-weight: 400;
-  font-size: 21.112px; }
+  font-size: 20.352px; }
 
 /**
  * Posts
@@ -296,9 +294,9 @@ html {
   margin-bottom: 30px; }
 
 .post-title {
-  font-size: 27.8576px;
-  font-family: "Merriweather";
-  font-weight: 700;
+  font-size: 36px;
+  font-family: "Lora";
+  font-weight: 400;
   line-height: 1.4;
   padding-top: 30px; }
 
@@ -308,15 +306,15 @@ html {
     .post-content {
       width: 100%; } }
   .post-content h2 {
-    font-family: "Merriweather";
-    font-size: 21.112px;
+    font-family: "Lora";
+    font-size: 20.352px;
     font-weight: 400;
     margin-bottom: 0;
     margin-top: 30px; }
   .post-content h3 {
-    font-size: 18.3792px; }
+    font-size: 25.888px; }
   .post-content h4 {
-    font-size: 18.3792px; }
+    font-size: 25.888px; }
   .post-content img {
     border: 2px solid #FFFFFF; }
     @media screen and (max-width: 600px) {
