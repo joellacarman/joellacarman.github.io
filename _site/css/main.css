@@ -172,6 +172,7 @@ pre {
   padding-right: 5%;
   padding-left: 1%;
   letter-spacing: 4px;
+  line-height: 1;
   text-decoration: none; }
   .site-title, .site-title:visited {
     color: #111; }
@@ -332,7 +333,7 @@ html {
  * Gallery
  */
 .gallery img {
-  max-width: 40%;
+  max-width: 20%;
   padding-right: 8%; }
   @media screen and (max-width: 600px) {
     .gallery img {

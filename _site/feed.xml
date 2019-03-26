@@ -6,9 +6,121 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 24 Jul 2018 16:19:33 -0400</pubDate>
-    <lastBuildDate>Tue, 24 Jul 2018 16:19:33 -0400</lastBuildDate>
+    <pubDate>Tue, 26 Mar 2019 17:42:18 -0400</pubDate>
+    <lastBuildDate>Tue, 26 Mar 2019 17:42:18 -0400</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
+    
+      <item>
+        <title>CNN: Every Presidential Veto In One Chart</title>
+        <description>&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: story idea, research, design, development
+&lt;strong&gt;Tech&lt;/strong&gt;: tweaked template from CNN’s take on NPR’s &lt;a href=&quot;https://github.com/nprapps/dailygraphics#what-is-this&quot;&gt;Daily Graphics Rig&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Though it seems odd to think this would happen today, in the past many presidents have vetoed legislation from their own party.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2019/03/02/politics/trump-presidents-veto-congress-history-override-national-emergency/index.html&quot;&gt;&lt;img src=&quot;/assets/vetoes.png&quot; alt=&quot;Scatterplot of presidential vetoes since 1789&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 03 Mar 2019 10:54:02 -0500</pubDate>
+        <link>http://localhost:4000/2019/03/03/presidential-vetoes.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/03/03/presidential-vetoes.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>CNN: 2020 Dems Shift Left</title>
+        <description>&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: design&lt;br /&gt;
+&lt;strong&gt;Tech&lt;/strong&gt;: ai2html&lt;/p&gt;
+
+&lt;p&gt;Possibly my best piece of work for CNN so far is the donkey icon on this graph (though in hindsight I do wish I’d parted with the styleguide and chosen two blues with more contrast).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2019/02/12/politics/2020-democratic-field-more-liberal-than-past-years/index.html&quot;&gt;&lt;img src=&quot;/assets/enten-dem-cand-ideology.png&quot; alt=&quot;The average of 2020 frontrunners' ideological score according to VoteView.com is more liberal than past candidates'.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 13 Feb 2019 10:54:02 -0500</pubDate>
+        <link>http://localhost:4000/2019/02/13/average-dem-cands-shift-left.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/02/13/average-dem-cands-shift-left.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>CNN: Demographics Of Federal Workers</title>
+        <description>&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: design, research&lt;br /&gt;
+&lt;strong&gt;Tech&lt;/strong&gt;: ai2html&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2019/01/23/politics/the-shutdown-is-hurting-some-federal-workers/index.html&quot;&gt;&lt;img src=&quot;/assets/govt-worker-demogs.png&quot; alt=&quot;Demographics of federal workers in departments affected by the shutdown.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 09 Nov 2018 10:54:02 -0500</pubDate>
+        <link>http://localhost:4000/2018/11/09/fed-worker-demographics.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/11/09/fed-worker-demographics.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>CNN: Congress Has More Women Than Ever</title>
+        <description>&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: design&lt;br /&gt;
+&lt;strong&gt;Tech&lt;/strong&gt;: ai2html&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2018/11/07/politics/history-making-night-for-women/index.html&quot;&gt;&lt;img src=&quot;/assets/women-in-congress.png&quot; alt=&quot;Dot chart of women in the House and Senate.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 09 Nov 2018 10:54:02 -0500</pubDate>
+        <link>http://localhost:4000/2018/11/09/women-in-congress.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/11/09/women-in-congress.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Layout: Autonomous Vehicle Pilot Programs</title>
+        <description>&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: report layout, cover&lt;/p&gt;
+
+&lt;p&gt;Universities, private industry and other parties are running tests of autonomous vehicles across the country. This guide describes a few of those projects.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/https://www.nlc.org/sites/default/files/2018-10/AV%20MAG%20Web.pdf&quot;&gt;&lt;img src=&quot;/assets/AV-cover.png&quot; alt=&quot;Autonomous Vehicle Pilots Across America&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 01 Oct 2018 08:53:02 -0400</pubDate>
+        <link>http://localhost:4000/2018/10/01/layout-autonomous-vehicles.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/10/01/layout-autonomous-vehicles.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Infographic: Recycling Markets</title>
+        <description>&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: design&lt;/p&gt;
+
+&lt;p&gt;Recycling as we knew it crashed when China stopped accepting waste shipments from the US and cities, which often manage consumer recycling, were left holding the bag. This infographic detailing the market change appeared at the beginning of a &lt;a href=&quot;https://www.nlc.org/resource/rethinking-recycling-how-cities-can-adapt-to-evolving-markets&quot;&gt;Municipal Action Guide&lt;/a&gt; designed to help city leaders deal with the crisis.&lt;/p&gt;
+
+&lt;p&gt;Click for larger image.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/projects/infog-RecyclingMarket.pdf&quot;&gt;&lt;img src=&quot;/assets/infog-recycling.png&quot; alt=&quot;Recycling Markets Hit By China's New Policy&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 25 Sep 2018 08:53:02 -0400</pubDate>
+        <link>http://localhost:4000/2018/09/25/recylcing.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/09/25/recylcing.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Layout, Writing: Recruiting Brochure</title>
+        <description>&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: concept, layout, copy writing&lt;/p&gt;
+
+&lt;p&gt;Reenvisioned the look of NLC’s marketing materials and managed multiple stakeholders to get this project done.&lt;/p&gt;
+
+&lt;p&gt;Click to see full brochure.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/projects/FINAL-recruiting-brochure.pdf&quot;&gt;&lt;img src=&quot;/assets/recruit.png&quot; alt=&quot;Autonomous Vehicle Pilots Across America&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 01 Sep 2018 08:53:02 -0400</pubDate>
+        <link>http://localhost:4000/2018/09/01/recruiting-brochure.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/09/01/recruiting-brochure.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Fiscal Policy Space, Take 2</title>
@@ -101,135 +213,6 @@
         <pubDate>Tue, 16 Jan 2018 07:53:02 -0500</pubDate>
         <link>http://localhost:4000/2018/01/16/self-help-infrastructure.html</link>
         <guid isPermaLink="true">http://localhost:4000/2018/01/16/self-help-infrastructure.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Infographics: The Future of Equity</title>
-        <description>&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: design, research, copywriting&lt;/p&gt;
-
-&lt;p&gt;I contributed two graphics to NLC’s &lt;a href=&quot;http://www.nlc.org/article/urban-growth-trends-and-rise-of-tech-in-cities-point-to-widening-disparities&quot;&gt;The Future of Equity in Cities&lt;/a&gt;, with design direction and layout by my colleague Soren Messner-Zidell. For both of these graphics I successfully pitched something different than what was originally planned, and consequently did the research and caption writing on top of design. In some ways it was a nice throw back to my days in the NPR library, but this time I got to tie the final bow on the work, too.&lt;/p&gt;
-
-&lt;p&gt;Click for larger image.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/projects/infog-PoliceDemoHilite.pdf&quot;&gt;&lt;img src=&quot;/assets/infog-police.jpg&quot; alt=&quot;Future employment trends&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;/projects/infog-FutureEmpTrends.pdf&quot;&gt;&lt;img src=&quot;/assets/infog-FutureEmpTrends.jpg&quot; alt=&quot;Police force demographics 1987-2013&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 15 Nov 2017 07:53:02 -0500</pubDate>
-        <link>http://localhost:4000/2017/11/15/future-of-equity.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/11/15/future-of-equity.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Cities and the Innovation Economy</title>
-        <description>&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: cover design, report layout&lt;/p&gt;
-
-&lt;p&gt;This cover was a challenge. The main concepts of the report are invisible but hugely consequential to daily life (basically the Internet and all the apps and connected sensors and devices it enables).&lt;/p&gt;
-
-&lt;p&gt;Straight photography is important to the branding of projects like these, so rather than illustrate these abstract concepts I highlighted parts of an everyday view that might belong in this “innovation economy” resulting in a quick and easy take on the main idea.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;(http://www.nlc.org/resource/cities-and-innovation-economy-perceptions-of-local-leaders)&quot;&gt;Full report here&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.nlc.org/resource/cities-and-innovation-economy-perceptions-of-local-leaders&quot;&gt;&lt;img src=&quot;/assets/InnovEconCover.png&quot; alt=&quot;Cities and the Innovation Economy&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 18 Oct 2017 08:53:02 -0400</pubDate>
-        <link>http://localhost:4000/2017/10/18/Cities-and-the-Innovation-Economy.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/10/18/Cities-and-the-Innovation-Economy.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Infographics: State of the Cities</title>
-        <description>&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: design, copywriting&lt;/p&gt;
-
-&lt;p&gt;Presidents are not the only leaders to make an annual speech on progress and wellbeing; many mayors offer their assessments in a “state of the city” address, too. The National League of Cities analyzes these speeches and catalogs the topics foremost on the minds of local leaders.&lt;/p&gt;
-
-&lt;p&gt;My colleague Soren Messner-Zidell designed this report and I contributed graphics, including this one, repurposed for social media.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.nlc.org/SOTC&quot;&gt;&lt;img src=&quot;/assets/infog-SOTC.png&quot; alt=&quot;State of the Cities infographic&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 25 May 2017 08:53:02 -0400</pubDate>
-        <link>http://localhost:4000/2017/05/25/State-of-the-Cities.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/05/25/State-of-the-Cities.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Monthly Jobs Report: Local Government Jobs</title>
-        <description>&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: design &amp;amp; development&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Technology&lt;/strong&gt;: d3, CountUp.js&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Live project&lt;/strong&gt;: &lt;a href=&quot;http://www.nlc.org/article/employment-how-does-your-city-stack-up&quot;&gt;http://www.nlc.org/article/employment-how-does-your-city-stack-up&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Jobs in local government are the largest sector of government employment. The National League of Cities keeps track of the ups and downs in employment, issuing a monthly chart of data from the Bureau of Labor Statistics.&lt;/p&gt;
-
-&lt;p&gt;The original NLC chart was a high touch monthly assignment. I redesigned the project with the goal automating the work and supplying additional views to the data.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.nlc.org/article/employment-how-does-your-city-stack-up&quot;&gt;&lt;img src=&quot;/assets/apr-jobs-report.png&quot; alt=&quot;Chart with local government jobs data from Bureau of Labor Statistics.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 05 May 2017 08:53:02 -0400</pubDate>
-        <link>http://localhost:4000/2017/05/05/jobs-report.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/05/05/jobs-report.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Connected Cities</title>
-        <description>&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: interaction design &amp;amp; development&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Technology&lt;/strong&gt;: Snap.svg, jQuery&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Live project&lt;/strong&gt;: &lt;a href=&quot;http://www.nlc.org/resource/smart-city-development&quot;&gt;http://www.nlc.org/resource/smart-city-development&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;My colleague Soren Messner-Zidell created this engaging illustration for NLC’s report on &lt;a href=&quot;http://www.nlc.org/resource/smart-city-development&quot;&gt;Smart City Development&lt;/a&gt;. In the print report, the diagram is labeled with 20+ ways that sensors and data collection help city governments. To make it legible in a small space online, I proposed breaking the labels into topic sections. This multi-step “guided tour” borrows from Jim Vallandingham’s &lt;a href=&quot;http://vallandingham.me/stepper_steps.html&quot;&gt;stepper tutorial&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.nlc.org/article/sensors-data-and-the-future-of-cities&quot;&gt;&lt;img src=&quot;/assets/connected-cities.png&quot; alt=&quot;What the Internet of Things means for cities.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 21 Apr 2017 08:53:02 -0400</pubDate>
-        <link>http://localhost:4000/2017/04/21/iot-cities.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/04/21/iot-cities.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Budget Cuts Illustrated</title>
-        <description>&lt;p&gt;I designed these for Twitter using stock illustration.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/leagueofcities/status/850381415065808896&quot;&gt;&lt;img src=&quot;/assets/protect-programs.png&quot; alt=&quot;What will Trump's budget cut in your city? Education and infrastructure.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;!-- [![Congress: Protect Programs Vital To Cities](/assets/protect-programs)]() --&gt;
-</description>
-        <pubDate>Sun, 19 Mar 2017 08:53:02 -0400</pubDate>
-        <link>http://localhost:4000/2017/03/19/budget-cuts.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/03/19/budget-cuts.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Microcontent for Preemption Report</title>
-        <description>&lt;p&gt;I created a few Twitter graphics to go with the report on state preemption of municipal law making.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/leagueofcities/status/839476060282621952&quot;&gt;&lt;img src=&quot;/assets/paidleave.png&quot; alt=&quot;States that preempt paid leave.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Paid leave graphic also used by Senior Executive and Director of the Center for City Solutions’ &lt;a href=&quot;http://www.huffingtonpost.com/entry/when-cities-and-states-clash-women-and-families-suffer_us_58bfee77e4b070e55af9e988&quot;&gt;Huffington Post piece&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/minwage.png&quot; alt=&quot;States that preempt minimum wage.&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/ridesharing.png&quot; alt=&quot;States that preempt ride sharing.&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 17 Mar 2017 08:53:02 -0400</pubDate>
-        <link>http://localhost:4000/2017/03/17/preemption-microcontent.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/03/17/preemption-microcontent.html</guid>
         
         
       </item>
