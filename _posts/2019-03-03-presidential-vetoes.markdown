@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "CNN: Every Presidential Veto In One Chart"
+title:  "Daily News: Every Presidential Veto In One Chart"
 date:   2019-03-03 15:54:02
 image: /assets/vetoes.png
 ---

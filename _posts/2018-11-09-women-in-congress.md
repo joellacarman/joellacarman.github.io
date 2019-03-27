@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "CNN: Congress Has More Women Than Ever"
+title:  "Daily News: Congress Has More Women Than Ever"
 date:   2018-11-09 15:54:02
 image: /assets/women-in-congress.png
 ---

@@ -5,7 +5,7 @@ date:   2018-10-01 12:53:02
 image: /assets/AV-page.png
 ---
 
-**Role**: report layout, cover
+**Role**: report layout
 
 Universities, private industry and other parties are running tests of autonomous vehicles across the country. This guide describes a few of those projects.
 
