@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Daily News: Demographics Of Federal Workers"
+title:  "Graphic: Demographics Of Federal Workers"
 date:   2018-11-09 15:54:02
 image: /assets/govt-worker-demogs.png
 ---
