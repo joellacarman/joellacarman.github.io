@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Which States Preempt City Governments Most?"
+title:  "Which states preempt city governments most?"
 date:   2017-02-22 15:54:02
 image: /assets/preemption-wheel.png
 ---

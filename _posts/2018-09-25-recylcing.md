@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Infographic: Recycling Markets"
+title:  "Infographic: Recycling markets"
 date:   2018-09-25 12:53:02
 image: /assets/infog-recycling.png
 ---

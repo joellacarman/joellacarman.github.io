@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Layout: Autonomous Vehicle Pilot Programs"
+title:  "Layout: Autonomous vehicle pilot programs"
 date:   2018-10-01 12:53:02
 image: /assets/AV-page.png
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Slopegraph: Earnings and Progress"
+title:  "Slopegraph: Earnings and progress"
 date:   2016-06-13 12:53:02
 image: /assets/GDP-SPI-slopegraph.png
 ---

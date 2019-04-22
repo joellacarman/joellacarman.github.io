@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Connected Cities"
+title:  "Connected cities"
 date:   2017-04-21 12:53:02
 image: /assets/smart-cities.gif
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Infographics: The Future of Equity"
+title:  "Infographics: The future of equity"
 date:   2017-11-15 12:53:02
 image: /assets/infog-EmpTrendsHilite.png
 ---

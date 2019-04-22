@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Fiscal Policy Space, Take 2"
+title:  "Fiscal Policy Space, take 2"
 date:   2018-03-01 12:54:02
 image: /assets/fiscal-dashboard.png
 ---

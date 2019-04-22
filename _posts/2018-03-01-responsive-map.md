@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Unpublished Map: Fiscal Policy Space"
+title:  "Unpublished map: Fiscal Policy Space"
 date:   2018-03-01 12:53:02
 image: /assets/peer-cities.png
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Graphic: 2020 Dems Shift Left"
+title:  "Graphic: 2020 Dems shift left"
 date:   2019-02-13 15:54:02
 image: /assets/enten-dem-cand-ideology.png
 ---

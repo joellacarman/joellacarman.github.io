@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Infographic: Self-Help Funding for Infrastructure"
+title:  "Infographic: Self-help funding for infrastructure"
 date:   2018-01-16 12:53:02
 image: /assets/infog-SelfHelp.png
 ---

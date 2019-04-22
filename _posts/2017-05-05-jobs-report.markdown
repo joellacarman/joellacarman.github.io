@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Monthly Jobs Report: Local Government Jobs"
+title:  "Monthly jobs report: Local government jobs"
 date:   2017-05-05 12:53:02
 image: /assets/apr-jobs-report-crop.png
 ---
