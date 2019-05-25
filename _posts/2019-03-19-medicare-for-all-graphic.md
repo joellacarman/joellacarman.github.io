@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Graphic: 'Medicare for All' plans"
+title:  "'Medicare for All' plans"
 date:   2019-03-19 15:54:02
 image: /assets/medicare-for-all.png
 ---

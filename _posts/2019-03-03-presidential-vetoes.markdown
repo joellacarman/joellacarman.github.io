@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Graphic: Every presidential veto in one chart"
+title:  "Every presidential veto in one chart"
 date:   2019-03-03 15:54:02
 image: /assets/vetoes.png
 ---

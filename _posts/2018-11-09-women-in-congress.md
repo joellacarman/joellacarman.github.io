@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Graphic: Congress has more women than ever"
+title:  "Congress has more women than ever"
 date:   2018-11-09 15:54:02
 image: /assets/women-in-congress.png
 ---

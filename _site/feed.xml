@@ -6,12 +6,12 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 22 Apr 2019 17:04:46 -0400</pubDate>
-    <lastBuildDate>Mon, 22 Apr 2019 17:04:46 -0400</lastBuildDate>
-    <generator>Jekyll v3.8.3</generator>
+    <pubDate>Sat, 25 May 2019 11:39:46 -0400</pubDate>
+    <lastBuildDate>Sat, 25 May 2019 11:39:46 -0400</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>Graphic: DHS After the purge</title>
+        <title>DHS After the purge</title>
         <description>&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: design&lt;br /&gt;
 &lt;strong&gt;Tech&lt;/strong&gt;: ai2html&lt;/p&gt;
 
@@ -27,7 +27,7 @@
       </item>
     
       <item>
-        <title>Graphic: Age range of candidates</title>
+        <title>Age range of candidates</title>
         <description>&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: design&lt;br /&gt;
 &lt;strong&gt;Tech&lt;/strong&gt;: ai2html&lt;/p&gt;
 
@@ -41,7 +41,7 @@
       </item>
     
       <item>
-        <title>Graphic: 'Medicare for All' plans</title>
+        <title>'Medicare for All' plans</title>
         <description>&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: design&lt;br /&gt;
 &lt;strong&gt;Tech&lt;/strong&gt;: CSS grid&lt;/p&gt;
 
@@ -55,7 +55,7 @@
       </item>
     
       <item>
-        <title>Graphic: Every presidential veto in one chart</title>
+        <title>Every presidential veto in one chart</title>
         <description>&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: story idea, research, design, development
 &lt;strong&gt;Tech&lt;/strong&gt;: tweaked template from CNN’s take on NPR’s &lt;a href=&quot;https://github.com/nprapps/dailygraphics#what-is-this&quot;&gt;Daily Graphics Rig&lt;/a&gt;&lt;/p&gt;
 
@@ -71,7 +71,7 @@
       </item>
     
       <item>
-        <title>Graphic: 2020 Dems shift left</title>
+        <title>2020 Dems shift left</title>
         <description>&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: design&lt;br /&gt;
 &lt;strong&gt;Tech&lt;/strong&gt;: ai2html&lt;/p&gt;
 
@@ -87,7 +87,7 @@
       </item>
     
       <item>
-        <title>Graphic: Demographics of federal workers</title>
+        <title>Demographics of federal workers</title>
         <description>&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: design, research&lt;br /&gt;
 &lt;strong&gt;Tech&lt;/strong&gt;: ai2html&lt;/p&gt;
 
@@ -101,7 +101,7 @@
       </item>
     
       <item>
-        <title>Graphic: Congress has more women than ever</title>
+        <title>Congress has more women than ever</title>
         <description>&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: design&lt;br /&gt;
 &lt;strong&gt;Tech&lt;/strong&gt;: ai2html&lt;/p&gt;
 
@@ -115,23 +115,7 @@
       </item>
     
       <item>
-        <title>Layout: Autonomous vehicle pilot programs</title>
-        <description>&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: report layout&lt;/p&gt;
-
-&lt;p&gt;Universities, private industry and other parties are running tests of autonomous vehicles across the country. This guide describes a few of those projects.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/https://www.nlc.org/sites/default/files/2018-10/AV%20MAG%20Web.pdf&quot;&gt;&lt;img src=&quot;/assets/AV-cover.png&quot; alt=&quot;Autonomous Vehicle Pilots Across America&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 01 Oct 2018 08:53:02 -0400</pubDate>
-        <link>http://localhost:4000/2018/10/01/layout-autonomous-vehicles.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/10/01/layout-autonomous-vehicles.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Infographic: Recycling markets</title>
+        <title>Recycling markets collapse</title>
         <description>&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: design&lt;/p&gt;
 
 &lt;p&gt;Recycling as we knew it crashed when China stopped accepting waste shipments from the US and cities, which often manage consumer recycling, were left holding the bag. This infographic detailing the market change appeared at the beginning of a &lt;a href=&quot;https://www.nlc.org/resource/rethinking-recycling-how-cities-can-adapt-to-evolving-markets&quot;&gt;Municipal Action Guide&lt;/a&gt; designed to help city leaders deal with the crisis.&lt;/p&gt;
@@ -139,7 +123,6 @@
 &lt;p&gt;Click for larger image.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/projects/infog-RecyclingMarket.pdf&quot;&gt;&lt;img src=&quot;/assets/infog-recycling.png&quot; alt=&quot;Recycling Markets Hit By China's New Policy&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
 </description>
         <pubDate>Tue, 25 Sep 2018 08:53:02 -0400</pubDate>
         <link>http://localhost:4000/2018/09/25/recylcing.html</link>
@@ -149,7 +132,7 @@
       </item>
     
       <item>
-        <title>Layout, Writing: Recruiting Brochure</title>
+        <title>National League of Cities recruiting</title>
         <description>&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: concept, layout, copy writing&lt;/p&gt;
 
 &lt;p&gt;Reenvisioned the look of NLC’s marketing materials and managed multiple stakeholders to get this project done.&lt;/p&gt;
@@ -157,11 +140,57 @@
 &lt;p&gt;Click to see full brochure.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/projects/FINAL-recruiting-brochure.pdf&quot;&gt;&lt;img src=&quot;/assets/recruit.png&quot; alt=&quot;Autonomous Vehicle Pilots Across America&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
 </description>
         <pubDate>Sat, 01 Sep 2018 08:53:02 -0400</pubDate>
         <link>http://localhost:4000/2018/09/01/recruiting-brochure.html</link>
         <guid isPermaLink="true">http://localhost:4000/2018/09/01/recruiting-brochure.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Charting the 'Fiscal Policy Space'</title>
+        <description>&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: design, development&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tech&lt;/strong&gt;: D3, Pym.js&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://s3.amazonaws.com/fiscaldashboard/parent.html&quot;&gt;Here&lt;/a&gt; is take two on the &lt;a href=&quot;http://fiscalpolicyspace.greatcities.uic.edu/&quot;&gt;Fiscal Policy Space&lt;/a&gt; interactive (take one &lt;a href=&quot;/2018/03/01/responsive-map.html&quot;&gt;here&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;What does it mean for cities to be alike? Are they the same size, in the same region? Are there other identifiers that are more meaningful?&lt;/p&gt;
+
+&lt;p&gt;The National League of Cities and the University of Illinois at Chicago are collaborating on a  project to help city leaders find other places like their own. Using statistical analysis, they’ve created values that indicate likeness from a fiscal and policy perspective. And I got to work on some visuals to present the data.&lt;/p&gt;
+
+&lt;p&gt;(Discussion of the project follows).&lt;/p&gt;
+
+&lt;div&gt;
+    &lt;div id=&quot;iframe-here&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;script src=&quot;https://pym.nprapps.org/pym.v1.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
+
+&lt;script&gt;
+      var pymParent = new pym.Parent(&quot;iframe-here&quot;, &quot;https://s3.amazonaws.com/fiscaldashboard/index.html&quot;, {});
+  &lt;/script&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;where-it-started&quot;&gt;Where It Started&lt;/h2&gt;
+&lt;p&gt;The &lt;a href=&quot;/2018/03/01/responsive-map.html&quot;&gt;original presentation&lt;/a&gt; requested by the team was a straightforward map and table. Click on a city and see its peers along with their data. Simple from a data-presentation perspective, but not simple in overall theory and we lost our audience with novel pairings such as New York City and Akron, OH.&lt;/p&gt;
+
+&lt;p&gt;Instead, as a transitional approach to this new way of seeing, the research team suggested just surfacing the data points they’d created and allow viewers to draw their own conclusions.&lt;/p&gt;
+
+&lt;h2 id=&quot;changing-course&quot;&gt;Changing Course&lt;/h2&gt;
+&lt;p&gt;I had recently seen an &lt;a href=&quot;https://visual.ons.gov.uk/what-affects-an-areas-healthy-life-expectancy/&quot;&gt;interesting approach&lt;/a&gt; for showing a data set’s spread on the UK’s Office for National Statistics site and thought it might work as a model here. We could expand on the close-scoring cities to enable leaders to see how those cities did across all other measures. Perhaps they would notice patterns or find something unexpected. But this approach got scrapped as well in favor of something that simply allows the user to pick their set of typical comparison cities and see results only for them.&lt;/p&gt;
+
+&lt;h2 id=&quot;looking-forward&quot;&gt;Looking Forward&lt;/h2&gt;
+&lt;p&gt;The main challenge with this project seems to me to be novelty. Wondering how “property tax gap” relates to “demand score” is not exactly like looking for similarities between rates of smoking, drinking and early death in UK cities. I think any approach to visualizing this data needs to keep that in mind.&lt;/p&gt;
+
+&lt;p&gt;My hope for the charts I’ve built below is that they might someday be incorporated into a post on the thinking and data points behind these composite scores. The interactive charts could be used to facilitate explanation and help give some life to the piece.&lt;/p&gt;
+
+&lt;p&gt;Though this work has not been “published” I still include it in my collection because I think it’s an interesting riff on what the UK Office for National Statistics did. With more familiar measures or better explanation of the ones that are there, I think it could work.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 01 Mar 2018 07:54:02 -0500</pubDate>
+        <link>http://localhost:4000/2018/03/01/novel-chart.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/03/01/novel-chart.html</guid>
         
         
       </item>

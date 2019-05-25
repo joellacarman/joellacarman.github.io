@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Graphic: Age range of candidates"
+title:  "Age range of candidates"
 date:   2019-03-23 15:54:02
 image: /assets/pres-cand-age.png
 ---

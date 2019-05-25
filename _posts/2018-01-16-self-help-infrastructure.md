@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Infographic: Self-help funding for infrastructure"
+title:  "Self-help funding for infrastructure"
 date:   2018-01-16 12:53:02
 image: /assets/infog-SelfHelp.png
 ---
@@ -12,4 +12,3 @@ A federal infrastructure package that asks cities to raise the funds as an “an
 Click for larger image.
 
 [![Uneven access to self-help tools](/assets/infog-SelfHelp.jpg)](/projects/infog-SelfHelp.pdf)
-

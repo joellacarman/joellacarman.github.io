@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Fiscal Policy Space, take 2"
+title:  "Charting the 'Fiscal Policy Space'"
 date:   2018-03-01 12:54:02
 image: /assets/fiscal-dashboard.png
 ---
@@ -9,7 +9,7 @@ image: /assets/fiscal-dashboard.png
 
 **Tech**: D3, Pym.js
 
-[Here](https://s3.amazonaws.com/fiscaldashboard/parent.html) is take two on the [Fiscal Policy Space](http://fiscalpolicyspace.greatcities.uic.edu/) interactive (take one [here](/2018/03/01/responsive-map.html)). 
+[Here](https://s3.amazonaws.com/fiscaldashboard/parent.html) is take two on the [Fiscal Policy Space](http://fiscalpolicyspace.greatcities.uic.edu/) interactive (take one [here](/2018/03/01/responsive-map.html)).
 
 What does it mean for cities to be alike? Are they the same size, in the same region? Are there other identifiers that are more meaningful?
 
@@ -31,7 +31,7 @@ The National League of Cities and the University of Illinois at Chicago are coll
 
 Where It Started
 ---
-The [original presentation](/2018/03/01/responsive-map.html) requested by the team was a straightforward map and table. Click on a city and see its peers along with their data. Simple from a data-presentation perspective, but not simple in overall theory and we lost our audience with novel pairings such as New York City and Akron, OH. 
+The [original presentation](/2018/03/01/responsive-map.html) requested by the team was a straightforward map and table. Click on a city and see its peers along with their data. Simple from a data-presentation perspective, but not simple in overall theory and we lost our audience with novel pairings such as New York City and Akron, OH.
 
 Instead, as a transitional approach to this new way of seeing, the research team suggested just surfacing the data points they'd created and allow viewers to draw their own conclusions.
 
@@ -46,4 +46,3 @@ The main challenge with this project seems to me to be novelty. Wondering how â€
 My hope for the charts I've built below is that they might someday be incorporated into a post on the thinking and data points behind these composite scores. The interactive charts could be used to facilitate explanation and help give some life to the piece.
 
 Though this work has not been "published" I still include it in my collection because I think it's an interesting riff on what the UK Office for National Statistics did. With more familiar measures or better explanation of the ones that are there, I think it could work.
-

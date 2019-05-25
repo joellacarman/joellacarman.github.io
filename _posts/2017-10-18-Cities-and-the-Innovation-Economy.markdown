@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cover: Cities and the Innovation Economy"
+title:  "Cities and the innovation economy"
 date:   2017-10-18 12:53:02
 image: /assets/InnovEconCover.png
 ---

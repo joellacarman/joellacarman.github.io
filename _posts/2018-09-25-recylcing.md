@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Infographic: Recycling markets"
+title:  "Recycling markets collapse"
 date:   2018-09-25 12:53:02
 image: /assets/infog-recycling.png
 ---
@@ -13,4 +13,3 @@ Recycling as we knew it crashed when China stopped accepting waste shipments fro
 Click for larger image.
 
 [![Recycling Markets Hit By China's New Policy](/assets/infog-recycling.png)](/projects/infog-RecyclingMarket.pdf)
-

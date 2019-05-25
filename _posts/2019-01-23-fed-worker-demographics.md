@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Graphic: Demographics of federal workers"
+title:  "Demographics of federal workers"
 date:   2018-11-09 15:54:02
 image: /assets/govt-worker-demogs.png
 ---
