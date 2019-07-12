@@ -6,9 +6,58 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 25 May 2019 11:39:46 -0400</pubDate>
-    <lastBuildDate>Sat, 25 May 2019 11:39:46 -0400</lastBuildDate>
+    <pubDate>Fri, 12 Jul 2019 14:42:17 -0400</pubDate>
+    <lastBuildDate>Fri, 12 Jul 2019 14:42:17 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Photo Illustration: Trump at the G20</title>
+        <description>&lt;p&gt;Lead art for Kevin Liptak’s story &lt;a href=&quot;https://www.cnn.com/2019/06/26/politics/donald-trump-xi-jinping-vladimir-putin-g20-meetings/index.html&quot;&gt;Trump’s G20 orbits around Xi, Putin, and other world leaders&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2019/06/26/politics/donald-trump-xi-jinping-vladimir-putin-g20-meetings/index.html&quot;&gt;&lt;img src=&quot;/assets/trump-putin-xi.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 26 Jun 2019 11:54:02 -0400</pubDate>
+        <link>http://localhost:4000/2019/06/26/g20-photo-illustration.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/06/26/g20-photo-illustration.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Who qualified to debate</title>
+        <description>&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: design&lt;br /&gt;
+&lt;strong&gt;Tech&lt;/strong&gt;: d3&lt;/p&gt;
+
+&lt;p&gt;In high school I enjoyed dabbling in the darkroom. It always gives me great pleasure to get Photoshop to deliver inky black tones, bright highlights and crisp detail that I never could with filters, timers and stop bath.&lt;/p&gt;
+
+&lt;p&gt;These high contrast faces appealed to the video team as well, I think. They included the image in their &lt;a href=&quot;https://www.cnn.com/videos/politics/2019/06/13/how-to-qualify-for-a-presidential-debate-mh-orig.cnn&quot;&gt;explainer video&lt;/a&gt; about the qualifying process for the Democratic debates.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2019/05/09/politics/democratic-primary-debates-tracking-qualifications-polling-fundraising/index.html&quot;&gt;&lt;img src=&quot;/assets/debate-qualified.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 10 May 2019 11:54:02 -0400</pubDate>
+        <link>http://localhost:4000/2019/05/10/qualified-for-dem-debates.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/05/10/qualified-for-dem-debates.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Tax cuts and refunds</title>
+        <description>&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: design&lt;br /&gt;
+&lt;strong&gt;Tech&lt;/strong&gt;: d3&lt;/p&gt;
+
+&lt;p&gt;The 2017 Tax Cuts and Jobs Law reduced many people’s taxes, but thanks to reduced payroll deductions many did not see a larger refund for the year. This chart shows how that broke differently for residents of red and blue states.&lt;/p&gt;
+
+&lt;p&gt;In order to fit information about all 50 states in one view, I prioritized showing the red/blue pattern over individual state names.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2019/04/13/politics/tax-reform-winners-and-losers/index.html&quot;&gt;&lt;img src=&quot;/assets/tax-cuts.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 13 Apr 2019 11:54:02 -0400</pubDate>
+        <link>http://localhost:4000/2019/04/13/tax-breaks-and-refunds.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/04/13/tax-breaks-and-refunds.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>DHS After the purge</title>
@@ -41,20 +90,6 @@
       </item>
     
       <item>
-        <title>'Medicare for All' plans</title>
-        <description>&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: design&lt;br /&gt;
-&lt;strong&gt;Tech&lt;/strong&gt;: CSS grid&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2019/03/19/politics/medicare-for-all-explainer/index.html&quot;&gt;&lt;img src=&quot;/assets/medicare-for-all.png&quot; alt=&quot;Democratic candidates' medicare-inspired health plans.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 19 Mar 2019 11:54:02 -0400</pubDate>
-        <link>http://localhost:4000/2019/03/19/medicare-for-all-graphic.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/03/19/medicare-for-all-graphic.html</guid>
-        
-        
-      </item>
-    
-      <item>
         <title>Every presidential veto in one chart</title>
         <description>&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: story idea, research, design, development
 &lt;strong&gt;Tech&lt;/strong&gt;: tweaked template from CNN’s take on NPR’s &lt;a href=&quot;https://github.com/nprapps/dailygraphics#what-is-this&quot;&gt;Daily Graphics Rig&lt;/a&gt;&lt;/p&gt;
@@ -82,20 +117,6 @@
         <pubDate>Wed, 13 Feb 2019 10:54:02 -0500</pubDate>
         <link>http://localhost:4000/2019/02/13/average-dem-cands-shift-left.html</link>
         <guid isPermaLink="true">http://localhost:4000/2019/02/13/average-dem-cands-shift-left.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Demographics of federal workers</title>
-        <description>&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: design, research&lt;br /&gt;
-&lt;strong&gt;Tech&lt;/strong&gt;: ai2html&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2019/01/23/politics/the-shutdown-is-hurting-some-federal-workers/index.html&quot;&gt;&lt;img src=&quot;/assets/govt-worker-demogs.png&quot; alt=&quot;Demographics of federal workers in departments affected by the shutdown.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 09 Nov 2018 10:54:02 -0500</pubDate>
-        <link>http://localhost:4000/2018/11/09/fed-worker-demographics.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/11/09/fed-worker-demographics.html</guid>
         
         
       </item>
@@ -144,53 +165,6 @@
         <pubDate>Sat, 01 Sep 2018 08:53:02 -0400</pubDate>
         <link>http://localhost:4000/2018/09/01/recruiting-brochure.html</link>
         <guid isPermaLink="true">http://localhost:4000/2018/09/01/recruiting-brochure.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Charting the 'Fiscal Policy Space'</title>
-        <description>&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: design, development&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Tech&lt;/strong&gt;: D3, Pym.js&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://s3.amazonaws.com/fiscaldashboard/parent.html&quot;&gt;Here&lt;/a&gt; is take two on the &lt;a href=&quot;http://fiscalpolicyspace.greatcities.uic.edu/&quot;&gt;Fiscal Policy Space&lt;/a&gt; interactive (take one &lt;a href=&quot;/2018/03/01/responsive-map.html&quot;&gt;here&lt;/a&gt;).&lt;/p&gt;
-
-&lt;p&gt;What does it mean for cities to be alike? Are they the same size, in the same region? Are there other identifiers that are more meaningful?&lt;/p&gt;
-
-&lt;p&gt;The National League of Cities and the University of Illinois at Chicago are collaborating on a  project to help city leaders find other places like their own. Using statistical analysis, they’ve created values that indicate likeness from a fiscal and policy perspective. And I got to work on some visuals to present the data.&lt;/p&gt;
-
-&lt;p&gt;(Discussion of the project follows).&lt;/p&gt;
-
-&lt;div&gt;
-    &lt;div id=&quot;iframe-here&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;script src=&quot;https://pym.nprapps.org/pym.v1.js&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
-
-&lt;script&gt;
-      var pymParent = new pym.Parent(&quot;iframe-here&quot;, &quot;https://s3.amazonaws.com/fiscaldashboard/index.html&quot;, {});
-  &lt;/script&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;where-it-started&quot;&gt;Where It Started&lt;/h2&gt;
-&lt;p&gt;The &lt;a href=&quot;/2018/03/01/responsive-map.html&quot;&gt;original presentation&lt;/a&gt; requested by the team was a straightforward map and table. Click on a city and see its peers along with their data. Simple from a data-presentation perspective, but not simple in overall theory and we lost our audience with novel pairings such as New York City and Akron, OH.&lt;/p&gt;
-
-&lt;p&gt;Instead, as a transitional approach to this new way of seeing, the research team suggested just surfacing the data points they’d created and allow viewers to draw their own conclusions.&lt;/p&gt;
-
-&lt;h2 id=&quot;changing-course&quot;&gt;Changing Course&lt;/h2&gt;
-&lt;p&gt;I had recently seen an &lt;a href=&quot;https://visual.ons.gov.uk/what-affects-an-areas-healthy-life-expectancy/&quot;&gt;interesting approach&lt;/a&gt; for showing a data set’s spread on the UK’s Office for National Statistics site and thought it might work as a model here. We could expand on the close-scoring cities to enable leaders to see how those cities did across all other measures. Perhaps they would notice patterns or find something unexpected. But this approach got scrapped as well in favor of something that simply allows the user to pick their set of typical comparison cities and see results only for them.&lt;/p&gt;
-
-&lt;h2 id=&quot;looking-forward&quot;&gt;Looking Forward&lt;/h2&gt;
-&lt;p&gt;The main challenge with this project seems to me to be novelty. Wondering how “property tax gap” relates to “demand score” is not exactly like looking for similarities between rates of smoking, drinking and early death in UK cities. I think any approach to visualizing this data needs to keep that in mind.&lt;/p&gt;
-
-&lt;p&gt;My hope for the charts I’ve built below is that they might someday be incorporated into a post on the thinking and data points behind these composite scores. The interactive charts could be used to facilitate explanation and help give some life to the piece.&lt;/p&gt;
-
-&lt;p&gt;Though this work has not been “published” I still include it in my collection because I think it’s an interesting riff on what the UK Office for National Statistics did. With more familiar measures or better explanation of the ones that are there, I think it could work.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 01 Mar 2018 07:54:02 -0500</pubDate>
-        <link>http://localhost:4000/2018/03/01/novel-chart.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/03/01/novel-chart.html</guid>
         
         
       </item>
