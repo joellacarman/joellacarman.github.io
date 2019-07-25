@@ -7,6 +7,9 @@
 
 header > div.wrapper {
   padding-left: $spacing-unit + 15;
+  @include media-query($on-palm){
+    padding-left: $spacing-unit;
+  }
 }
 
 .site-title {
@@ -176,13 +179,13 @@ html {
  */
 
 .post {
-  margin: 0 auto;
-  width: 66%;
+  margin-left: $spacing-unit + 15;
   max-width: 700px;
+  width: 66%;
 
     @include media-query($on-palm) {
-        width: 100%;
-        padding-left: 0;
+      margin-left: $spacing-unit;
+      width: 90%;
     }
 }
 

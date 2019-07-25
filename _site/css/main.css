@@ -111,15 +111,12 @@ pre {
  */
 .wrapper {
   max-width: 100%;
-  margin-right: auto;
-  margin-left: auto;
-  padding-right: 30px;
   padding-top: 30px;
   padding-bottom: 30px; }
   @media screen and (max-width: 1024px) {
     .wrapper {
-      max-width: -webkit-calc(95% - (30px));
-      max-width: calc(95% - (30px)); } }
+      max-width: -webkit-calc(95%);
+      max-width: calc(95%); } }
 
 .gallery-wrapper {
   max-width: -webkit-calc(95% - (30px * 2));
@@ -162,6 +159,9 @@ pre {
 
 header > div.wrapper {
   padding-left: 45px; }
+  @media screen and (max-width: 600px) {
+    header > div.wrapper {
+      padding-left: 30px; } }
 
 .site-title {
   color: #111;
@@ -284,13 +284,13 @@ html {
  * Posts
  */
 .post {
-  margin: 0 auto;
-  width: 66%;
-  max-width: 700px; }
+  margin-left: 45px;
+  max-width: 700px;
+  width: 66%; }
   @media screen and (max-width: 600px) {
     .post {
-      width: 100%;
-      padding-left: 0; } }
+      margin-left: 30px;
+      width: 90%; } }
 
 .post-header {
   margin-bottom: 30px; }
