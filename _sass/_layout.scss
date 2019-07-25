@@ -5,16 +5,19 @@
     border-bottom: 1px solid $my-gold;
 }
 
+header > div.wrapper {
+  padding-left: $spacing-unit + 15;
+}
+
 .site-title {
     color: $text-color;
     font-family: "Lora";
     font-weight: bold;
     font-size: $title-height;
     display: inline;
-    padding-right: 5%;
-    padding-left: 1%;
+    margin-right: $spacing-unit;
     letter-spacing: 1px;
-    line-height: 1;
+    line-height: 1.2;
     text-decoration: none;
 
     &,
@@ -34,6 +37,7 @@
     // text-transform: uppercase;
         @include media-query($on-laptop) {
             display: block;
+    //        padding-left: $spacing-unit;
             position: static;
             text-align: left;
         }
@@ -130,16 +134,18 @@ html {
         border: 0.5px solid #dddddd;
         border-radius: 2px;
         margin-bottom: $spacing-unit;
-        margin-right: ($spacing-unit);
-        padding: 1% 1% 1% 1%;
+        margin-left: $spacing-unit;
+        padding: 12px 15px 15px 15px;
         max-width: ($content-width / 3.4);
         float: left;
         height: ($spacing-unit * 10);
 
             @include media-query($on-palm) {
                 height: auto;
-                margin-right: 0px;
+                // margin-right: 0px;
+                margin-left: $spacing-unit - 15;
                 max-width: 100%;
+                padding: 12px 15px 15px 15px;
             }
     }
 }
@@ -162,7 +168,7 @@ html {
     font-family: "Lora";
     font-weight: 400;
     font-size: $large-font-size;
-    // text-transform: uppercase;
+    line-height: 1.1;
 }
 
 /**
