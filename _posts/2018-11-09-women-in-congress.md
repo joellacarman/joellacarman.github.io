@@ -2,7 +2,7 @@
 layout: post
 title:  "Congress has more women than ever"
 date:   2018-11-09 15:54:02
-image: /assets/women-in-congress.jpg
+image: /assets/women-in-congress-sm.jpg
 ---
 
 **Role**: design  

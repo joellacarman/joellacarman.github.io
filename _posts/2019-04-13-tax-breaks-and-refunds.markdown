@@ -2,14 +2,12 @@
 layout: post
 title:  "Tax cuts and refunds"
 date:   2019-04-13 15:54:02
-image: /assets/tax-cuts.png
+image: /assets/tax-cuts-sm.png
 ---
 
 **Role**: design  
 **Tech**: d3
 
-The 2017 Tax Cuts and Jobs Law reduced many people's taxes, but thanks to reduced payroll deductions many did not see a larger refund for the year. This chart shows how that broke differently for residents of red and blue states.
-
-In order to fit information about all 50 states in one view, I prioritized showing the red/blue pattern over individual state names. 
+This graphic ran with the story [Here's who's winning under Trump's tax law](https://www.cnn.com/2019/04/13/politics/tax-reform-winners-and-losers/index.html). I started out by making bar chart so the individual states could be identified. After looking more closely at the data, however, I saw the real takeaway from the chart should be this striking fact that refunds shrank only in blue states. I let go of individual state labels in favor of showing the red/blue grouping and it became a much more concise, effective piece! 
 
 [![](/assets/tax-cuts.png)](https://www.cnn.com/2019/04/13/politics/tax-reform-winners-and-losers/index.html)

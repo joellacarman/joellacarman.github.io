@@ -2,7 +2,7 @@
 layout: post
 title:  "Age range of candidates"
 date:   2019-03-23 15:54:02
-image: /assets/pres-cand-age.jpg
+image: /assets/pres-cand-age-sm.jpg
 ---
 
 **Role**: design  

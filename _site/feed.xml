@@ -6,13 +6,13 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 26 Jul 2019 14:16:23 -0400</pubDate>
-    <lastBuildDate>Fri, 26 Jul 2019 14:16:23 -0400</lastBuildDate>
+    <pubDate>Fri, 26 Jul 2019 15:38:54 -0400</pubDate>
+    <lastBuildDate>Fri, 26 Jul 2019 15:38:54 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Photo Illustration: Trump at the G20</title>
-        <description>&lt;p&gt;Lead art for Kevin Liptak’s story &lt;a href=&quot;https://www.cnn.com/2019/06/26/politics/donald-trump-xi-jinping-vladimir-putin-g20-meetings/index.html&quot;&gt;Trump’s G20 orbits around Xi, Putin, and other world leaders&lt;/a&gt;.&lt;/p&gt;
+        <description>&lt;p&gt;I’ve been trying to get more photo illustration assignments. Here I created the lead art for Kevin Liptak’s story &lt;a href=&quot;https://www.cnn.com/2019/06/26/politics/donald-trump-xi-jinping-vladimir-putin-g20-meetings/index.html&quot;&gt;Trump’s G20 orbits around Xi, Putin, and other world leaders&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2019/06/26/politics/donald-trump-xi-jinping-vladimir-putin-g20-meetings/index.html&quot;&gt;&lt;img src=&quot;/assets/trump-putin-xi.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -30,7 +30,9 @@
 
 &lt;p&gt;In high school I enjoyed dabbling in the darkroom. It always gives me great pleasure to get Photoshop to deliver inky black tones, bright highlights and crisp detail that I never could with filters, timers and stop bath.&lt;/p&gt;
 
-&lt;p&gt;These high contrast faces appealed to the video team as well, I think. They included the image in their &lt;a href=&quot;https://www.cnn.com/videos/politics/2019/06/13/how-to-qualify-for-a-presidential-debate-mh-orig.cnn&quot;&gt;explainer video&lt;/a&gt; about the qualifying process for the Democratic debates.&lt;/p&gt;
+&lt;p&gt;These high contrast faces appealed to the video team as well, I think: They included the image in their &lt;a href=&quot;https://www.cnn.com/videos/politics/2019/06/13/how-to-qualify-for-a-presidential-debate-mh-orig.cnn&quot;&gt;explainer video&lt;/a&gt; about the qualifying process for the Democratic debates.&lt;/p&gt;
+
+&lt;p&gt;This just in: &lt;a href=&quot;https://www.cbs.com/shows/the-late-show-with-stephen-colbert/video/5q_UgY_7TMY_AbIaPj2tufW1spd_fL88/the-late-show-7-17-19-sofia-vergara-david-cross-tove-lo-/&quot;&gt;The Late Show with Stephen Colbert&lt;/a&gt; used a &lt;a href=&quot;/assets/LateShow.jpg&quot;&gt;graphic&lt;/a&gt; I made with the same set of headshots in a segment on second quarter fundraising!&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2019/05/09/politics/democratic-primary-debates-tracking-qualifications-polling-fundraising/index.html&quot;&gt;&lt;img src=&quot;/assets/debate-qualified.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -46,9 +48,7 @@
         <description>&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: design&lt;br /&gt;
 &lt;strong&gt;Tech&lt;/strong&gt;: d3&lt;/p&gt;
 
-&lt;p&gt;The 2017 Tax Cuts and Jobs Law reduced many people’s taxes, but thanks to reduced payroll deductions many did not see a larger refund for the year. This chart shows how that broke differently for residents of red and blue states.&lt;/p&gt;
-
-&lt;p&gt;In order to fit information about all 50 states in one view, I prioritized showing the red/blue pattern over individual state names.&lt;/p&gt;
+&lt;p&gt;This graphic ran with the story &lt;a href=&quot;https://www.cnn.com/2019/04/13/politics/tax-reform-winners-and-losers/index.html&quot;&gt;Here’s who’s winning under Trump’s tax law&lt;/a&gt;. I started out by making bar chart so the individual states could be identified. After looking more closely at the data, however, I saw the real takeaway from the chart should be this striking fact that refunds shrank only in blue states. I let go of individual state labels in favor of showing the red/blue grouping and it became a much more concise, effective piece!&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2019/04/13/politics/tax-reform-winners-and-losers/index.html&quot;&gt;&lt;img src=&quot;/assets/tax-cuts.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -91,7 +91,7 @@
     
       <item>
         <title>Every presidential veto in one chart</title>
-        <description>&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: story idea, research, design, development
+        <description>&lt;p&gt;&lt;strong&gt;Role&lt;/strong&gt;: pitch, research, design, development&lt;br /&gt;
 &lt;strong&gt;Tech&lt;/strong&gt;: tweaked template from CNN’s take on NPR’s &lt;a href=&quot;https://github.com/nprapps/dailygraphics#what-is-this&quot;&gt;Daily Graphics Rig&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Though it seems odd to think this would happen today, in the past many presidents have vetoed legislation from their own party.&lt;/p&gt;

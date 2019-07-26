@@ -317,7 +317,8 @@ html {
   .post-content h4 {
     font-size: 25.888px; }
   .post-content img {
-    border: 2px solid #FFFFFF; }
+    border: 2px solid #FFFFFF;
+    margin-top: 30px; }
     @media screen and (max-width: 600px) {
       .post-content img {
         width: 100%; } }

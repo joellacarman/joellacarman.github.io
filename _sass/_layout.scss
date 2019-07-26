@@ -225,8 +225,7 @@ html {
 
     img {
       border: 2px solid #FFFFFF;
-      // margin: 5% 15%;
-      // width: 70%;
+      margin-top: $spacing-unit;
 
       @include media-query($on-palm) {
         width: 100%;
