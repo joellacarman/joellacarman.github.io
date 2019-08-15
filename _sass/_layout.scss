@@ -188,16 +188,12 @@ html {
     }
 }
 
-.post-header {
-    margin-bottom: $spacing-unit;
-}
-
 .post-title {
     font-size: $title-height;
     font-family: "Lora";
     font-weight: 400;
     line-height: 1.2;
-    padding-top: $spacing-unit;
+    padding-top: $spacing-unit / 2;
 }
 
 .post-content {
@@ -243,7 +239,16 @@ html {
     }
 
     p {
-        font-weight: 300;
+        color: #767676;
+        font-weight: 100;
+    }
+
+    .involvement {
+    //  font-family: "Lora";
+      font-size: 16px;
+    //  color: #a4a4a4;
+      color: #898989;
+     margin-top: $spacing-unit;
     }
 }
 

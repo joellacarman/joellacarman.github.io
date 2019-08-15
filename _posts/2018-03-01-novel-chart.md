@@ -4,18 +4,15 @@ title:  "Charting the 'Fiscal Policy Space'"
 date:   2018-03-01 12:54:02
 image: /assets/fiscal-dashboard.png
 ---
-
-**Role**: design, development
-
-**Tech**: D3, Pym.js
-
 [Here](https://s3.amazonaws.com/fiscaldashboard/parent.html) is take two on the [Fiscal Policy Space](http://fiscalpolicyspace.greatcities.uic.edu/) interactive (take one [here](/2018/03/01/responsive-map.html)).
 
 What does it mean for cities to be alike? Are they the same size, in the same region? Are there other identifiers that are more meaningful?
 
 The National League of Cities and the University of Illinois at Chicago are collaborating on a  project to help city leaders find other places like their own. Using statistical analysis, they've created values that indicate likeness from a fiscal and policy perspective. And I got to work on some visuals to present the data.
 
-(Discussion of the project follows).
+<p class="involvement" markdown="1">
+&#9677; _**role** design, development_ &#9677; _**tech** d3, pym_
+</p>
 
 {% raw %}
   <div>
