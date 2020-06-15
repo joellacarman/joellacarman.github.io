@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I’m a graphic designer in Washington, D.C. I work with the team at CNN Politics. I specialize in charts and graphs, but have also been known to do layout, print work and occasional copy writing.
+I’m a graphic designer and developer in Washington, D.C. I work with the data viz team at the Urban Institute. I specialize in charts and graphs, but have also been known to do layout, print work and occasional copy writing.
 
 Previously I worked as a librarian at NPR. I love to find out *why* and *how*, and to spot things that don’t quite add up.
 
