@@ -6,15 +6,36 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 15 Aug 2019 15:23:21 -0400</pubDate>
-    <lastBuildDate>Thu, 15 Aug 2019 15:23:21 -0400</lastBuildDate>
-    <generator>Jekyll v3.8.5</generator>
+    <pubDate>Thu, 30 Jul 2020 10:14:25 -0400</pubDate>
+    <lastBuildDate>Thu, 30 Jul 2020 10:14:25 -0400</lastBuildDate>
+    <generator>Jekyll v3.8.3</generator>
     
       <item>
-        <title>Photo Illustration: Trump at the G20</title>
-        <description>&lt;p&gt;I’ve been trying to get more photo illustration assignments. Here I created the lead art for Kevin Liptak’s story &lt;a href=&quot;https://www.cnn.com/2019/06/26/politics/donald-trump-xi-jinping-vladimir-putin-g20-meetings/index.html&quot;&gt;Trump’s G20 orbits around Xi, Putin, and other world leaders&lt;/a&gt;.&lt;/p&gt;
+        <title>School segregation</title>
+        <description>&lt;p&gt;In my new role at the Urban Institute I mainly do web development, but this piece I designed and illustrated.&lt;/p&gt;
+
+&lt;p&gt;At the conclusion of the scrollyteller we provide a dashboard where readers can look up their own district. One of the small-but-important things I am really proud of about this piece is the transition between those two distinct sections.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://apps.urban.org/features/school-segregation-index/&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://apps.urban.org/features/school-segregation-index/&quot;&gt;&lt;img src=&quot;/assets/k12-lookup.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 26 Jun 2019 11:54:02 -0400</pubDate>
+        <link>http://localhost:4000/2019/06/26/k12-segregation.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/06/26/k12-segregation.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Trump at the G20</title>
+        <description>&lt;p&gt;I created the lead art for Kevin Liptak’s story &lt;a href=&quot;https://www.cnn.com/2019/06/26/politics/donald-trump-xi-jinping-vladimir-putin-g20-meetings/index.html&quot;&gt;Trump’s G20 orbits around Xi, Putin, and other world leaders&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;I followed the establish style closely and turned the job around in about 2 hours. Had it been a more complicated idea I would have tried to come up with a few sketched concepts first.&lt;/p&gt;
+
+&lt;p&gt;I would love to do more photo illustration!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2019/06/26/politics/donald-trump-xi-jinping-vladimir-putin-g20-meetings/index.html&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2019/06/26/politics/donald-trump-xi-jinping-vladimir-putin-g20-meetings/index.html&quot;&gt;&lt;img src=&quot;/assets/trump-putin-xi.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -29,12 +50,13 @@
         <title>Who qualified to debate</title>
         <description>&lt;p&gt;In high school I enjoyed dabbling in the darkroom. It always gives me great pleasure to get Photoshop to deliver inky black tones, bright highlights and crisp detail that I never could with filters, timers and stop bath.&lt;/p&gt;
 
-&lt;p&gt;It was quite satisfying to take our mismatched “headshots” (I don’t know that any of these were actually professional portraits) and make them feel like they belonged together.&lt;/p&gt;
+&lt;p&gt;It was quite satisfying to take these mismatched “headshots” and give them that high contrast treatment, making a disparate set of images feel like they belonged together.&lt;/p&gt;
 
 &lt;p&gt;These high contrast faces appealed to the video team as well, I think: They included the image in their &lt;a href=&quot;https://www.cnn.com/videos/politics/2019/06/13/how-to-qualify-for-a-presidential-debate-mh-orig.cnn&quot;&gt;explainer video&lt;/a&gt; about the qualifying process for the Democratic debates.&lt;/p&gt;
 
-&lt;p&gt;This just in: &lt;a href=&quot;https://www.cbs.com/shows/the-late-show-with-stephen-colbert/video/5q_UgY_7TMY_AbIaPj2tufW1spd_fL88/the-late-show-7-17-19-sofia-vergara-david-cross-tove-lo-/&quot;&gt;The Late Show with Stephen Colbert&lt;/a&gt; used a &lt;a href=&quot;/assets/LateShow.jpg&quot;&gt;graphic&lt;/a&gt; I made with the same set of headshots in a segment on second quarter fundraising!&lt;/p&gt;
+&lt;p&gt;Later I learned that &lt;a href=&quot;/assets/LateShow.jpg&quot;&gt;The Late Show with Stephen Colbert used a graphic&lt;/a&gt; I made with the same set of headshots in a segment on second quarter fundraising! (&lt;a href=&quot;https://www.cbs.com/shows/the-late-show-with-stephen-colbert/video/5q_UgY_7TMY_AbIaPj2tufW1spd_fL88/the-late-show-7-17-19-sofia-vergara-david-cross-tove-lo-/&quot;&gt;July 17, 2019 episode&lt;/a&gt;)&lt;/p&gt;
 
+&lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2019/05/09/politics/democratic-primary-debates-tracking-qualifications-polling-fundraising/index.html&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
 &lt;p class=&quot;involvement&quot;&gt;
 ◍ &lt;em&gt;&lt;strong&gt;role&lt;/strong&gt; designer, template jockey&lt;/em&gt; ◍ &lt;em&gt;&lt;strong&gt;tech&lt;/strong&gt; d3&lt;/em&gt;
 &lt;/p&gt;
@@ -51,6 +73,8 @@
       <item>
         <title>Tax cuts and refunds</title>
         <description>&lt;p&gt;This graphic ran with the story &lt;a href=&quot;https://www.cnn.com/2019/04/13/politics/tax-reform-winners-and-losers/index.html&quot;&gt;Here’s who’s winning under Trump’s tax law&lt;/a&gt;. I started out by making bar chart so the individual states could be identified. After looking more closely at the data, however, I saw the real takeaway from the chart should be this striking fact that refunds shrank only in blue states. I let go of individual state labels in favor of showing the red/blue grouping and it became a much more concise, effective piece!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2019/04/13/politics/tax-reform-winners-and-losers/index.html&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
 
 &lt;p class=&quot;involvement&quot;&gt;
 ◍ &lt;em&gt;&lt;strong&gt;role&lt;/strong&gt; designer&lt;/em&gt; ◍ &lt;em&gt;&lt;strong&gt;tech&lt;/strong&gt; d3&lt;/em&gt;
@@ -70,6 +94,8 @@
         <description>&lt;p&gt;The team working on this story was captivated by this photo of a ribbon-cutting ceremony showing a number of soon-to-be-replaced officials and acting or otherwise temporary leadership. I used cut lines and shading to highlight the individuals who were coming and going.&lt;/p&gt;
 
 &lt;p&gt;The figures outlined in dots remind me of paper dolls, which might be a good metaphor for a future illustration.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2019/04/17/politics/inside-dhs-after-the-purge/index.html&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
 
 &lt;p class=&quot;involvement&quot;&gt;
 ◍ &lt;em&gt;&lt;strong&gt;role&lt;/strong&gt; designer&lt;/em&gt; ◍ &lt;em&gt;&lt;strong&gt;tech&lt;/strong&gt; ai2html&lt;/em&gt;
@@ -96,6 +122,8 @@
 
 &lt;p&gt;Finally, I was persuaded to add photos. They do make a good detail element, sometimes.&lt;/p&gt;
 
+&lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2019/03/23/politics/2020-presidential-race-generation-gap/index.html&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
+
 &lt;p class=&quot;involvement&quot;&gt;
 ◍ &lt;em&gt;&lt;strong&gt;role&lt;/strong&gt; designer&lt;/em&gt; ◍ &lt;em&gt;&lt;strong&gt;tech&lt;/strong&gt; ai2html&lt;/em&gt;
 &lt;/p&gt;
@@ -110,13 +138,14 @@
       </item>
     
       <item>
-        <title>Every presidential veto in one chart</title>
+        <title>Presidential vetoes</title>
         <description>&lt;p&gt;Though it seems odd to think this would happen today, in the past many presidents have vetoed legislation from their own party.&lt;/p&gt;
 
+&lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2019/03/02/politics/trump-presidents-veto-congress-history-override-national-emergency/index.html&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
+
 &lt;p class=&quot;involvement&quot;&gt;
-&lt;em&gt;&lt;strong&gt;role&lt;/strong&gt; concept, research, design, development&lt;/em&gt;
-&lt;br /&gt;
-&lt;em&gt;&lt;strong&gt;tech&lt;/strong&gt; tweaked template from CNN’s take on NPR’s &lt;a href=&quot;https://github.com/nprapps/dailygraphics#what-is-this&quot;&gt;Daily Graphics Rig&lt;/a&gt;&lt;/em&gt;
+◍ &lt;em&gt;&lt;strong&gt;role&lt;/strong&gt; concept, research, design, development&lt;/em&gt;
+◍ &lt;em&gt;&lt;strong&gt;tech&lt;/strong&gt; the &lt;a href=&quot;https://github.com/nprapps/dailygraphics#what-is-this&quot;&gt;Daily Graphics Rig&lt;/a&gt;&lt;/em&gt;
 &lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2019/03/02/politics/trump-presidents-veto-congress-history-override-national-emergency/index.html&quot;&gt;&lt;img src=&quot;/assets/vetoes.png&quot; alt=&quot;Scatterplot of presidential vetoes since 1789&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -132,6 +161,8 @@
         <title>2020 Dems shift left</title>
         <description>&lt;p&gt;Possibly my best piece of work for CNN so far is the donkey icon on this graph (though in hindsight I do wish I’d parted with the styleguide and chosen two blues with more contrast).&lt;/p&gt;
 
+&lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2019/02/12/politics/2020-democratic-field-more-liberal-than-past-years/index.html&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
+
 &lt;p class=&quot;involvement&quot;&gt;
 ◍ &lt;em&gt;&lt;strong&gt;role&lt;/strong&gt; designer&lt;/em&gt; ◍ &lt;em&gt;&lt;strong&gt;tech&lt;/strong&gt; ai2html&lt;/em&gt;
 &lt;/p&gt;
@@ -146,8 +177,12 @@
       </item>
     
       <item>
-        <title>Congress has more women than ever</title>
-        <description>&lt;p class=&quot;involvement&quot;&gt;
+        <title>Women in Congress</title>
+        <description>&lt;p&gt;2018 set a record for the number of women in Congress.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2018/11/07/politics/history-making-night-for-women/index.html&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class=&quot;involvement&quot;&gt;
 ◍ &lt;em&gt;&lt;strong&gt;role&lt;/strong&gt; designer&lt;/em&gt; ◍ &lt;em&gt;&lt;strong&gt;tech&lt;/strong&gt; ai2html&lt;/em&gt;
 &lt;/p&gt;
 
@@ -175,23 +210,6 @@
         <pubDate>Tue, 25 Sep 2018 08:53:02 -0400</pubDate>
         <link>http://localhost:4000/2018/09/25/recylcing.html</link>
         <guid isPermaLink="true">http://localhost:4000/2018/09/25/recylcing.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>National League of Cities recruiting</title>
-        <description>&lt;p&gt;Reenvisioned the look of NLC’s marketing materials and managed multiple stakeholders to get this project done.&lt;/p&gt;
-
-&lt;p class=&quot;involvement&quot;&gt;
-◍ &lt;em&gt;&lt;strong&gt;role&lt;/strong&gt; concept, layout, copy writing&lt;/em&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/projects/FINAL-recruiting-brochure.pdf&quot;&gt;&lt;img src=&quot;/assets/recruit.jpg&quot; alt=&quot;Autonomous Vehicle Pilots Across America&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 01 Sep 2018 08:53:02 -0400</pubDate>
-        <link>http://localhost:4000/2018/09/01/recruiting-brochure.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/09/01/recruiting-brochure.html</guid>
         
         
       </item>

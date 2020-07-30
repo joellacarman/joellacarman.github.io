@@ -251,18 +251,18 @@ html {
     margin-bottom: 30px;
     margin-left: 30px;
     padding: 12px 15px 15px 15px;
-    max-width: 27.9411764706%;
-    float: left;
-    height: 300px; }
+    max-width: 26%;
+    float: left; }
+    @media screen and (max-width: 900px) {
+      .post-list > li {
+        max-width: 40%; } }
     @media screen and (max-width: 600px) {
       .post-list > li {
-        height: auto;
         margin-left: 15px;
         max-width: 100%;
         padding: 12px 15px 15px 15px; } }
 
 .image-wrapper {
-  height: 240px;
   overflow: hidden; }
   @media screen and (max-width: 600px) {
     .image-wrapper {
@@ -283,12 +283,16 @@ html {
  * Posts
  */
 .post {
-  margin: 0 auto;
+  border-left: 3px dotted #E0E0E0;
+  margin: 20px auto;
   max-width: 700px;
+  padding: 0 35px;
   width: 66%; }
   @media screen and (max-width: 600px) {
     .post {
+      border-left: none;
       margin-left: 30px;
+      padding: 0;
       width: 90%; } }
 
 .post-title {

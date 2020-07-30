@@ -138,22 +138,21 @@ html {
         margin-bottom: $spacing-unit;
         margin-left: $spacing-unit;
         padding: 12px 15px 15px 15px;
-        max-width: ($content-width / 3.4);
+        max-width: 26%;
         float: left;
-        height: ($spacing-unit * 10);
+            @include media-query($on-tablet) {
+              max-width: 40%;
+            }
 
             @include media-query($on-palm) {
-                height: auto;
-                // margin-right: 0px;
                 margin-left: $spacing-unit - 15;
                 max-width: 100%;
                 padding: 12px 15px 15px 15px;
             }
     }
 }
-
+//crop images to 1024 x 576
 .image-wrapper {
-  height: 240px;
   overflow: hidden;
       @include media-query($on-palm) {
         height: auto;
@@ -178,12 +177,16 @@ html {
  */
 
 .post {
-  margin: 0 auto;
+  border-left: 3px dotted #E0E0E0;
+  margin: 20px auto;
   max-width: 700px;
+  padding: 0 35px;
   width: 66%;
 
     @include media-query($on-palm) {
+      border-left: none;
       margin-left: $spacing-unit;
+      padding: 0;
       width: 90%;
     }
 }

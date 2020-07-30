@@ -14,6 +14,8 @@ I also wanted to highlight the distance from age 72 for each candidate. It also 
 
 Finally, I was persuaded to add photos. They do make a good detail element, sometimes.
 
+[Link](https://www.cnn.com/2019/03/23/politics/2020-presidential-race-generation-gap/index.html)
+
 <p class="involvement" markdown="1">
 &#9677; _**role** designer_ &#9677; _**tech** ai2html_
 </p>

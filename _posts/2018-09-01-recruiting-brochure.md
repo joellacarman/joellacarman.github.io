@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "National League of Cities recruiting"
+title:  "Join National League of Cities"
 date:   2018-09-01 12:53:02
 image: /assets/recruit.jpg
 ---

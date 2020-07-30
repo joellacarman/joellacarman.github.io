@@ -14,4 +14,4 @@ Straight photography is important to the branding of projects like these, so rat
 
 [Full report here]((http://www.nlc.org/resource/cities-and-innovation-economy-perceptions-of-local-leaders))
 
-[![Cities and the Innovation Economy](/assets/InnovEconCover.png)](http://www.nlc.org/resource/cities-and-innovation-economy-perceptions-of-local-leaders)
+[![Cities and the Innovation Economy](/assets/innovation-economy-cover-full.png)](http://www.nlc.org/resource/cities-and-innovation-economy-perceptions-of-local-leaders)
