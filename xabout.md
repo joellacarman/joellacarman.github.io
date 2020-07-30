@@ -4,11 +4,10 @@ title: About
 permalink: /about/
 ---
 
-I’m a graphic designer in Washington, D.C. I work on the data viz team at the Urban Institute, where my primary responsibility is developing [features](https://www.urban.org/features). 
 
-My core interest is design. I specialize in charts and graphs, but have also been known to do layout, print work and occasional copy writing.
+I’m a graphic designer and developer in Washington, D.C. I work with the data viz team at the Urban Institute. I specialize in charts and graphs, but have also been known to do layout, print work and occasional copy writing.
 
-Before Urban, I worked with the interactive design team at CNN Politics. 
+Before Urban I worked with the interactive design team at CNN Politics. 
 
 I began my working life in libraries and spent many years as a librarian at NPR. I love to find out *why* and *how*, and to spot things that don’t quite add up.
 
