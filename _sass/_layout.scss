@@ -2,7 +2,8 @@
  * Site header
  */
 .site-header {
-    border-bottom: 1px solid $my-gold;
+    border-bottom: 2px solid $my-gold;
+    margin-right: 25%;
 }
 
 header > div.wrapper {
@@ -115,11 +116,11 @@ figcaption {
 }
 
 html {
-  background-color: #F9F9F9;
+  // background-color: #F9F9F9;
 }
 
 .page-content {
-    background-color: #F9F9F9;
+    // background-color: #F9F9F9;
     width: 100%;
 }
 
@@ -133,12 +134,11 @@ html {
 
     > li {
         background-color: #ffffff;
-        border: 0.5px solid #dddddd;
-        border-radius: 2px;
+
         margin-bottom: $spacing-unit;
-        margin-left: $spacing-unit;
+        margin-left: 2 * $spacing-unit;
         padding: 12px 15px 15px 15px;
-        max-width: 26%;
+        max-width: 23%;
         float: left;
             @include media-query($on-tablet) {
               max-width: 40%;
@@ -166,9 +166,9 @@ html {
 
 .post-link {
     display: block;
-    font-family: "Lora";
+    font-family: "Karla";
     font-weight: 400;
-    font-size: $large-font-size;
+    font-size: 18px;
     line-height: 1.1;
 }
 
@@ -189,6 +189,10 @@ html {
       padding: 0;
       width: 90%;
     }
+}
+
+h1.post-title {
+  margin-bottom: $spacing-unit / 2;
 }
 
 .post-title {
@@ -225,6 +229,7 @@ html {
     img {
       border: 2px solid #FFFFFF;
       margin-top: $spacing-unit;
+      margin-bottom: $spacing-unit;
 
       @include media-query($on-palm) {
         width: 100%;
@@ -242,16 +247,22 @@ html {
     }
 
     p {
-        color: #767676;
-        font-weight: 100;
+        color: #5E5E5E;
+        font-weight: 400;
     }
 
-    .involvement {
-    //  font-family: "Lora";
-      font-size: 16px;
+    p.date {
+      color: #B2B2B2;
+      font-size: 14px;
+      margin-bottom: 3px;
+    }
+
+    p.involvement {
+     font-family: "Lora";
+      font-size: 14px;
     //  color: #a4a4a4;
-      color: #898989;
-     margin-top: $spacing-unit;
+      color: #999999;
+      margin-bottom: $spacing-unit;
     }
 }
 

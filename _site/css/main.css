@@ -12,7 +12,7 @@ dl, dd, ol, ul, figure {
  */
 body {
   font-family: "Karla";
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.5;
   font-weight: 300;
   color: #111;
@@ -26,7 +26,7 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 .highlight {
-  margin-bottom: 15px; }
+  margin-bottom: 30px; }
 
 /**
  * Images
@@ -43,7 +43,7 @@ figure > img {
   display: block; }
 
 figcaption {
-  font-size: 12.5792px; }
+  font-size: 14.1516px; }
 
 /**
  * Lists
@@ -112,7 +112,7 @@ pre {
 .wrapper {
   max-width: 100%;
   padding-top: 30px;
-  padding-bottom: 30px; }
+  padding-bottom: 10px; }
   @media screen and (max-width: 1024px) {
     .wrapper {
       max-width: -webkit-calc(95%);
@@ -155,7 +155,8 @@ pre {
  * Site header
  */
 .site-header {
-  border-bottom: 1px solid #DF7D1D; }
+  border-bottom: 2px solid #DF7D1D;
+  margin-right: 25%; }
 
 header > div.wrapper {
   padding-left: 45px; }
@@ -181,7 +182,7 @@ header > div.wrapper {
 #nav-links {
   display: inline;
   font-weight: 400;
-  font-size: 20.352px; }
+  font-size: 22.896px; }
   @media screen and (max-width: 1024px) {
     #nav-links {
       display: block;
@@ -231,11 +232,7 @@ figcaption {
   font-style: italic;
   margin-top: -4%; }
 
-html {
-  background-color: #F9F9F9; }
-
 .page-content {
-  background-color: #F9F9F9;
   width: 100%; }
 
 .page-heading {
@@ -246,12 +243,10 @@ html {
   list-style: none; }
   .post-list > li {
     background-color: #ffffff;
-    border: 0.5px solid #dddddd;
-    border-radius: 2px;
     margin-bottom: 30px;
-    margin-left: 30px;
+    margin-left: 60px;
     padding: 12px 15px 15px 15px;
-    max-width: 26%;
+    max-width: 23%;
     float: left; }
     @media screen and (max-width: 900px) {
       .post-list > li {
@@ -269,14 +264,14 @@ html {
       height: auto; } }
 
 .post-meta {
-  font-size: 12.5792px;
+  font-size: 14.1516px;
   color: #828282; }
 
 .post-link {
   display: block;
-  font-family: "Lora";
+  font-family: "Karla";
   font-weight: 400;
-  font-size: 20.352px;
+  font-size: 18px;
   line-height: 1.1; }
 
 /**
@@ -295,6 +290,9 @@ html {
       padding: 0;
       width: 90%; } }
 
+h1.post-title {
+  margin-bottom: 15px; }
+
 .post-title {
   font-size: 36px;
   font-family: "Lora";
@@ -309,17 +307,18 @@ html {
       width: 100%; } }
   .post-content h2 {
     font-family: "Lora";
-    font-size: 20.352px;
+    font-size: 22.896px;
     font-weight: 400;
     margin-bottom: 0;
     margin-top: 30px; }
   .post-content h3 {
-    font-size: 25.888px; }
+    font-size: 29.124px; }
   .post-content h4 {
-    font-size: 25.888px; }
+    font-size: 29.124px; }
   .post-content img {
     border: 2px solid #FFFFFF;
-    margin-top: 30px; }
+    margin-top: 30px;
+    margin-bottom: 30px; }
     @media screen and (max-width: 600px) {
       .post-content img {
         width: 100%; } }
@@ -329,12 +328,17 @@ html {
   .post-content a:hover {
     color: #DF7D1D; }
   .post-content p {
-    color: #767676;
-    font-weight: 100; }
-  .post-content .involvement {
-    font-size: 16px;
-    color: #898989;
-    margin-top: 30px; }
+    color: #5E5E5E;
+    font-weight: 400; }
+  .post-content p.date {
+    color: #B2B2B2;
+    font-size: 14px;
+    margin-bottom: 3px; }
+  .post-content p.involvement {
+    font-family: "Lora";
+    font-size: 14px;
+    color: #999999;
+    margin-bottom: 30px; }
 
 /**
  * Gallery

@@ -4,10 +4,17 @@ title:  "Self-help funding for infrastructure"
 date:   2018-01-16 12:53:02
 image: /assets/infog-SelfHelp.png
 ---
-A federal infrastructure package that asks cities to raise the funds as an “ante” is unfair. Each city in the US operates under a unique set of laws. They do not share same ability to raise funds through taxes, public-private partnerships, and other means. The chart below shows how different the path to “self-help” is for 15 sample cities.
 
-<p class="involvement" markdown="1">
-&#9677; _**role** design_
+
+<p class="date" markdown="1">
+January, 2018
 </p>
 
-[![Uneven access to self-help tools](/assets/infog-SelfHelp.jpg)](/projects/infog-SelfHelp.pdf)
+<p class="involvement" markdown="1">
+_role_ design (print product)
+</p>
+
+
+Every city has unique constraints when it comes to ability to fundraise. When the federal government requests cities provide an "ante" toward infrastructure projects, the burden falls unevenly depending on local law. This chart, created as a "leave behind" for leaders visiting Capitol Hill, shows how different the path to “self-help” is for 15 sample cities.
+
+![Uneven access to self-help tools](/assets/infog-SelfHelp.jpg)

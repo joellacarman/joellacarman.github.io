@@ -6,17 +6,25 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 30 Jul 2020 10:14:25 -0400</pubDate>
-    <lastBuildDate>Thu, 30 Jul 2020 10:14:25 -0400</lastBuildDate>
+    <pubDate>Fri, 28 Aug 2020 16:23:49 -0400</pubDate>
+    <lastBuildDate>Fri, 28 Aug 2020 16:23:49 -0400</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
     
       <item>
         <title>School segregation</title>
-        <description>&lt;p&gt;In my new role at the Urban Institute I mainly do web development, but this piece I designed and illustrated.&lt;/p&gt;
+        <description>&lt;p class=&quot;date&quot;&gt;
+June 26, 2020
+&lt;/p&gt;
+
+&lt;p class=&quot;involvement&quot;&gt;
+&lt;em&gt;role&lt;/em&gt; designer, illustrator
+&lt;/p&gt;
+
+&lt;p&gt;In my new role at the Urban Institute I mainly do web development, but this piece I designed and illustrated.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://apps.urban.org/features/school-segregation-index/&quot;&gt;&lt;img src=&quot;/assets/k12-illo.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;At the conclusion of the scrollyteller we provide a dashboard where readers can look up their own district. One of the small-but-important things I am really proud of about this piece is the transition between those two distinct sections.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://apps.urban.org/features/school-segregation-index/&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://apps.urban.org/features/school-segregation-index/&quot;&gt;&lt;img src=&quot;/assets/k12-lookup.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -29,13 +37,17 @@
     
       <item>
         <title>Trump at the G20</title>
-        <description>&lt;p&gt;I created the lead art for Kevin Liptak’s story &lt;a href=&quot;https://www.cnn.com/2019/06/26/politics/donald-trump-xi-jinping-vladimir-putin-g20-meetings/index.html&quot;&gt;Trump’s G20 orbits around Xi, Putin, and other world leaders&lt;/a&gt;.&lt;/p&gt;
+        <description>&lt;p class=&quot;date&quot;&gt;
+June 26, 2019
+&lt;/p&gt;
+
+&lt;p class=&quot;involvement&quot;&gt;
+&lt;em&gt;role&lt;/em&gt; illustrator
+&lt;/p&gt;
+
+&lt;p&gt;I created the lead art for Kevin Liptak’s story &lt;a href=&quot;https://www.cnn.com/2019/06/26/politics/donald-trump-xi-jinping-vladimir-putin-g20-meetings/index.html&quot;&gt;Trump’s G20 orbits around Xi, Putin, and other world leaders&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;I followed the establish style closely and turned the job around in about 2 hours. Had it been a more complicated idea I would have tried to come up with a few sketched concepts first.&lt;/p&gt;
-
-&lt;p&gt;I would love to do more photo illustration!&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2019/06/26/politics/donald-trump-xi-jinping-vladimir-putin-g20-meetings/index.html&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2019/06/26/politics/donald-trump-xi-jinping-vladimir-putin-g20-meetings/index.html&quot;&gt;&lt;img src=&quot;/assets/trump-putin-xi.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -48,20 +60,21 @@
     
       <item>
         <title>Who qualified to debate</title>
-        <description>&lt;p&gt;In high school I enjoyed dabbling in the darkroom. It always gives me great pleasure to get Photoshop to deliver inky black tones, bright highlights and crisp detail that I never could with filters, timers and stop bath.&lt;/p&gt;
-
-&lt;p&gt;It was quite satisfying to take these mismatched “headshots” and give them that high contrast treatment, making a disparate set of images feel like they belonged together.&lt;/p&gt;
-
-&lt;p&gt;These high contrast faces appealed to the video team as well, I think: They included the image in their &lt;a href=&quot;https://www.cnn.com/videos/politics/2019/06/13/how-to-qualify-for-a-presidential-debate-mh-orig.cnn&quot;&gt;explainer video&lt;/a&gt; about the qualifying process for the Democratic debates.&lt;/p&gt;
-
-&lt;p&gt;Later I learned that &lt;a href=&quot;/assets/LateShow.jpg&quot;&gt;The Late Show with Stephen Colbert used a graphic&lt;/a&gt; I made with the same set of headshots in a segment on second quarter fundraising! (&lt;a href=&quot;https://www.cbs.com/shows/the-late-show-with-stephen-colbert/video/5q_UgY_7TMY_AbIaPj2tufW1spd_fL88/the-late-show-7-17-19-sofia-vergara-david-cross-tove-lo-/&quot;&gt;July 17, 2019 episode&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2019/05/09/politics/democratic-primary-debates-tracking-qualifications-polling-fundraising/index.html&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
-&lt;p class=&quot;involvement&quot;&gt;
-◍ &lt;em&gt;&lt;strong&gt;role&lt;/strong&gt; designer, template jockey&lt;/em&gt; ◍ &lt;em&gt;&lt;strong&gt;tech&lt;/strong&gt; d3&lt;/em&gt;
+        <description>&lt;p class=&quot;date&quot;&gt;
+May 10, 2019
 &lt;/p&gt;
 
+&lt;p class=&quot;involvement&quot;&gt;
+&lt;em&gt;role&lt;/em&gt; designer, template jockey &lt;em&gt;tech&lt;/em&gt; Daily Graphics Rig, d3
+&lt;/p&gt;
+
+&lt;p&gt;At CNN, for many months as the race to 2020 ramped up we made do with a set of mismatched photos rather than true headshots and I wanted to do what I could to polish those photos.&lt;/p&gt;
+
 &lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2019/05/09/politics/democratic-primary-debates-tracking-qualifications-polling-fundraising/index.html&quot;&gt;&lt;img src=&quot;/assets/debate-qualified.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Converting to black and white is an old trick for bringing unity to a ragged set. Dialing up the contrast and pairing the photos with a strong blue strengthened the cohesivenesss and made for an eye-catching graphic that turned out to have pretty good legs.&lt;/p&gt;
+
+&lt;p&gt;The Colbert Show used a &lt;a href=&quot;/assets/LateShow.jpg&quot;&gt;bar chart&lt;/a&gt; I made with the same set of heads on a July 2019 episode about quarterly fundraising reports, and this particular graphic was included in an  &lt;a href=&quot;https://www.cnn.com/videos/politics/2019/06/13/how-to-qualify-for-a-presidential-debate-mh-orig.cnn&quot;&gt;explainer&lt;/a&gt; on the debates for CNN’s social channels.&lt;/p&gt;
 </description>
         <pubDate>Fri, 10 May 2019 11:54:02 -0400</pubDate>
         <link>http://localhost:4000/2019/05/10/qualified-for-dem-debates.html</link>
@@ -72,13 +85,19 @@
     
       <item>
         <title>Tax cuts and refunds</title>
-        <description>&lt;p&gt;This graphic ran with the story &lt;a href=&quot;https://www.cnn.com/2019/04/13/politics/tax-reform-winners-and-losers/index.html&quot;&gt;Here’s who’s winning under Trump’s tax law&lt;/a&gt;. I started out by making bar chart so the individual states could be identified. After looking more closely at the data, however, I saw the real takeaway from the chart should be this striking fact that refunds shrank only in blue states. I let go of individual state labels in favor of showing the red/blue grouping and it became a much more concise, effective piece!&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2019/04/13/politics/tax-reform-winners-and-losers/index.html&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p class=&quot;date&quot;&gt;
+April 13, 2019
+&lt;/p&gt;
 
 &lt;p class=&quot;involvement&quot;&gt;
-◍ &lt;em&gt;&lt;strong&gt;role&lt;/strong&gt; designer&lt;/em&gt; ◍ &lt;em&gt;&lt;strong&gt;tech&lt;/strong&gt; d3&lt;/em&gt;
+&lt;em&gt;role&lt;/em&gt; designer, template jockey &lt;em&gt;tech&lt;/em&gt; Daily Graphics Rig, d3
 &lt;/p&gt;
+
+&lt;p&gt;This graphic ran with the story &lt;a href=&quot;https://www.cnn.com/2019/04/13/politics/tax-reform-winners-and-losers/index.html&quot;&gt;Here’s who’s winning under Trump’s tax law&lt;/a&gt;. I started out by making bar chart so the individual states could be identified, but this buried the real takeaway: refunds shrank only in blue states.&lt;/p&gt;
+
+&lt;p&gt;I let go of individual state labels in favor of showing the red/blue grouping and it became a more concise and effective piece.&lt;/p&gt;
+
+&lt;p&gt;After the fact, I found out the name for &lt;a href=&quot;https://blockbuilder.org/mbostock/6526445e2b44303eebf21da3b6627320&quot;&gt;“beeswarm”&lt;/a&gt; charts and wish I could have used that layout here.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2019/04/13/politics/tax-reform-winners-and-losers/index.html&quot;&gt;&lt;img src=&quot;/assets/tax-cuts.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -91,15 +110,17 @@
     
       <item>
         <title>DHS After the purge</title>
-        <description>&lt;p&gt;The team working on this story was captivated by this photo of a ribbon-cutting ceremony showing a number of soon-to-be-replaced officials and acting or otherwise temporary leadership. I used cut lines and shading to highlight the individuals who were coming and going.&lt;/p&gt;
-
-&lt;p&gt;The figures outlined in dots remind me of paper dolls, which might be a good metaphor for a future illustration.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2019/04/17/politics/inside-dhs-after-the-purge/index.html&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p class=&quot;date&quot;&gt;
+April 17, 2019
+&lt;/p&gt;
 
 &lt;p class=&quot;involvement&quot;&gt;
-◍ &lt;em&gt;&lt;strong&gt;role&lt;/strong&gt; designer&lt;/em&gt; ◍ &lt;em&gt;&lt;strong&gt;tech&lt;/strong&gt; ai2html&lt;/em&gt;
+&lt;em&gt;role&lt;/em&gt; designer &lt;em&gt;tech&lt;/em&gt; ai2html
 &lt;/p&gt;
+
+&lt;p&gt;The team working on &lt;a href=&quot;https://www.cnn.com/2019/04/17/politics/inside-dhs-after-the-purge/index.html&quot;&gt;this story&lt;/a&gt; was captivated by this photo of a ribbon-cutting ceremony showing a number of soon-to-be-replaced officials and acting or otherwise temporary leadership. I used cut lines and shading to highlight the individuals who were coming and going.&lt;/p&gt;
+
+&lt;p&gt;The figures outlined in dots remind me of paper dolls, which might be a good metaphor for a future illustration.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2019/04/17/politics/inside-dhs-after-the-purge/index.html&quot;&gt;&lt;img src=&quot;/assets/dhs-purge.jpg&quot; alt=&quot;Illustration of Kirstjen Nielsen and Claire Grady with their replacements, Kevin McAleenan and David Pekoske.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -112,7 +133,19 @@
     
       <item>
         <title>Age range of candidates</title>
-        <description>&lt;p&gt;This look at the generational spread of the Democratic field was inspired by Pete Buttigieg’s comment that his own youthful face was “the message” of his campaign. He told Morning Joe: “That’s why I often talk about how the world’s going to look in 2054, when I get to the current age of the current president. It’s to remind us that this isn’t just about one election.” So what year will it be (or was it) when other candidates are 72, like Trump?&lt;/p&gt;
+        <description>&lt;p class=&quot;date&quot;&gt;
+March 23, 2019
+&lt;/p&gt;
+
+&lt;p class=&quot;involvement&quot;&gt;
+&lt;em&gt;role&lt;/em&gt; designer &lt;em&gt;tech&lt;/em&gt; ai2html
+&lt;/p&gt;
+
+&lt;p&gt;This look at the generational spread of the Democratic field was inspired by Pete Buttigieg’s comment that his own youthful face was “the message” of his campaign. He told Morning Joe: “That’s why I often talk about how the world’s going to look in 2054, when I get to the current age of the current president. It’s to remind us that this isn’t just about one election.”&lt;/p&gt;
+
+&lt;p&gt;So what year will it be (or was it) when other candidates are 72, like Trump?&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2019/03/23/politics/2020-presidential-race-generation-gap/index.html&quot;&gt;&lt;img src=&quot;/assets/pres-cand-age.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Most of the charts I make at CNN use templates. It’s a sane way to handle daily graphics flow for many reasons, but one does enjoy a chance to get creative especially on a somewhat evergreen topic of candidate age.&lt;/p&gt;
 
@@ -120,15 +153,8 @@
 
 &lt;p&gt;I also wanted to highlight the distance from age 72 for each candidate. It also creates a nice pattern. On mobile, however, I took this out since it’s not original information (it’s not hard to get that 37 is indeed a long way from 72).&lt;/p&gt;
 
-&lt;p&gt;Finally, I was persuaded to add photos. They do make a good detail element, sometimes.&lt;/p&gt;
+&lt;p&gt;CNN has since updated this same graphic and used it again in another piece to capture search interest in candidates’ age.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2019/03/23/politics/2020-presidential-race-generation-gap/index.html&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
-
-&lt;p class=&quot;involvement&quot;&gt;
-◍ &lt;em&gt;&lt;strong&gt;role&lt;/strong&gt; designer&lt;/em&gt; ◍ &lt;em&gt;&lt;strong&gt;tech&lt;/strong&gt; ai2html&lt;/em&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2019/03/23/politics/2020-presidential-race-generation-gap/index.html&quot;&gt;&lt;img src=&quot;/assets/pres-cand-age.jpg&quot; alt=&quot;Democratic candidates' medicare-inspired health plans.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 23 Mar 2019 11:54:02 -0400</pubDate>
         <link>http://localhost:4000/2019/03/23/candidate-generations.html</link>
@@ -139,14 +165,15 @@
     
       <item>
         <title>Presidential vetoes</title>
-        <description>&lt;p&gt;Though it seems odd to think this would happen today, in the past many presidents have vetoed legislation from their own party.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2019/03/02/politics/trump-presidents-veto-congress-history-override-national-emergency/index.html&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p class=&quot;date&quot;&gt;
+March 3, 2019
+&lt;/p&gt;
 
 &lt;p class=&quot;involvement&quot;&gt;
-◍ &lt;em&gt;&lt;strong&gt;role&lt;/strong&gt; concept, research, design, development&lt;/em&gt;
-◍ &lt;em&gt;&lt;strong&gt;tech&lt;/strong&gt; the &lt;a href=&quot;https://github.com/nprapps/dailygraphics#what-is-this&quot;&gt;Daily Graphics Rig&lt;/a&gt;&lt;/em&gt;
+&lt;em&gt;role&lt;/em&gt; designer, template wrangler, concept, research &lt;em&gt;tech&lt;/em&gt; d3
 &lt;/p&gt;
+
+&lt;p&gt;Though it seems odd to think this would happen today, in the past many presidents have vetoed legislation from their own party.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2019/03/02/politics/trump-presidents-veto-congress-history-override-national-emergency/index.html&quot;&gt;&lt;img src=&quot;/assets/vetoes.png&quot; alt=&quot;Scatterplot of presidential vetoes since 1789&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -159,13 +186,15 @@
     
       <item>
         <title>2020 Dems shift left</title>
-        <description>&lt;p&gt;Possibly my best piece of work for CNN so far is the donkey icon on this graph (though in hindsight I do wish I’d parted with the styleguide and chosen two blues with more contrast).&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2019/02/12/politics/2020-democratic-field-more-liberal-than-past-years/index.html&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p class=&quot;date&quot;&gt;
+February 13, 2019
+&lt;/p&gt;
 
 &lt;p class=&quot;involvement&quot;&gt;
-◍ &lt;em&gt;&lt;strong&gt;role&lt;/strong&gt; designer&lt;/em&gt; ◍ &lt;em&gt;&lt;strong&gt;tech&lt;/strong&gt; ai2html&lt;/em&gt;
+&lt;em&gt;role&lt;/em&gt; designer &lt;em&gt;tech&lt;/em&gt; ai2html
 &lt;/p&gt;
+
+&lt;p&gt;Harry Enten crunched some fascinating numbers on political ideology and I captured them in &lt;a href=&quot;https://www.cnn.com/2019/02/12/politics/2020-democratic-field-more-liberal-than-past-years/index.html&quot;&gt;a graphic&lt;/a&gt;. Possibly my best piece of work for CNN so far is the donkey icon on this graph (though in hindsight I do wish I’d parted with the styleguide and chosen two blues with more contrast).&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2019/02/12/politics/2020-democratic-field-more-liberal-than-past-years/index.html&quot;&gt;&lt;img src=&quot;/assets/enten-dem-cand-ideology.png&quot; alt=&quot;The average of 2020 frontrunners' ideological score according to VoteView.com is more liberal than past candidates'.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -178,13 +207,15 @@
     
       <item>
         <title>Women in Congress</title>
-        <description>&lt;p&gt;2018 set a record for the number of women in Congress.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2018/11/07/politics/history-making-night-for-women/index.html&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p class=&quot;date&quot;&gt;
+November 9, 2018
+&lt;/p&gt;
 
 &lt;p class=&quot;involvement&quot;&gt;
-◍ &lt;em&gt;&lt;strong&gt;role&lt;/strong&gt; designer&lt;/em&gt; ◍ &lt;em&gt;&lt;strong&gt;tech&lt;/strong&gt; ai2html&lt;/em&gt;
+&lt;em&gt;role&lt;/em&gt; designer &lt;em&gt;tech&lt;/em&gt; ai2html
 &lt;/p&gt;
+
+&lt;p&gt;2018 set a record for the number of women in Congress. &lt;a href=&quot;https://www.cnn.com/2018/11/07/politics/history-making-night-for-women/index.html&quot;&gt;This story&lt;/a&gt; by Maeve Reston marks the occasion.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2018/11/07/politics/history-making-night-for-women/index.html&quot;&gt;&lt;img src=&quot;/assets/women-in-congress.jpg&quot; alt=&quot;Dot chart of women in the House and Senate.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -197,13 +228,17 @@
     
       <item>
         <title>Recycling markets collapse</title>
-        <description>&lt;p&gt;Recycling as we knew it crashed when China stopped accepting waste shipments from the US. Cities, which often manage consumer recycling, were left holding the bag.&lt;/p&gt;
-
-&lt;p&gt;This infographic detailing the market change appeared at the beginning of a &lt;a href=&quot;https://www.nlc.org/resource/rethinking-recycling-how-cities-can-adapt-to-evolving-markets&quot;&gt;Municipal Action Guide&lt;/a&gt; designed to help city leaders deal with the crisis.&lt;/p&gt;
+        <description>&lt;p class=&quot;date&quot;&gt;
+September 2018
+&lt;/p&gt;
 
 &lt;p class=&quot;involvement&quot;&gt;
-◍ &lt;em&gt;&lt;strong&gt;role&lt;/strong&gt; design&lt;/em&gt;
+&lt;em&gt;role&lt;/em&gt; designer (print publication)
 &lt;/p&gt;
+
+&lt;p&gt;Recycling as we knew it crashed when China stopped accepting waste shipments from the US. Cities, which often manage consumer recycling, were left holding the bag.&lt;/p&gt;
+
+&lt;p&gt;This infographic detailing the market change appeared at the beginning of a &lt;a href=&quot;https://www.nlc.org/resource/rethinking-recycling-how-cities-can-adapt-to-evolving-markets&quot;&gt;Municipal Action Guide&lt;/a&gt; designed to help city leaders deal with the crisis.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/projects/infog-RecyclingMarket.pdf&quot;&gt;&lt;img src=&quot;/assets/recycling.png&quot; alt=&quot;Recycling Markets Hit By China's New Policy&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
