@@ -15,8 +15,8 @@ header > div.wrapper {
 
 .site-title {
     color: $text-color;
-    font-family: "Chronicle Text G1 A", "Chronicle Text G1 B";
-    font-size: $title-height;
+    font-family: "Chronicle Display A", "Chronicle Display B";
+    font-size: 40px;
     display: inline;
     margin-right: $spacing-unit;
     line-height: 1.2;
@@ -37,9 +37,9 @@ header > div.wrapper {
 #nav-links {
     display: inline;
     font-family: "Ringside Compressed SSm A", "Ringside Compressed SSm B";
-    font-weight: 400;
+    font-weight: 300;
     font-size: $large-font-size;
-    // text-transform: uppercase;
+    text-transform: uppercase;
         @include media-query($on-laptop) {
             display: block;
     //        padding-left: $spacing-unit;
@@ -50,7 +50,7 @@ header > div.wrapper {
 }
 
 #nav-links > a {
-    color: $text-color;
+    color: #777676;
     padding-right: 5%;
     text-decoration: none;
 }
@@ -167,12 +167,10 @@ html {
 
 .post-link {
     display: block;
-    font-family: "Ringside Compressed SSm A", "Ringside Compressed SSm B";
-font-style: normal;
-font-weight: 300;
+    font-family: "Chronicle Text G1 A", "Chronicle Text G1 B";
+    font-style: normal;
     font-weight: 400;
-    font-size: 18px;
-    line-height: 1.1;
+    font-size: 16px;
 }
 
 /**
