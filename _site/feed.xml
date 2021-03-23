@@ -6,9 +6,33 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 12 Oct 2020 16:06:44 -0400</pubDate>
-    <lastBuildDate>Mon, 12 Oct 2020 16:06:44 -0400</lastBuildDate>
+    <pubDate>Tue, 23 Mar 2021 16:27:19 -0400</pubDate>
+    <lastBuildDate>Tue, 23 Mar 2021 16:27:19 -0400</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
+    
+      <item>
+        <title>The unequal commute</title>
+        <description>&lt;p class=&quot;date&quot;&gt;
+October 6, 2020
+&lt;/p&gt;
+
+&lt;p class=&quot;involvement&quot;&gt;
+&lt;em&gt;role&lt;/em&gt; developer
+&lt;/p&gt;
+
+&lt;p&gt;This quick turn feature highlights a new way to measure equity in transportation planning.&lt;/p&gt;
+
+&lt;p&gt;The ability to zoom out to a whole MSA or down to street level gives a reader a lot of context for the data in this project. Thanks to Mapbox, all of this information comes built in.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.urban.org/features/unequal-commute&quot;&gt;&lt;img src=&quot;/assets/bmore-commute.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 06 Oct 2019 11:54:02 -0400</pubDate>
+        <link>http://localhost:4000/2019/10/06/unequal-commute.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/10/06/unequal-commute.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>School segregation</title>
@@ -222,29 +246,6 @@ November 9, 2018
         <pubDate>Fri, 09 Nov 2018 10:54:02 -0500</pubDate>
         <link>http://localhost:4000/2018/11/09/women-in-congress.html</link>
         <guid isPermaLink="true">http://localhost:4000/2018/11/09/women-in-congress.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Recycling markets collapse</title>
-        <description>&lt;p class=&quot;date&quot;&gt;
-September 2018
-&lt;/p&gt;
-
-&lt;p class=&quot;involvement&quot;&gt;
-&lt;em&gt;role&lt;/em&gt; designer (print publication)
-&lt;/p&gt;
-
-&lt;p&gt;Recycling as we knew it crashed when China stopped accepting waste shipments from the US. Cities, which often manage consumer recycling, were left holding the bag.&lt;/p&gt;
-
-&lt;p&gt;This infographic detailing the market change appeared at the beginning of a &lt;a href=&quot;https://www.nlc.org/resource/rethinking-recycling-how-cities-can-adapt-to-evolving-markets&quot;&gt;Municipal Action Guide&lt;/a&gt; designed to help city leaders deal with the crisis.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/projects/infog-RecyclingMarket.pdf&quot;&gt;&lt;img src=&quot;/assets/recycling.png&quot; alt=&quot;Recycling Markets Hit By China's New Policy&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 25 Sep 2018 08:53:02 -0400</pubDate>
-        <link>http://localhost:4000/2018/09/25/recylcing.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/09/25/recylcing.html</guid>
         
         
       </item>

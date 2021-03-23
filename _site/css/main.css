@@ -11,7 +11,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font-family: "Karla";
+  font-family: "Chronicle Text G1 A", "Chronicle Text G1 B";
   font-size: 18px;
   line-height: 1.5;
   font-weight: 300;
@@ -166,14 +166,14 @@ header > div.wrapper {
 
 .site-title {
   color: #111;
-  font-family: "Lora";
-  font-weight: bold;
+  font-family: "Chronicle Text G1 A", "Chronicle Text G1 B";
   font-size: 36px;
   display: inline;
   margin-right: 30px;
-  letter-spacing: 1px;
   line-height: 1.2;
-  text-decoration: none; }
+  text-decoration: none;
+  font-style: normal;
+  font-weight: 300; }
   .site-title, .site-title:visited {
     color: #111; }
   .site-title, .site-title:hover {
@@ -181,6 +181,7 @@ header > div.wrapper {
 
 #nav-links {
   display: inline;
+  font-family: "Ringside Compressed SSm A", "Ringside Compressed SSm B";
   font-weight: 400;
   font-size: 22.896px; }
   @media screen and (max-width: 1024px) {
@@ -269,7 +270,9 @@ figcaption {
 
 .post-link {
   display: block;
-  font-family: "Karla";
+  font-family: "Ringside Compressed SSm A", "Ringside Compressed SSm B";
+  font-style: normal;
+  font-weight: 300;
   font-weight: 400;
   font-size: 18px;
   line-height: 1.1; }
@@ -295,7 +298,7 @@ h1.post-title {
 
 .post-title {
   font-size: 36px;
-  font-family: "Lora";
+  font-family: "Chronicle Text G1 A", "Chronicle Text G1 B";
   font-weight: 400;
   line-height: 1.2;
   padding-top: 15px; }
@@ -306,7 +309,7 @@ h1.post-title {
     .post-content {
       width: 100%; } }
   .post-content h2 {
-    font-family: "Lora";
+    font-family: "Chronicle Text G1 A", "Chronicle Text G1 B";
     font-size: 22.896px;
     font-weight: 400;
     margin-bottom: 0;
@@ -335,7 +338,7 @@ h1.post-title {
     font-size: 14px;
     margin-bottom: 3px; }
   .post-content p.involvement {
-    font-family: "Lora";
+    font-family: "Chronicle Text G1 A", "Chronicle Text G1 B";
     font-size: 14px;
     color: #999999;
     margin-bottom: 30px; }
