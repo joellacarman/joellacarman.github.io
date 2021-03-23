@@ -166,10 +166,11 @@ header > div.wrapper {
 
 .site-title {
   color: #111;
-  font-family: "Chronicle Text G1 A", "Chronicle Text G1 B";
-  font-size: 36px;
+  font-family: "Chronicle Display A", "Chronicle Display B";
+  font-size: 40px;
   display: inline;
   margin-right: 30px;
+  margin-left: 30px;
   line-height: 1.2;
   text-decoration: none;
   font-style: normal;
@@ -178,12 +179,16 @@ header > div.wrapper {
     color: #111; }
   .site-title, .site-title:hover {
     color: #DF7D1D; }
+  @media screen and (max-width: 600px) {
+    .site-title {
+      margin-left: 0; } }
 
 #nav-links {
   display: inline;
   font-family: "Ringside Compressed SSm A", "Ringside Compressed SSm B";
-  font-weight: 400;
-  font-size: 22.896px; }
+  font-weight: 300;
+  font-size: 22.896px;
+  text-transform: uppercase; }
   @media screen and (max-width: 1024px) {
     #nav-links {
       display: block;
@@ -191,7 +196,7 @@ header > div.wrapper {
       text-align: left; } }
 
 #nav-links > a {
-  color: #111;
+  color: #777676;
   padding-right: 5%;
   text-decoration: none; }
 
@@ -270,12 +275,10 @@ figcaption {
 
 .post-link {
   display: block;
-  font-family: "Ringside Compressed SSm A", "Ringside Compressed SSm B";
+  font-family: "Chronicle Text G1 A", "Chronicle Text G1 B";
   font-style: normal;
-  font-weight: 300;
   font-weight: 400;
-  font-size: 18px;
-  line-height: 1.1; }
+  font-size: 16px; }
 
 /**
  * Posts
