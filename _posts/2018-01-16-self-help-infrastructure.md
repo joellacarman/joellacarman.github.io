@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Self-help funding for infrastructure"
+title:  "Infrastructure funding"
 date:   2018-01-16 12:53:02
 image: /assets/infog-SelfHelp.png
 ---
