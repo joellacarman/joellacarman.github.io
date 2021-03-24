@@ -174,7 +174,7 @@ html {
     display: block;
     font-family: "Ringside Compressed SSm A", "Ringside Compressed SSm B";
     font-style: normal;
-    font-weight: 400;
+    font-weight: 300;
     font-size: 16px;
     letter-spacing: 0.5px;
     line-height: 1.1;
@@ -186,7 +186,6 @@ html {
  */
 
 .post {
-  border-left: 3px dotted #E0E0E0;
   margin: 20px auto;
   max-width: 700px;
   padding: 0 35px;
@@ -201,13 +200,13 @@ html {
 }
 
 h1.post-title {
-  margin-bottom: $spacing-unit / 2;
+  margin-bottom: 5px;
 }
 
 .post-title {
-    font-size: $title-height;
-    font-family: "Chronicle Text G1 A", "Chronicle Text G1 B";
-    font-weight: 400;
+    font-size: 36px;
+    font-family: "Ringside Compressed SSm A", "Ringside Compressed SSm B";
+    font-weight: 300;
     line-height: 1.2;
     padding-top: $spacing-unit / 2;
 }
@@ -262,16 +261,15 @@ h1.post-title {
 
     p.date {
       color: #B2B2B2;
-      font-size: 14px;
-      margin-bottom: 3px;
+      font-family: "Ringside Compressed SSm A", "Ringside Compressed SSm B";
+      font-size: 15px;
+      margin-bottom: 2px;
     }
 
     p.involvement {
-     font-family: "Chronicle Text G1 A", "Chronicle Text G1 B";
-      font-size: 14px;
-    //  color: #a4a4a4;
-      color: #999999;
-      margin-bottom: $spacing-unit;
+      font-size: 16px;
+      color: #B2B2B2;
+      margin-bottom: 15px;
     }
 }
 
