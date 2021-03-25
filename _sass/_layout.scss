@@ -17,7 +17,7 @@ header > div.wrapper {
 .site-title {
     color: $text-color;
     font-family: "Chronicle Display A", "Chronicle Display B";
-    font-size: 40px;
+    font-size: 43px;
     display: inline-block;
     margin: 0 auto;
     line-height: 1.2;
@@ -163,6 +163,7 @@ html {
 
     > li:hover {
   background-color: #F9F9F9;
+  color: #DF7D1D;
   border-radius: 2px;
   font-weight: 400;
 }
@@ -192,7 +193,6 @@ html {
     font-size: 16px;
     letter-spacing: 0.5px;
     line-height: 1.1;
-    text-transform: uppercase;
 }
 
 /**
