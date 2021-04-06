@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 06 Apr 2021 15:26:06 -0400</pubDate>
-    <lastBuildDate>Tue, 06 Apr 2021 15:26:06 -0400</lastBuildDate>
+    <pubDate>Tue, 06 Apr 2021 16:17:13 -0400</pubDate>
+    <lastBuildDate>Tue, 06 Apr 2021 16:17:13 -0400</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
     
       <item>
@@ -18,7 +18,11 @@ October 6, 2020
 
 &lt;p&gt;This quick turn feature highlights a new way to measure equity in transportation planning.&lt;/p&gt;
 
-&lt;p&gt;The ability to zoom out to a whole MSA or down to street level gives a reader a lot of context for the data in this project. Thanks to Mapbox, all of this information comes built in.&lt;/p&gt;
+&lt;p&gt;The researchers on this project worked with a very small areas, census block groups.&lt;/p&gt;
+
+&lt;p&gt;We wanted readers to easily be able to find their neighborhood on the map, which can be difficult with a geographic boundary like this one which folks don’t really use in daily life.&lt;/p&gt;
+
+&lt;p&gt;Zooming down to street level to see roads and landmarks is very handy for for orienting the reader without getting mired in technical definitions. Thanks to Mapbox, all of this functionality came built in.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.urban.org/features/unequal-commute&quot;&gt;&lt;img src=&quot;/assets/bmore-commute.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -36,15 +40,17 @@ October 6, 2020
 June 26, 2020
 &lt;/p&gt;
 
-&lt;!-- &lt;p class=&quot;involvement&quot; markdown=&quot;1&quot;&gt;
-design + illustration
-&lt;/p&gt; --&gt;
+&lt;p&gt;It may seem obvious that a school is segregated when the student body is demographically homogenous, but Urban’s researchers point out the importance of considering a school’s surrounding demographics, too.&lt;/p&gt;
 
-&lt;p&gt;In my new role at the Urban Institute I mainly do web development, but this piece I designed and illustrated.&lt;/p&gt;
+&lt;p&gt;To show how this can be distilled into one number, our team created a scrollyteller that unpacks the index using a school that may not seem segregated at first, but, compared to the neighborhood it sits in, is actually quite segregated.&lt;/p&gt;
+
+&lt;p&gt;Readers can also follow along in the explanatory section with a school of their own choosing, or find their school/school system in the lookup panel at the bottom.&lt;/p&gt;
+
+&lt;p&gt;We really dug into the report and notes for this project and became quite adept at explaining how it works (even according to the researchers).&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://apps.urban.org/features/school-segregation-index/&quot;&gt;&lt;img src=&quot;/assets/k12-illo.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;At the conclusion of the scrollyteller we provide a dashboard where readers can look up their own district. One of the small-but-important things I am really proud of about this piece is the transition between those two distinct sections.&lt;/p&gt;
+&lt;p&gt;The illustration serves to highlight that the data in the charts is about real kids who are connected, in ways good and bad, by the choices we make about resources across a system. It also gives readers something to look at during the considerably long page load :)&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://apps.urban.org/features/school-segregation-index/&quot;&gt;&lt;img src=&quot;/assets/k12-lookup.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -63,7 +69,7 @@ June 26, 2019
 
 &lt;p&gt;I created the lead art for Kevin Liptak’s story &lt;a href=&quot;https://www.cnn.com/2019/06/26/politics/donald-trump-xi-jinping-vladimir-putin-g20-meetings/index.html&quot;&gt;Trump’s G20 orbits around Xi, Putin, and other world leaders&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;I followed the establish style closely and turned the job around in about 2 hours. Had it been a more complicated idea I would have tried to come up with a few sketched concepts first.&lt;/p&gt;
+&lt;p&gt;This piece follows an established style and I was able to turn it around in a few hours.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2019/06/26/politics/donald-trump-xi-jinping-vladimir-putin-g20-meetings/index.html&quot;&gt;&lt;img src=&quot;/assets/trump-putin-xi.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -80,11 +86,13 @@ June 26, 2019
 May 10, 2019
 &lt;/p&gt;
 
-&lt;p&gt;For many months as the 2020 race ramped up at CNN we made do with a set of mismatched photos rather than true head shots. I wanted to do what I could to polish those photos and make our graphics better.&lt;/p&gt;
+&lt;p&gt;For many months as the 2020 race ramped up at CNN we made do with a set of mismatched photos rather than true head shots. The reporters I worked with liked using headshots in charts since it helps readers keep track of some of the lesser-known candidates.&lt;/p&gt;
+
+&lt;p&gt;I wanted to do what I could to polish those photos and make our graphics better.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2019/05/09/politics/democratic-primary-debates-tracking-qualifications-polling-fundraising/index.html&quot;&gt;&lt;img src=&quot;/assets/debate-qualified.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Converting to black and white is an old trick for bringing unity to a ragged set. Dialing up the contrast and pairing with a strong blue also strengthened the cohesiveness. This new set was more eye-catching and the graphics that used them turned out to have pretty good legs.&lt;/p&gt;
+&lt;p&gt;Converting to black and white is a good trick for bringing unity to a ragged set. Dialing up the contrast and pairing with a strong blue also strengthened the cohesiveness. This new set was more eye-catching and the graphics that used them turned out to have pretty good legs.&lt;/p&gt;
 
 &lt;p&gt;The Colbert Show used a &lt;a href=&quot;/assets/LateShow.jpg&quot;&gt;bar chart&lt;/a&gt; I made with the same set of heads on a July 2019 quarterly fund raising segment. The graphic above was included in an  &lt;a href=&quot;https://www.cnn.com/videos/politics/2019/06/13/how-to-qualify-for-a-presidential-debate-mh-orig.cnn&quot;&gt;explainer&lt;/a&gt; on the debates for CNN’s social channels.&lt;/p&gt;
 </description>
@@ -101,13 +109,15 @@ May 10, 2019
 April 13, 2019
 &lt;/p&gt;
 
-&lt;p&gt;This graphic ran with the story &lt;a href=&quot;https://www.cnn.com/2019/04/13/politics/tax-reform-winners-and-losers/index.html&quot;&gt;Here’s who’s winning under Trump’s tax law&lt;/a&gt;. I started out by making bar chart so the individual states could be identified, but this buried the real takeaway: refunds shrank only in blue states.&lt;/p&gt;
+&lt;p&gt;This graphic ran with the story &lt;a href=&quot;https://www.cnn.com/2019/04/13/politics/tax-reform-winners-and-losers/index.html&quot;&gt;Here’s who’s winning under Trump’s tax law&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I started out by making bar chart so the individual states could be identified, but this buried the real takeaway: refunds shrank only in blue states.&lt;/p&gt;
 
 &lt;p&gt;I let go of individual state labels in favor of showing the red/blue grouping and it became a more concise and effective piece.&lt;/p&gt;
 
-&lt;p&gt;After the fact, I found out the name for &lt;a href=&quot;https://blockbuilder.org/mbostock/6526445e2b44303eebf21da3b6627320&quot;&gt;“beeswarm”&lt;/a&gt; charts and wish I could have used that layout here.&lt;/p&gt;
-
 &lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2019/04/13/politics/tax-reform-winners-and-losers/index.html&quot;&gt;&lt;img src=&quot;/assets/tax-cuts.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;After the fact, I learned the name for &lt;a href=&quot;https://blockbuilder.org/mbostock/6526445e2b44303eebf21da3b6627320&quot;&gt;“beeswarm”&lt;/a&gt; charts. I wished I had learned it earlier because it would have been great here.&lt;/p&gt;
 </description>
         <pubDate>Sat, 13 Apr 2019 11:54:02 -0400</pubDate>
         <link>http://localhost:4000/2019/04/13/tax-breaks-and-refunds.html</link>
@@ -122,9 +132,9 @@ April 13, 2019
 April 17, 2019
 &lt;/p&gt;
 
-&lt;p&gt;The team working on &lt;a href=&quot;https://www.cnn.com/2019/04/17/politics/inside-dhs-after-the-purge/index.html&quot;&gt;this story&lt;/a&gt; was captivated by this photo of a ribbon-cutting ceremony showing a number of soon-to-be-replaced officials and acting or otherwise temporary leadership. I used cut lines and shading to highlight the individuals who were coming and going.&lt;/p&gt;
+&lt;p&gt;The team working on &lt;a href=&quot;https://www.cnn.com/2019/04/17/politics/inside-dhs-after-the-purge/index.html&quot;&gt;this story&lt;/a&gt; was captivated by this photo of a ribbon-cutting ceremony showing a number of soon-to-be-replaced officials and acting or otherwise temporary leadership.&lt;/p&gt;
 
-&lt;p&gt;The figures outlined in dots remind me of paper dolls, which might be a good metaphor for a future illustration.&lt;/p&gt;
+&lt;p&gt;Direct notation is a handy (and cool) way to make it easy for a reader to see your point. Here it works well to note officials that are coming and going.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2019/04/17/politics/inside-dhs-after-the-purge/index.html&quot;&gt;&lt;img src=&quot;/assets/dhs-purge.jpg&quot; alt=&quot;Illustration of Kirstjen Nielsen and Claire Grady with their replacements, Kevin McAleenan and David Pekoske.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>

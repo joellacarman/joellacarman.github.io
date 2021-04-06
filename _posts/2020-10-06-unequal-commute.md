@@ -13,7 +13,11 @@ October 6, 2020
 
 This quick turn feature highlights a new way to measure equity in transportation planning. 
 
-The ability to zoom out to a whole MSA or down to street level gives a reader a lot of context for the data in this project. Thanks to Mapbox, all of this information comes built in. 
+The researchers on this project worked with a very small areas, census block groups. 
+
+We wanted readers to easily be able to find their neighborhood on the map, which can be difficult with a geographic boundary like this one which folks don't really use in daily life. 
+
+Zooming down to street level to see roads and landmarks is very handy for for orienting the reader without getting mired in technical definitions. Thanks to Mapbox, all of this functionality came built in. 
 
 [![](/assets/bmore-commute.png)](https://www.urban.org/features/unequal-commute)
 

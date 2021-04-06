@@ -20,7 +20,9 @@ Most of the charts I make at CNN use templates. It's a sane way to handle daily 
 
 I spent a few days workshopping this chart with colleagues. The first feature to stay were the gray columns for generational bands. This is something I've seen Pew Research center do a number of times and makes a lot of sense.
 
-I also wanted to highlight the distance from age 72 for each candidate. It also creates a nice pattern. On mobile, however, I took this out since it's not original information (it's not hard to get that 37 is indeed a long way from 72).
+I also wanted to highlight the distance from age 72 for each candidate (and enjoyed the patter this creates). 
+
+On mobile, however, I took this out since it's not original information (it's not hard to get that 37 is indeed a long way from 72).
 
 CNN has since updated this same graphic and used it again in another piece to capture search interest in candidates' age.
 
