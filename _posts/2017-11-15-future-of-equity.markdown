@@ -3,15 +3,12 @@ layout: post
 title:  "The future of equity"
 date:   2017-11-15 12:53:02
 image: /assets/infog-EmpTrendsHilite.png
+involvement: "design + data"
 ---
 
 
 <p class="date" markdown="1">
 November 2017
-</p>
-
-<p class="involvement" markdown="1">
-_role_ design, research
 </p>
 
 

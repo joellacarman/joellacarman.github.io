@@ -3,16 +3,12 @@ layout: post
 title:  "Mapping the 'Fiscal Policy Space'"
 date:   2018-03-01 12:53:02
 image: /assets/peer-cities.png
+involvement: "design + development"
 ---
 
 <p class="date" markdown="1">
 March, 2018
 </p>
-
-<p class="involvement" markdown="1">
-_role_ designer, development, editing _tech_ d3, pym
-</p>
-
 
 This unpublished project was meant to be a simple view of stats for cities that share a similar [Fiscal Policy Space](http://fiscalpolicyspace.greatcities.uic.edu/). However, the team encountered some issues defining what it means to be a "peer city" through this novel set of statistical measures and we canned the approach.
 

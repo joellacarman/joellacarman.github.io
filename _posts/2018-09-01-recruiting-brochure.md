@@ -3,6 +3,7 @@ layout: post
 title:  "Join National League of Cities"
 date:   2018-09-01 12:53:02
 image: /assets/recruit.jpg
+involvement: "design + copy"
 ---
 
 
@@ -10,9 +11,6 @@ image: /assets/recruit.jpg
 September, 2018
 </p>
 
-<p class="involvement" markdown="1">
-_role_ concept, layout (print product), copy writing
-</p>
 
 
 I worked on all aspects of this brochure. I wrote the copy, I designed the layout, and, most importantly, I talked with the key stakeholders over and over to understand what they wanted to highlight and who they were trying to reach.

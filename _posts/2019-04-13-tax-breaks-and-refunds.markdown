@@ -3,14 +3,11 @@ layout: post
 title:  "Tax cuts and refunds"
 date:   2019-04-13 15:54:02
 image: /assets/tax-cuts-sm.png
+involvement: "design + development"
 ---
 
 <p class="date" markdown="1">
 April 13, 2019
-</p>
-
-<p class="involvement" markdown="1">
-_role_ designer, template jockey _tech_ Daily Graphics Rig, d3
 </p>
 
 This graphic ran with the story [Here's who's winning under Trump's tax law](https://www.cnn.com/2019/04/13/politics/tax-reform-winners-and-losers/index.html). I started out by making bar chart so the individual states could be identified, but this buried the real takeaway: refunds shrank only in blue states.

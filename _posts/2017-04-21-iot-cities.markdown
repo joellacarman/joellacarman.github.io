@@ -3,14 +3,11 @@ layout: post
 title:  "Connected cities"
 date:   2017-04-21 12:53:02
 image: /assets/smart-cities-crop.gif
+involvement: "design + development"
 ---
 
 <p class="date" markdown="1">
 April 2017
-</p>
-
-<p class="involvement" markdown="1">
-_role_ design, development
 </p>
 
 My colleague Soren Messner-Zidell created this engaging illustration for NLC's report on [Smart City Development](http://www.nlc.org/resource/smart-city-development).

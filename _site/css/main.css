@@ -69,8 +69,6 @@ a {
   text-decoration: none; }
   a:visited {
     color: #111; }
-  a:hover {
-    color: #DF7D1D; }
 
 /**
  * Blockquotes
@@ -156,6 +154,7 @@ pre {
 header > div.wrapper {
   padding-left: 45px;
   border-bottom: 2px solid #DF7D1D;
+  margin-left: 25%;
   margin-right: 25%; }
   @media screen and (max-width: 600px) {
     header > div.wrapper {
@@ -177,8 +176,6 @@ header > div.wrapper {
   width: 100%; }
   .site-title, .site-title:visited {
     color: #111; }
-  .site-title, .site-title:hover {
-    color: #DF7D1D; }
   @media screen and (max-width: 600px) {
     .site-title {
       margin-left: 0; } }
@@ -204,7 +201,6 @@ header > div.wrapper {
   padding-left: 0px;
   padding-right: 5%; }
 #nav-links > a:hover {
-  color: #DF7D1D;
   text-decoration: none; }
 
 .site-nav .menu-icon {
@@ -246,7 +242,8 @@ figcaption {
 
 .post-list {
   margin-left: 0;
-  list-style: none; }
+  list-style: none;
+  padding-top: 60px; }
   .post-list > li {
     background-color: #ffffff;
     margin-bottom: 30px;
@@ -262,11 +259,8 @@ figcaption {
         margin-left: 15px;
         max-width: 100%;
         padding: 12px 15px 15px 15px; } }
-  .post-list > li:hover {
-    background-color: #F9F9F9;
-    color: #DF7D1D;
-    border-radius: 2px;
-    font-weight: 400; }
+  .post-list > li:hover a {
+    color: #111111; }
 
 .image-wrapper {
   overflow: hidden; }
@@ -277,6 +271,9 @@ figcaption {
 .post-meta {
   font-size: 14.1516px;
   color: #828282; }
+
+a.post-link {
+  color: #626262; }
 
 .post-link {
   display: block;
@@ -306,11 +303,17 @@ h1.post-title {
   margin-bottom: 5px; }
 
 .post-title {
-  font-size: 38px;
+  font-size: 33px;
   font-family: "Ringside Regular A", "Ringside Regular B";
   font-weight: 300;
-  line-height: 1.2;
-  padding-top: 15px; }
+  line-height: 1.2; }
+
+.post-header {
+  margin-top: 55px; }
+  .post-header p.involvement {
+    font-size: 16px;
+    color: #B2B2B2;
+    margin-bottom: 0 !important; }
 
 .post-content {
   margin-bottom: 30px; }
@@ -337,20 +340,13 @@ h1.post-title {
   .post-content a {
     color: #126caf;
     font-weight: bold; }
-  .post-content a:hover {
-    color: #DF7D1D; }
   .post-content p {
     color: #5E5E5E;
     font-weight: 400; }
   .post-content p.date {
-    color: #B2B2B2;
     font-family: "Ringside Regular A", "Ringside Regular B";
     font-size: 15px;
-    margin-bottom: 2px; }
-  .post-content p.involvement {
-    font-size: 16px;
-    color: #B2B2B2;
-    margin-bottom: 15px; }
+    margin: 15px 0 20px 0; }
 
 /**
  * Gallery

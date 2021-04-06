@@ -3,16 +3,12 @@ layout: post
 title:  "Who qualified to debate"
 date:   2019-05-10 15:54:02
 image: /assets/debate-qualified-sm.png
+involvement: "design + development"
 ---
 
 <p class="date" markdown="1">
 May 10, 2019
 </p>
-
-<p class="involvement" markdown="1">
-_role_ designer, template jockey _tech_ Daily Graphics Rig, d3
-</p>
-
 
 For many months as the 2020 race ramped up at CNN we made do with a set of mismatched photos rather than true head shots. I wanted to do what I could to polish those photos and make our graphics better.
 

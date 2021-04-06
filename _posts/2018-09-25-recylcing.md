@@ -3,15 +3,12 @@ layout: post
 title:  "Recycling markets collapse"
 date:   2018-09-25 12:53:02
 image: /assets/infog-recycling.png
+involvement: print design
 ---
 
 
 <p class="date" markdown="1">
 September 2018
-</p>
-
-<p class="involvement" markdown="1">
-_role_ designer (print publication)
 </p>
 
 

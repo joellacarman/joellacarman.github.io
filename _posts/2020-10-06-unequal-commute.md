@@ -3,15 +3,13 @@ layout: post
 title:  "The unequal commute"
 date:   2019-10-06 15:54:02
 image: /assets/sm-bmore-commute.png
+involvement: development
 ---
 
 <p class="date" markdown="1">
 October 6, 2020
 </p>
 
-<p class="involvement" markdown="1">
-_role_ developer
-</p>
 
 This quick turn feature highlights a new way to measure equity in transportation planning. 
 

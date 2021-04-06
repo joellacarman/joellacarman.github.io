@@ -3,16 +3,12 @@ layout: post
 title:  "The innovation economy"
 date:   2017-10-18 12:53:02
 image: /assets/InnovEconCover.png
+involvement: "print design"
 ---
 
 <p class="date" markdown="1">
 October 2017
 </p>
-
-<p class="involvement" markdown="1">
-_role_ design and layout (print product)
-</p>
-
 
 The National League of Cities puts out many reports each year, _on paper_. I always enjoyed working on these layouts. Who wouldn't love being able to put the table of contents on an entryway?
 

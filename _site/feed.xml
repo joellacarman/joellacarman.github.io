@@ -6,18 +6,14 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 06 Apr 2021 14:32:56 -0400</pubDate>
-    <lastBuildDate>Tue, 06 Apr 2021 14:32:56 -0400</lastBuildDate>
+    <pubDate>Tue, 06 Apr 2021 15:26:06 -0400</pubDate>
+    <lastBuildDate>Tue, 06 Apr 2021 15:26:06 -0400</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
     
       <item>
         <title>The unequal commute</title>
         <description>&lt;p class=&quot;date&quot;&gt;
 October 6, 2020
-&lt;/p&gt;
-
-&lt;p class=&quot;involvement&quot;&gt;
-&lt;em&gt;role&lt;/em&gt; developer
 &lt;/p&gt;
 
 &lt;p&gt;This quick turn feature highlights a new way to measure equity in transportation planning.&lt;/p&gt;
@@ -40,9 +36,9 @@ October 6, 2020
 June 26, 2020
 &lt;/p&gt;
 
-&lt;p class=&quot;involvement&quot;&gt;
-&lt;em&gt;role&lt;/em&gt; designer, illustrator
-&lt;/p&gt;
+&lt;!-- &lt;p class=&quot;involvement&quot; markdown=&quot;1&quot;&gt;
+design + illustration
+&lt;/p&gt; --&gt;
 
 &lt;p&gt;In my new role at the Urban Institute I mainly do web development, but this piece I designed and illustrated.&lt;/p&gt;
 
@@ -65,10 +61,6 @@ June 26, 2020
 June 26, 2019
 &lt;/p&gt;
 
-&lt;p class=&quot;involvement&quot;&gt;
-&lt;em&gt;role&lt;/em&gt; illustrator
-&lt;/p&gt;
-
 &lt;p&gt;I created the lead art for Kevin Liptak’s story &lt;a href=&quot;https://www.cnn.com/2019/06/26/politics/donald-trump-xi-jinping-vladimir-putin-g20-meetings/index.html&quot;&gt;Trump’s G20 orbits around Xi, Putin, and other world leaders&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;I followed the establish style closely and turned the job around in about 2 hours. Had it been a more complicated idea I would have tried to come up with a few sketched concepts first.&lt;/p&gt;
@@ -86,10 +78,6 @@ June 26, 2019
         <title>Who qualified to debate</title>
         <description>&lt;p class=&quot;date&quot;&gt;
 May 10, 2019
-&lt;/p&gt;
-
-&lt;p class=&quot;involvement&quot;&gt;
-&lt;em&gt;role&lt;/em&gt; designer, template jockey &lt;em&gt;tech&lt;/em&gt; Daily Graphics Rig, d3
 &lt;/p&gt;
 
 &lt;p&gt;For many months as the 2020 race ramped up at CNN we made do with a set of mismatched photos rather than true head shots. I wanted to do what I could to polish those photos and make our graphics better.&lt;/p&gt;
@@ -113,10 +101,6 @@ May 10, 2019
 April 13, 2019
 &lt;/p&gt;
 
-&lt;p class=&quot;involvement&quot;&gt;
-&lt;em&gt;role&lt;/em&gt; designer, template jockey &lt;em&gt;tech&lt;/em&gt; Daily Graphics Rig, d3
-&lt;/p&gt;
-
 &lt;p&gt;This graphic ran with the story &lt;a href=&quot;https://www.cnn.com/2019/04/13/politics/tax-reform-winners-and-losers/index.html&quot;&gt;Here’s who’s winning under Trump’s tax law&lt;/a&gt;. I started out by making bar chart so the individual states could be identified, but this buried the real takeaway: refunds shrank only in blue states.&lt;/p&gt;
 
 &lt;p&gt;I let go of individual state labels in favor of showing the red/blue grouping and it became a more concise and effective piece.&lt;/p&gt;
@@ -138,10 +122,6 @@ April 13, 2019
 April 17, 2019
 &lt;/p&gt;
 
-&lt;p class=&quot;involvement&quot;&gt;
-&lt;em&gt;role&lt;/em&gt; designer &lt;em&gt;tech&lt;/em&gt; ai2html
-&lt;/p&gt;
-
 &lt;p&gt;The team working on &lt;a href=&quot;https://www.cnn.com/2019/04/17/politics/inside-dhs-after-the-purge/index.html&quot;&gt;this story&lt;/a&gt; was captivated by this photo of a ribbon-cutting ceremony showing a number of soon-to-be-replaced officials and acting or otherwise temporary leadership. I used cut lines and shading to highlight the individuals who were coming and going.&lt;/p&gt;
 
 &lt;p&gt;The figures outlined in dots remind me of paper dolls, which might be a good metaphor for a future illustration.&lt;/p&gt;
@@ -159,10 +139,6 @@ April 17, 2019
         <title>Age range of candidates</title>
         <description>&lt;p class=&quot;date&quot;&gt;
 March 23, 2019
-&lt;/p&gt;
-
-&lt;p class=&quot;involvement&quot;&gt;
-&lt;em&gt;role&lt;/em&gt; designer &lt;em&gt;tech&lt;/em&gt; ai2html
 &lt;/p&gt;
 
 &lt;p&gt;This look at the generational spread of the Democratic field was inspired by Pete Buttigieg’s comment that his own youthful face was “the message” of his campaign. He told Morning Joe: “That’s why I often talk about how the world’s going to look in 2054, when I get to the current age of the current president. It’s to remind us that this isn’t just about one election.”&lt;/p&gt;
@@ -193,10 +169,6 @@ March 23, 2019
 March 3, 2019
 &lt;/p&gt;
 
-&lt;p class=&quot;involvement&quot;&gt;
-&lt;em&gt;role&lt;/em&gt; designer, template wrangler, concept, research &lt;em&gt;tech&lt;/em&gt; d3
-&lt;/p&gt;
-
 &lt;p&gt;Though it seems odd to think this would happen today, in the past many presidents have vetoed legislation from their own party.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2019/03/02/politics/trump-presidents-veto-congress-history-override-national-emergency/index.html&quot;&gt;&lt;img src=&quot;/assets/vetoes.png&quot; alt=&quot;Scatterplot of presidential vetoes since 1789&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -214,10 +186,6 @@ March 3, 2019
 February 13, 2019
 &lt;/p&gt;
 
-&lt;p class=&quot;involvement&quot;&gt;
-&lt;em&gt;role&lt;/em&gt; designer &lt;em&gt;tech&lt;/em&gt; ai2html
-&lt;/p&gt;
-
 &lt;p&gt;Harry Enten crunched some fascinating numbers on political ideology and I captured them in &lt;a href=&quot;https://www.cnn.com/2019/02/12/politics/2020-democratic-field-more-liberal-than-past-years/index.html&quot;&gt;a graphic&lt;/a&gt;. Possibly my best piece of work for CNN so far is the donkey icon on this graph (though in hindsight I do wish I’d parted with the styleguide and chosen two blues with more contrast).&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2019/02/12/politics/2020-democratic-field-more-liberal-than-past-years/index.html&quot;&gt;&lt;img src=&quot;/assets/enten-dem-cand-ideology.png&quot; alt=&quot;The average of 2020 frontrunners' ideological score according to VoteView.com is more liberal than past candidates'.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -233,10 +201,6 @@ February 13, 2019
         <title>Women in Congress</title>
         <description>&lt;p class=&quot;date&quot;&gt;
 November 9, 2018
-&lt;/p&gt;
-
-&lt;p class=&quot;involvement&quot;&gt;
-&lt;em&gt;role&lt;/em&gt; designer &lt;em&gt;tech&lt;/em&gt; ai2html
 &lt;/p&gt;
 
 &lt;p&gt;2018 set a record for the number of women in Congress. &lt;a href=&quot;https://www.cnn.com/2018/11/07/politics/history-making-night-for-women/index.html&quot;&gt;This story&lt;/a&gt; by Maeve Reston marks the occasion.&lt;/p&gt;

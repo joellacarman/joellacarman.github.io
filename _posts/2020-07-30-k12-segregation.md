@@ -3,15 +3,16 @@ layout: post
 title:  "School segregation"
 date:   2019-06-26 15:54:02
 image: /assets/k12-segregation.png
+involvement: "design + illustration"
 ---
 
 <p class="date" markdown="1">
 June 26, 2020
 </p>
 
-<p class="involvement" markdown="1">
-_role_ designer, illustrator
-</p>
+<!-- <p class="involvement" markdown="1">
+design + illustration
+</p> -->
 
 In my new role at the Urban Institute I mainly do web development, but this piece I designed and illustrated.
 

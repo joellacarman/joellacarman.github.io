@@ -3,15 +3,12 @@ layout: post
 title:  "Infrastructure funding"
 date:   2018-01-16 12:53:02
 image: /assets/infog-SelfHelp.png
+involvement: "print design"
 ---
 
 
 <p class="date" markdown="1">
 January, 2018
-</p>
-
-<p class="involvement" markdown="1">
-_role_ design (print product)
 </p>
 
 
