@@ -11,7 +11,7 @@ June 26, 2020
 </p>
 
 
-It may seem obvious that a school is segregated when the student body is demographically homogenous, but Urban's researchers point out the importance of considering a school's surrounding demographics, too. 
+It may seem obvious that a school is segregated when the student body is demographically homogeneous, but Urban's researchers point out the importance of considering a school's surrounding demographics, too. 
 
 To show how this can be distilled into one number, our team created a scrollyteller that unpacks the index using a school that may not seem segregated at first, but, compared to the neighborhood it sits in, is actually quite segregated. 
 
