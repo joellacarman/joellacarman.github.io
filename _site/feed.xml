@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 06 Apr 2021 16:17:13 -0400</pubDate>
-    <lastBuildDate>Tue, 06 Apr 2021 16:17:13 -0400</lastBuildDate>
+    <pubDate>Mon, 26 Apr 2021 11:20:09 -0400</pubDate>
+    <lastBuildDate>Mon, 26 Apr 2021 11:20:09 -0400</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
     
       <item>
@@ -16,13 +16,15 @@
 October 6, 2020
 &lt;/p&gt;
 
-&lt;p&gt;This quick turn feature highlights a new way to measure equity in transportation planning.&lt;/p&gt;
+&lt;p&gt;How do you show not just how far potential workers are from jobs, but how difficult (and likely) it is for them to get there?&lt;/p&gt;
 
-&lt;p&gt;The researchers on this project worked with a very small areas, census block groups.&lt;/p&gt;
+&lt;p&gt;This quick turn feature highlights a new way to measure equity in transportation planning that considers just that issue: access to jobs.&lt;/p&gt;
 
-&lt;p&gt;We wanted readers to easily be able to find their neighborhood on the map, which can be difficult with a geographic boundary like this one which folks don’t really use in daily life.&lt;/p&gt;
+&lt;p&gt;Our challenge as the comms team was to make this complex measure easy to understand. A choropleth map is great for spatial data and worked well here to highlight the problem areas leaders should target with more funding.&lt;/p&gt;
 
-&lt;p&gt;Zooming down to street level to see roads and landmarks is very handy for for orienting the reader without getting mired in technical definitions. Thanks to Mapbox, all of this functionality came built in.&lt;/p&gt;
+&lt;p&gt;We also needed to make it easy for a reader to find a particular neighborhood on the map. The data is calculated by Census block group, not very intuitive for most people. Mapbox, with its built-in layer of roads and landmarks, was a great solution. Making that base layer visible through the data overlay required a lot of careful thought and experimentation with color, opacity, and layering.&lt;/p&gt;
+
+&lt;p&gt;The end result is a beautiful, textured map that’s easy to navigate and clearly identifies neighborhoods in need of additional transit.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.urban.org/features/unequal-commute&quot;&gt;&lt;img src=&quot;/assets/bmore-commute.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -35,41 +37,14 @@ October 6, 2020
       </item>
     
       <item>
-        <title>School segregation</title>
-        <description>&lt;p class=&quot;date&quot;&gt;
-June 26, 2020
-&lt;/p&gt;
-
-&lt;p&gt;It may seem obvious that a school is segregated when the student body is demographically homogenous, but Urban’s researchers point out the importance of considering a school’s surrounding demographics, too.&lt;/p&gt;
-
-&lt;p&gt;To show how this can be distilled into one number, our team created a scrollyteller that unpacks the index using a school that may not seem segregated at first, but, compared to the neighborhood it sits in, is actually quite segregated.&lt;/p&gt;
-
-&lt;p&gt;Readers can also follow along in the explanatory section with a school of their own choosing, or find their school/school system in the lookup panel at the bottom.&lt;/p&gt;
-
-&lt;p&gt;We really dug into the report and notes for this project and became quite adept at explaining how it works (even according to the researchers).&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://apps.urban.org/features/school-segregation-index/&quot;&gt;&lt;img src=&quot;/assets/k12-illo.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;The illustration serves to highlight that the data in the charts is about real kids who are connected, in ways good and bad, by the choices we make about resources across a system. It also gives readers something to look at during the considerably long page load :)&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://apps.urban.org/features/school-segregation-index/&quot;&gt;&lt;img src=&quot;/assets/k12-lookup.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 26 Jun 2019 11:54:02 -0400</pubDate>
-        <link>http://localhost:4000/2019/06/26/k12-segregation.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/06/26/k12-segregation.html</guid>
-        
-        
-      </item>
-    
-      <item>
         <title>Trump at the G20</title>
         <description>&lt;p class=&quot;date&quot;&gt;
 June 26, 2019
 &lt;/p&gt;
 
-&lt;p&gt;I created the lead art for Kevin Liptak’s story &lt;a href=&quot;https://www.cnn.com/2019/06/26/politics/donald-trump-xi-jinping-vladimir-putin-g20-meetings/index.html&quot;&gt;Trump’s G20 orbits around Xi, Putin, and other world leaders&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Melding three different photos with different lighting, exposures, etc., into a composite that looks natural can be a challenge. Even more so if you don’t want to ground the silhouettes at the bottom of the frame.&lt;/p&gt;
 
-&lt;p&gt;This piece follows an established style and I was able to turn it around in a few hours.&lt;/p&gt;
+&lt;p&gt;Designers at CNN Politics often used organic-verging-on-angular lines at the bottom of the figures to solve this problem, as I did for this quick turn piece on Kevin Liptak’s story &lt;a href=&quot;https://www.cnn.com/2019/06/26/politics/donald-trump-xi-jinping-vladimir-putin-g20-meetings/index.html&quot;&gt;Trump’s G20 orbits around Xi, Putin, and other world leaders&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2019/06/26/politics/donald-trump-xi-jinping-vladimir-putin-g20-meetings/index.html&quot;&gt;&lt;img src=&quot;/assets/trump-putin-xi.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -86,13 +61,17 @@ June 26, 2019
 May 10, 2019
 &lt;/p&gt;
 
-&lt;p&gt;For many months as the 2020 race ramped up at CNN we made do with a set of mismatched photos rather than true head shots. The reporters I worked with liked using headshots in charts since it helps readers keep track of some of the lesser-known candidates.&lt;/p&gt;
+&lt;p&gt;In 2018, the DNC had a complicated set of rules for selecting which candidates out of a wide field would actually take the stage at the debate. My challenge was to show who had made the cut quickly and easily, and to help readers keep track of the candidates, many of whom were not household names.&lt;/p&gt;
 
-&lt;p&gt;I wanted to do what I could to polish those photos and make our graphics better.&lt;/p&gt;
+&lt;p&gt;I focused the graphic on a broad expression of the main criteria for the debate: individual donors and polling. The blue box highlights values that meet the criteria, so readers can tell at a glance who has qualified. The details of the rules are handled in the deck head and the rest of the article.&lt;/p&gt;
+
+&lt;p&gt;To help readers with the who’s who I used head shots, but not before doing some serious retouching.&lt;/p&gt;
+
+&lt;p&gt;For many months as the 2020 race ramped up at CNN we made do with a set of mismatched photos rather than true head shots. To include them all on such an angular, graphic and brilliantly blue chart I needed to bring some consistency. High-contrast black and white bought a lot of uniformity across the set and really helped make the people identifiable and gave the graphic some interest.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2019/05/09/politics/democratic-primary-debates-tracking-qualifications-polling-fundraising/index.html&quot;&gt;&lt;img src=&quot;/assets/debate-qualified.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Converting to black and white is a good trick for bringing unity to a ragged set. Dialing up the contrast and pairing with a strong blue also strengthened the cohesiveness. This new set was more eye-catching and the graphics that used them turned out to have pretty good legs.&lt;/p&gt;
+&lt;p&gt;This new set of photos turned out to have pretty good legs.&lt;/p&gt;
 
 &lt;p&gt;The Colbert Show used a &lt;a href=&quot;/assets/LateShow.jpg&quot;&gt;bar chart&lt;/a&gt; I made with the same set of heads on a July 2019 quarterly fund raising segment. The graphic above was included in an  &lt;a href=&quot;https://www.cnn.com/videos/politics/2019/06/13/how-to-qualify-for-a-presidential-debate-mh-orig.cnn&quot;&gt;explainer&lt;/a&gt; on the debates for CNN’s social channels.&lt;/p&gt;
 </description>
@@ -161,7 +140,9 @@ March 23, 2019
 
 &lt;p&gt;I spent a few days workshopping this chart with colleagues. The first feature to stay were the gray columns for generational bands. This is something I’ve seen Pew Research center do a number of times and makes a lot of sense.&lt;/p&gt;
 
-&lt;p&gt;I also wanted to highlight the distance from age 72 for each candidate. It also creates a nice pattern. On mobile, however, I took this out since it’s not original information (it’s not hard to get that 37 is indeed a long way from 72).&lt;/p&gt;
+&lt;p&gt;I also wanted to highlight the distance from age 72 for each candidate (and enjoyed the patter this creates).&lt;/p&gt;
+
+&lt;p&gt;On mobile, however, I took this out since it’s not original information (it’s not hard to get that 37 is indeed a long way from 72).&lt;/p&gt;
 
 &lt;p&gt;CNN has since updated this same graphic and used it again in another piece to capture search interest in candidates’ age.&lt;/p&gt;
 
@@ -196,7 +177,7 @@ March 3, 2019
 February 13, 2019
 &lt;/p&gt;
 
-&lt;p&gt;Harry Enten crunched some fascinating numbers on political ideology and I captured them in &lt;a href=&quot;https://www.cnn.com/2019/02/12/politics/2020-democratic-field-more-liberal-than-past-years/index.html&quot;&gt;a graphic&lt;/a&gt;. Possibly my best piece of work for CNN so far is the donkey icon on this graph (though in hindsight I do wish I’d parted with the styleguide and chosen two blues with more contrast).&lt;/p&gt;
+&lt;p&gt;Harry Enten crunched some fascinating numbers on political ideology and I captured them in &lt;a href=&quot;https://www.cnn.com/2019/02/12/politics/2020-democratic-field-more-liberal-than-past-years/index.html&quot;&gt;a graphic&lt;/a&gt;. Possibly my best piece of work for CNN so far is the donkey icon on this graph.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2019/02/12/politics/2020-democratic-field-more-liberal-than-past-years/index.html&quot;&gt;&lt;img src=&quot;/assets/enten-dem-cand-ideology.png&quot; alt=&quot;The average of 2020 frontrunners' ideological score according to VoteView.com is more liberal than past candidates'.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -220,6 +201,25 @@ November 9, 2018
         <pubDate>Fri, 09 Nov 2018 10:54:02 -0500</pubDate>
         <link>http://localhost:4000/2018/11/09/women-in-congress.html</link>
         <guid isPermaLink="true">http://localhost:4000/2018/11/09/women-in-congress.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Recycling markets collapse</title>
+        <description>&lt;p class=&quot;date&quot;&gt;
+September 2018
+&lt;/p&gt;
+
+&lt;p&gt;Recycling as we knew it crashed when China stopped accepting waste shipments from the US. Cities, which often manage consumer recycling, were left holding the bag.&lt;/p&gt;
+
+&lt;p&gt;This infographic detailing the market change appeared at the beginning of a &lt;a href=&quot;https://www.nlc.org/resource/rethinking-recycling-how-cities-can-adapt-to-evolving-markets&quot;&gt;Municipal Action Guide&lt;/a&gt; designed to help city leaders deal with the crisis.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/projects/infog-RecyclingMarket.pdf&quot;&gt;&lt;img src=&quot;/assets/recycling.png&quot; alt=&quot;Recycling Markets Hit By China's New Policy&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 25 Sep 2018 08:53:02 -0400</pubDate>
+        <link>http://localhost:4000/2018/09/25/recylcing.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/09/25/recylcing.html</guid>
         
         
       </item>
