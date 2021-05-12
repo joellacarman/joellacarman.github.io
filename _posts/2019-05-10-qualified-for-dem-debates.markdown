@@ -12,7 +12,7 @@ May 10, 2019
 
 In 2018, the DNC had a complicated set of rules for selecting which candidates out of a wide field would actually take the stage at the debate. My challenge was to show who had made the cut quickly and easily, and to help readers keep track of the candidates, many of whom were not household names.
 
-I focused the graphic on a broad expression of the main criteria for the debate: individual donors and polling. The blue box highlights values that meet the criteria, so readers can tell at a glance who has qualified. The details of the rules are handled in the deck head and the rest of the article.
+I focused the graphic on a broad expression of the main criteria for the debate: individual donors and polling. The blue box highlights values that meet the criteria, so readers can tell at a glance who has qualified. I also include the actual value of unique donors as a point of interest. The details of the rules are handled in the deck head and the rest of the article.
 
 To help readers with the who's who I used head shots, but not before doing some serious retouching.
 
