@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Housing First"
+title:  "Housing first"
 date:   2021-07-15 15:54:02
 image: /assets/denver-hed-sm.png
 involvement: illustration
