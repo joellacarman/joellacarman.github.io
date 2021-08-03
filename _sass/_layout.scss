@@ -148,8 +148,8 @@ html {
         background-color: #ffffff;
 
         margin-bottom: $spacing-unit;
-        margin-left: 2 * $spacing-unit;
-        padding: 12px 15px 15px 15px;
+        margin-left: 8%;
+        // padding: 12px 15px 15px 15px;
         max-width: 23%;
         float: left;
             @include media-query($on-tablet) {

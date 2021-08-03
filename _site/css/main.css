@@ -247,8 +247,7 @@ figcaption {
   .post-list > li {
     background-color: #ffffff;
     margin-bottom: 30px;
-    margin-left: 60px;
-    padding: 12px 15px 15px 15px;
+    margin-left: 8%;
     max-width: 23%;
     float: left; }
     @media screen and (max-width: 900px) {

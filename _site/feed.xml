@@ -6,9 +6,33 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 26 Apr 2021 11:20:09 -0400</pubDate>
-    <lastBuildDate>Mon, 26 Apr 2021 11:20:09 -0400</lastBuildDate>
+    <pubDate>Tue, 03 Aug 2021 17:17:51 -0400</pubDate>
+    <lastBuildDate>Tue, 03 Aug 2021 17:17:51 -0400</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
+    
+      <item>
+        <title>Housing First</title>
+        <description>&lt;p class=&quot;date&quot;&gt;
+July 15, 2021
+&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.urban.org/features/housing-first-breaks-homelessness-jail-cycle&quot;&gt;&lt;img src=&quot;/assets/denver-hed-lg.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This illustration features people whose lives were improved by an experimental housing program in Denver, CO, along with some of the items that help make their new apartments “home.”&lt;/p&gt;
+
+&lt;p&gt;The challenge here was expressing that idea with an already heavily-used set of commissioned photos.&lt;/p&gt;
+
+&lt;p&gt;To create a fresh take, I worked with contrasts—of size, color, lightness, and balance. Anchoring the composition is a faded image of a downtown Denver street scene. Against that, a proud, crisp face shows the clarity and happiness that comes with having a place to be. These contrasts speak to the transformative power of home.&lt;/p&gt;
+
+&lt;p&gt;This image received many accolades from the broader team and serves as a dynamic introduction to a summary of the study’s findings.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 15 Jul 2021 11:54:02 -0400</pubDate>
+        <link>http://localhost:4000/2021/07/15/housing-first.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/07/15/housing-first.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>The unequal commute</title>
@@ -63,7 +87,7 @@ May 10, 2019
 
 &lt;p&gt;In 2018, the DNC had a complicated set of rules for selecting which candidates out of a wide field would actually take the stage at the debate. My challenge was to show who had made the cut quickly and easily, and to help readers keep track of the candidates, many of whom were not household names.&lt;/p&gt;
 
-&lt;p&gt;I focused the graphic on a broad expression of the main criteria for the debate: individual donors and polling. The blue box highlights values that meet the criteria, so readers can tell at a glance who has qualified. The details of the rules are handled in the deck head and the rest of the article.&lt;/p&gt;
+&lt;p&gt;I focused the graphic on a broad expression of the main criteria for the debate: individual donors and polling. The blue box highlights values that meet the criteria, so readers can tell at a glance who has qualified. I also include the actual value of unique donors as a point of interest. The details of the rules are handled in the deck head and the rest of the article.&lt;/p&gt;
 
 &lt;p&gt;To help readers with the who’s who I used head shots, but not before doing some serious retouching.&lt;/p&gt;
 
@@ -201,25 +225,6 @@ November 9, 2018
         <pubDate>Fri, 09 Nov 2018 10:54:02 -0500</pubDate>
         <link>http://localhost:4000/2018/11/09/women-in-congress.html</link>
         <guid isPermaLink="true">http://localhost:4000/2018/11/09/women-in-congress.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Recycling markets collapse</title>
-        <description>&lt;p class=&quot;date&quot;&gt;
-September 2018
-&lt;/p&gt;
-
-&lt;p&gt;Recycling as we knew it crashed when China stopped accepting waste shipments from the US. Cities, which often manage consumer recycling, were left holding the bag.&lt;/p&gt;
-
-&lt;p&gt;This infographic detailing the market change appeared at the beginning of a &lt;a href=&quot;https://www.nlc.org/resource/rethinking-recycling-how-cities-can-adapt-to-evolving-markets&quot;&gt;Municipal Action Guide&lt;/a&gt; designed to help city leaders deal with the crisis.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/projects/infog-RecyclingMarket.pdf&quot;&gt;&lt;img src=&quot;/assets/recycling.png&quot; alt=&quot;Recycling Markets Hit By China's New Policy&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 25 Sep 2018 08:53:02 -0400</pubDate>
-        <link>http://localhost:4000/2018/09/25/recylcing.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/09/25/recylcing.html</guid>
         
         
       </item>
