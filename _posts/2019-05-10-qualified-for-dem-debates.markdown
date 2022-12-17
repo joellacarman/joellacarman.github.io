@@ -4,6 +4,7 @@ title:  "Who qualified to debate"
 date:   2019-05-10 15:54:02
 image: /assets/debate-qualified-sm.png
 involvement: "design + development"
+category: graphics
 ---
 
 <p class="date" markdown="1">

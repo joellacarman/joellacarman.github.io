@@ -4,6 +4,7 @@ title:  "Age range of candidates"
 date:   2019-03-23 15:54:02
 image: /assets/pres-cand-age-sm.jpg
 involvement: design, ai2html
+category: graphics
 ---
 
 <p class="date" markdown="1">

@@ -6,12 +6,12 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 03 Aug 2021 17:17:51 -0400</pubDate>
-    <lastBuildDate>Tue, 03 Aug 2021 17:17:51 -0400</lastBuildDate>
-    <generator>Jekyll v3.8.3</generator>
+    <pubDate>Sat, 17 Dec 2022 15:18:59 -0500</pubDate>
+    <lastBuildDate>Sat, 17 Dec 2022 15:18:59 -0500</lastBuildDate>
+    <generator>Jekyll v4.3.1</generator>
     
       <item>
-        <title>Housing First</title>
+        <title>Housing first</title>
         <description>&lt;p class=&quot;date&quot;&gt;
 July 15, 2021
 &lt;/p&gt;
@@ -28,9 +28,11 @@ July 15, 2021
 
 </description>
         <pubDate>Thu, 15 Jul 2021 11:54:02 -0400</pubDate>
-        <link>http://localhost:4000/2021/07/15/housing-first.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/07/15/housing-first.html</guid>
+        <link>http://localhost:4000/illustrations/2021/07/15/housing-first.html</link>
+        <guid isPermaLink="true">http://localhost:4000/illustrations/2021/07/15/housing-first.html</guid>
         
+        
+        <category>illustrations</category>
         
       </item>
     
@@ -54,9 +56,11 @@ October 6, 2020
 
 </description>
         <pubDate>Sun, 06 Oct 2019 11:54:02 -0400</pubDate>
-        <link>http://localhost:4000/2019/10/06/unequal-commute.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/10/06/unequal-commute.html</guid>
+        <link>http://localhost:4000/projects/2019/10/06/unequal-commute.html</link>
+        <guid isPermaLink="true">http://localhost:4000/projects/2019/10/06/unequal-commute.html</guid>
         
+        
+        <category>projects</category>
         
       </item>
     
@@ -73,9 +77,11 @@ June 26, 2019
 &lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2019/06/26/politics/donald-trump-xi-jinping-vladimir-putin-g20-meetings/index.html&quot;&gt;&lt;img src=&quot;/assets/trump-putin-xi.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 26 Jun 2019 11:54:02 -0400</pubDate>
-        <link>http://localhost:4000/2019/06/26/g20-photo-illustration.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/06/26/g20-photo-illustration.html</guid>
+        <link>http://localhost:4000/illustrations/2019/06/26/g20-photo-illustration.html</link>
+        <guid isPermaLink="true">http://localhost:4000/illustrations/2019/06/26/g20-photo-illustration.html</guid>
         
+        
+        <category>illustrations</category>
         
       </item>
     
@@ -100,51 +106,11 @@ May 10, 2019
 &lt;p&gt;The Colbert Show used a &lt;a href=&quot;/assets/LateShow.jpg&quot;&gt;bar chart&lt;/a&gt; I made with the same set of heads on a July 2019 quarterly fund raising segment. The graphic above was included in an  &lt;a href=&quot;https://www.cnn.com/videos/politics/2019/06/13/how-to-qualify-for-a-presidential-debate-mh-orig.cnn&quot;&gt;explainer&lt;/a&gt; on the debates for CNN’s social channels.&lt;/p&gt;
 </description>
         <pubDate>Fri, 10 May 2019 11:54:02 -0400</pubDate>
-        <link>http://localhost:4000/2019/05/10/qualified-for-dem-debates.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/05/10/qualified-for-dem-debates.html</guid>
+        <link>http://localhost:4000/graphics/2019/05/10/qualified-for-dem-debates.html</link>
+        <guid isPermaLink="true">http://localhost:4000/graphics/2019/05/10/qualified-for-dem-debates.html</guid>
         
         
-      </item>
-    
-      <item>
-        <title>Tax cuts and refunds</title>
-        <description>&lt;p class=&quot;date&quot;&gt;
-April 13, 2019
-&lt;/p&gt;
-
-&lt;p&gt;This graphic ran with the story &lt;a href=&quot;https://www.cnn.com/2019/04/13/politics/tax-reform-winners-and-losers/index.html&quot;&gt;Here’s who’s winning under Trump’s tax law&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I started out by making bar chart so the individual states could be identified, but this buried the real takeaway: refunds shrank only in blue states.&lt;/p&gt;
-
-&lt;p&gt;I let go of individual state labels in favor of showing the red/blue grouping and it became a more concise and effective piece.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2019/04/13/politics/tax-reform-winners-and-losers/index.html&quot;&gt;&lt;img src=&quot;/assets/tax-cuts.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;After the fact, I learned the name for &lt;a href=&quot;https://blockbuilder.org/mbostock/6526445e2b44303eebf21da3b6627320&quot;&gt;“beeswarm”&lt;/a&gt; charts. I wished I had learned it earlier because it would have been great here.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 13 Apr 2019 11:54:02 -0400</pubDate>
-        <link>http://localhost:4000/2019/04/13/tax-breaks-and-refunds.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/04/13/tax-breaks-and-refunds.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>DHS after the purge</title>
-        <description>&lt;p class=&quot;date&quot;&gt;
-April 17, 2019
-&lt;/p&gt;
-
-&lt;p&gt;The team working on &lt;a href=&quot;https://www.cnn.com/2019/04/17/politics/inside-dhs-after-the-purge/index.html&quot;&gt;this story&lt;/a&gt; was captivated by this photo of a ribbon-cutting ceremony showing a number of soon-to-be-replaced officials and acting or otherwise temporary leadership.&lt;/p&gt;
-
-&lt;p&gt;Direct notation is a handy (and cool) way to make it easy for a reader to see your point. Here it works well to note officials that are coming and going.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2019/04/17/politics/inside-dhs-after-the-purge/index.html&quot;&gt;&lt;img src=&quot;/assets/dhs-purge.jpg&quot; alt=&quot;Illustration of Kirstjen Nielsen and Claire Grady with their replacements, Kevin McAleenan and David Pekoske.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 23 Mar 2019 11:54:02 -0400</pubDate>
-        <link>http://localhost:4000/2019/03/23/dhs-purge.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/03/23/dhs-purge.html</guid>
-        
+        <category>graphics</category>
         
       </item>
     
@@ -172,26 +138,11 @@ March 23, 2019
 
 </description>
         <pubDate>Sat, 23 Mar 2019 11:54:02 -0400</pubDate>
-        <link>http://localhost:4000/2019/03/23/candidate-generations.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/03/23/candidate-generations.html</guid>
+        <link>http://localhost:4000/graphics/2019/03/23/candidate-generations.html</link>
+        <guid isPermaLink="true">http://localhost:4000/graphics/2019/03/23/candidate-generations.html</guid>
         
         
-      </item>
-    
-      <item>
-        <title>Presidential vetoes</title>
-        <description>&lt;p class=&quot;date&quot;&gt;
-March 3, 2019
-&lt;/p&gt;
-
-&lt;p&gt;Though it seems odd to think this would happen today, in the past many presidents have vetoed legislation from their own party.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2019/03/02/politics/trump-presidents-veto-congress-history-override-national-emergency/index.html&quot;&gt;&lt;img src=&quot;/assets/vetoes.png&quot; alt=&quot;Scatterplot of presidential vetoes since 1789&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 03 Mar 2019 10:54:02 -0500</pubDate>
-        <link>http://localhost:4000/2019/03/03/presidential-vetoes.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/03/03/presidential-vetoes.html</guid>
-        
+        <category>graphics</category>
         
       </item>
     
@@ -203,12 +154,14 @@ February 13, 2019
 
 &lt;p&gt;Harry Enten crunched some fascinating numbers on political ideology and I captured them in &lt;a href=&quot;https://www.cnn.com/2019/02/12/politics/2020-democratic-field-more-liberal-than-past-years/index.html&quot;&gt;a graphic&lt;/a&gt;. Possibly my best piece of work for CNN so far is the donkey icon on this graph.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2019/02/12/politics/2020-democratic-field-more-liberal-than-past-years/index.html&quot;&gt;&lt;img src=&quot;/assets/enten-dem-cand-ideology.png&quot; alt=&quot;The average of 2020 frontrunners' ideological score according to VoteView.com is more liberal than past candidates'.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2019/02/12/politics/2020-democratic-field-more-liberal-than-past-years/index.html&quot;&gt;&lt;img src=&quot;/assets/enten-dem-cand-ideology.png&quot; alt=&quot;The average of 2020 frontrunners&apos; ideological score according to VoteView.com is more liberal than past candidates&apos;.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 13 Feb 2019 10:54:02 -0500</pubDate>
-        <link>http://localhost:4000/2019/02/13/average-dem-cands-shift-left.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/02/13/average-dem-cands-shift-left.html</guid>
+        <link>http://localhost:4000/graphics/2019/02/13/average-dem-cands-shift-left.html</link>
+        <guid isPermaLink="true">http://localhost:4000/graphics/2019/02/13/average-dem-cands-shift-left.html</guid>
         
+        
+        <category>graphics</category>
         
       </item>
     
@@ -223,9 +176,55 @@ November 9, 2018
 &lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2018/11/07/politics/history-making-night-for-women/index.html&quot;&gt;&lt;img src=&quot;/assets/women-in-congress.jpg&quot; alt=&quot;Dot chart of women in the House and Senate.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 09 Nov 2018 10:54:02 -0500</pubDate>
-        <link>http://localhost:4000/2018/11/09/women-in-congress.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/11/09/women-in-congress.html</guid>
+        <link>http://localhost:4000/graphics/2018/11/09/women-in-congress.html</link>
+        <guid isPermaLink="true">http://localhost:4000/graphics/2018/11/09/women-in-congress.html</guid>
         
+        
+        <category>graphics</category>
+        
+      </item>
+    
+      <item>
+        <title>Recycling markets collapse</title>
+        <description>&lt;p class=&quot;date&quot;&gt;
+September 2018
+&lt;/p&gt;
+
+&lt;p&gt;Recycling as we knew it crashed when China stopped accepting waste shipments from the US. Cities, which often manage consumer recycling, were left holding the bag.&lt;/p&gt;
+
+&lt;p&gt;This infographic detailing the market change appeared at the beginning of a &lt;a href=&quot;https://www.nlc.org/resource/rethinking-recycling-how-cities-can-adapt-to-evolving-markets&quot;&gt;Municipal Action Guide&lt;/a&gt; designed to help city leaders deal with the crisis.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/projects/infog-RecyclingMarket.pdf&quot;&gt;&lt;img src=&quot;/assets/recycling.png&quot; alt=&quot;Recycling Markets Hit By China&apos;s New Policy&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 25 Sep 2018 08:53:02 -0400</pubDate>
+        <link>http://localhost:4000/graphics/2018/09/25/recylcing.html</link>
+        <guid isPermaLink="true">http://localhost:4000/graphics/2018/09/25/recylcing.html</guid>
+        
+        
+        <category>graphics</category>
+        
+      </item>
+    
+      <item>
+        <title>Join National League of Cities</title>
+        <description>&lt;p class=&quot;date&quot;&gt;
+September, 2018
+&lt;/p&gt;
+
+&lt;p&gt;I worked on all aspects of this brochure. I wrote the copy, I designed the layout, and, most importantly, I talked with the key stakeholders over and over to understand what they wanted to highlight and who they were trying to reach.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/projects/FINAL-recruiting-brochure.pdf&quot;&gt;&lt;img src=&quot;/assets/nlc-recruiting.png&quot; alt=&quot;Do more with the National League of Cities&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Creating the key piece of marketing material for an organization is never easy. When I started at NLC in 2017, this redesign had already lingered on the shelf for months. It took many more months to learn how the organization sees itself, what its members see, or might see in it, and condense that into a vibrant bifold. But the effort paid off. This brochure is still useful three years later.&lt;/p&gt;
+
+&lt;p&gt;So often, getting to a successful end product has as much to do with listening to people and attending their meetings as it does being good at design or writing.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 01 Sep 2018 08:53:02 -0400</pubDate>
+        <link>http://localhost:4000/projects/2018/09/01/recruiting-brochure.html</link>
+        <guid isPermaLink="true">http://localhost:4000/projects/2018/09/01/recruiting-brochure.html</guid>
+        
+        
+        <category>projects</category>
         
       </item>
     

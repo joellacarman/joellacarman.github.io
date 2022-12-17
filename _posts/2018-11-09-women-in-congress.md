@@ -4,6 +4,7 @@ title:  "Women in Congress"
 date:   2018-11-09 15:54:02
 image: /assets/women-in-congress-sm.jpg
 involvement: "design, ai2html"
+category: graphics
 ---
 
 <p class="date" markdown="1">

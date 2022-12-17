@@ -4,6 +4,7 @@ title:  "2020 Dems shift left"
 date:   2019-02-13 15:54:02
 image: /assets/enten-dem-cand-ideology-sm.png
 involvement: design, ai2html
+category: graphics
 ---
 
 <p class="date" markdown="1">

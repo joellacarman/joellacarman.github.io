@@ -52,7 +52,6 @@ header > div.wrapper {
     text-transform: uppercase;
         @include media-query($on-laptop) {
             display: block;
-    //        padding-left: $spacing-unit;
             position: static;
             text-align: left;
         }
@@ -105,6 +104,10 @@ header > div.wrapper {
         padding: 5px 10px;
     }
 
+}
+
+.hidden {
+    display: none;
 }
 
 /**Footer

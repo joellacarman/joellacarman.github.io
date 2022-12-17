@@ -4,6 +4,7 @@ title:  "Trump at the G20"
 date:   2019-06-26 15:54:02
 image: /assets/trump-putin-xi.jpg
 involvement: "illustration"
+category: illustrations
 ---
 
 <p class="date" markdown="1">

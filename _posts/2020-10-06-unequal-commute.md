@@ -4,6 +4,7 @@ title:  "The unequal commute"
 date:   2019-10-06 15:54:02
 image: /assets/sm-bmore-commute.png
 involvement: development
+category: projects
 ---
 
 <p class="date" markdown="1">
