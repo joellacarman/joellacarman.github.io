@@ -5,6 +5,8 @@ date:   2018-09-25 12:53:02
 image: /assets/infog-recycling.png
 involvement: print design
 category: graphics
+writeup: true
+storylink: https://www.nlc.org/resource/rethinking-recycling-how-cities-can-adapt-to-evolving-markets
 ---
 
 

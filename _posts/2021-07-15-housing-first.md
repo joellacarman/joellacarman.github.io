@@ -5,6 +5,8 @@ date:   2021-07-15 15:54:02
 image: /assets/denver-hed-sm.png
 involvement: illustration
 category: illustrations
+writeup: true
+storylink: https://www.urban.org/features/housing-first-breaks-homelessness-jail-cycle
 ---
 
 <p class="date" markdown="1">

@@ -5,6 +5,8 @@ date:   2019-06-26 15:54:02
 image: /assets/trump-putin-xi.jpg
 involvement: "illustration"
 category: illustrations
+writeup: true
+storylink: https://www.cnn.com/2019/06/26/politics/donald-trump-xi-jinping-vladimir-putin-g20-meetings/index.html
 ---
 
 <p class="date" markdown="1">

@@ -2,21 +2,13 @@
 body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; }
 
 /** Basic styling */
-body { font-family: "Chronicle Text G1 A", "Chronicle Text G1 B"; font-size: 18px; line-height: 1.5; font-weight: 300; color: #111; background-color: #fff; -webkit-text-size-adjust: 100%; }
+body { font-family: "Chronicle Text G1 A", "Chronicle Text G1 B"; font-size: 18px; line-height: 1.5; font-weight: 300; color: #111111; background-color: #FFFFFF; -webkit-text-size-adjust: 100%; }
 
 /** Set `margin-bottom` to maintain vertical rhythm */
 h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure { margin-bottom: 30px; }
 
-/** Images */
-img { max-width: 100%; margin-bottom: 30px; vertical-align: middle; }
-
-/** Figures */
-figure > img { display: block; }
-
-figcaption { font-size: 14.1516px; }
-
 /** Lists */
-ul, ol { margin-left: 30px; }
+ul, ol { margin-left: 0; }
 
 li > ul, li > ol { margin-bottom: 0; }
 
@@ -24,102 +16,29 @@ li > ul, li > ol { margin-bottom: 0; }
 h1, h2, h3, h4, h5, h6 { font-weight: 300; }
 
 /** Links */
-a { color: #111; text-decoration: none; }
+a { color: #111111; text-decoration: none; }
 
-a:visited { color: #111; }
+a:visited { color: #111111; }
 
-/** Blockquotes */
-blockquote { color: #828282; border-left: 4px solid #e8e8e8; padding-left: 15px; font-size: 18px; letter-spacing: -1px; font-style: italic; }
-
-blockquote > :last-child { margin-bottom: 0; }
-
-/** Code formatting */
-pre, code { font-size: 15px; border: 1px solid #e8e8e8; border-radius: 3px; background-color: #eef; }
-
-code { padding: 1px 5px; }
-
-pre { padding: 8px 12px; overflow-x: scroll; }
-
-pre > code { border: 0; padding-right: 0; padding-left: 0; }
-
-/** Wrapper */
-.wrapper { max-width: 100%; padding-bottom: 10px; }
-
-@media screen and (max-width: 1024px) { .wrapper { max-width: -webkit-calc(95%); max-width: calc(95%); } }
-
-.gallery-wrapper { max-width: -webkit-calc(95% - (30px * 2)); max-width: calc(95% - (30px * 2)); margin-right: auto; margin-left: auto; padding-right: 30px; padding-left: 30px; }
-
-@media screen and (max-width: 1024px) { .gallery-wrapper { max-width: -webkit-calc(95% - (30px)); max-width: calc(95% - (30px)); padding-right: 15px; padding-left: 15px; } }
-
-/** Clearfix */
-.wrapper:after, .gallery-wrapper:after { content: ""; display: table; clear: both; }
-
-/** Icons */
-.icon > svg { display: inline-block; width: 16px; height: 16px; vertical-align: middle; }
-
-.icon > svg path { fill: #828282; }
+a:hover { opacity: 0.8; }
 
 /** Site header */
-header > div.wrapper { padding-left: 45px; border-bottom: 2px solid #DF7D1D; margin-left: 25%; margin-right: 25%; }
+header > div.border { padding-left: 45px; border-bottom: 2px solid #DF7D1D; margin-left: 25%; margin-right: 25%; }
 
-@media screen and (max-width: 600px) { header > div.wrapper { padding-left: 30px; } }
+@media screen and (max-width: 600px) { header > div.border { padding-left: 30px; } }
 
-.site-title { color: #111; font-family: "Chronicle Display A", "Chronicle Display B"; font-size: 48px; display: inline-block; margin: 0 auto; line-height: 1.2; padding-bottom: 20px; padding-top: 30px; text-align: center; text-decoration: none; font-style: normal; font-weight: 300; width: 100%; }
-
-.site-title, .site-title:visited { color: #111; }
+.site-title { color: #111111; font-family: "Chronicle Display A", "Chronicle Display B"; font-size: 48px; display: inline-block; margin: 0 auto; line-height: 1.2; padding-bottom: 20px; padding-top: 30px; text-align: center; text-decoration: none; font-style: normal; font-weight: 300; width: 100%; }
 
 @media screen and (max-width: 600px) { .site-title { margin-left: 0; } }
 
-#nav-links { display: inline; font-family: "Ringside Regular A", "Ringside Regular B"; font-weight: 300; font-size: 22.896px; text-transform: uppercase; }
-
-@media screen and (max-width: 1024px) { #nav-links { display: block; position: static; text-align: left; } }
-
-#nav-links > a { color: #777676; padding-right: 5%; text-decoration: none; }
-
-@media screen and (max-width: 1024px) { padding-left: 0px; padding-right: 5%; }
-
-#nav-links > a:hover { text-decoration: none; }
-
-.site-nav .menu-icon { display: none; }
-
-.site-nav .page-link { color: #111; line-height: 1.5; }
-
-.site-nav .page-link:not(:first-child) { margin-left: 20px; }
-
-.site-nav .trigger { clear: both; display: none; }
-
-.site-nav:hover .trigger { display: block; padding-bottom: 5px; }
-
-.site-nav .page-link { display: block; padding: 5px 10px; }
-
 .hidden { display: none; }
 
-/**Footer
-**/
-.site-footer { margin-left: 40%; width: 20%; }
-
 /** Page content */
-figcaption { font-size: 11px; font-style: italic; margin-top: -4%; }
+ul.post-list { display: flex; flex-wrap: wrap; list-style: none; justify-content: center; gap: 20px; }
 
-.page-content { width: 100%; }
+ul.post-list li { flex-basis: 366px; padding: 10px; }
 
-.page-heading { font-size: 20px; }
-
-.post-list { margin-left: 0; list-style: none; padding-top: 60px; }
-
-.post-list > li { background-color: #ffffff; margin-bottom: 30px; margin-left: 8%; max-width: 23%; float: left; }
-
-@media screen and (max-width: 900px) { .post-list > li { max-width: 40%; } }
-
-@media screen and (max-width: 600px) { .post-list > li { margin-left: 15px; max-width: 100%; padding: 12px 15px 15px 15px; } }
-
-.post-list > li:hover a { color: #111111; }
-
-.image-wrapper { overflow: hidden; }
-
-@media screen and (max-width: 600px) { .image-wrapper { height: auto; } }
-
-.post-meta { font-size: 14.1516px; color: #828282; }
+ul.post-list img { min-width: 0; }
 
 a.post-link { color: #626262; }
 
@@ -128,11 +47,9 @@ a.post-link { color: #626262; }
 /** Posts */
 .post { margin: 20px auto; max-width: 700px; padding: 0 35px; width: 66%; }
 
-@media screen and (max-width: 600px) { .post { border-left: none; margin-left: 30px; padding: 0; width: 90%; } }
+@media screen and (max-width: 600px) { .post { padding: 0; width: 90%; } }
 
-h1.post-title { margin-bottom: 5px; }
-
-.post-title { font-size: 33px; font-family: "Ringside Regular A", "Ringside Regular B"; font-weight: 300; line-height: 1.2; }
+.post-title { font-size: 33px; font-family: "Ringside Regular A", "Ringside Regular B"; font-weight: 300; line-height: 1.2; margin-bottom: 5px; }
 
 .post-header { margin-top: 55px; }
 
@@ -142,44 +59,12 @@ h1.post-title { margin-bottom: 5px; }
 
 @media screen and (max-width: 600px) { .post-content { width: 100%; } }
 
-.post-content h2 { font-family: "Chronicle Text G1 A", "Chronicle Text G1 B"; font-size: 22.896px; font-weight: 400; margin-bottom: 0; margin-top: 30px; }
-
-.post-content h3 { font-size: 29.124px; }
-
-.post-content h4 { font-size: 29.124px; }
-
-.post-content img { border: 2px solid #FFFFFF; margin-top: 30px; margin-bottom: 30px; }
-
-@media screen and (max-width: 600px) { .post-content img { width: 100%; } }
+.post-content img { margin: 30px 0; max-width: 100%; }
 
 .post-content a { color: #126caf; font-weight: bold; }
 
 .post-content p { color: #5E5E5E; font-weight: 400; }
 
 .post-content p.date { font-family: "Ringside Regular A", "Ringside Regular B"; font-size: 15px; margin: 15px 0 20px 0; }
-
-/** Gallery */
-.gallery img { max-width: 20%; padding-right: 8%; }
-
-@media screen and (max-width: 600px) { .gallery img { max-width: 100%; padding-left: 0%; } }
-
-.gallery p.portfolio-writeup { border: 2px dotted #DF7D1D; border-radius: 3px; float: left; font-size: 14px; margin-right: 7%; max-width: 35%; padding: 2%; }
-
-@media screen and (max-width: 600px) { .gallery p.portfolio-writeup { max-width: 100%; margin-left: 0%; } }
-
-.gallery .space { padding-top: 30px; }
-
-/** Portfolio */
-.portfolio .space { padding-top: 30px; }
-
-.portfolio img { max-width: 50%; margin-left: 25%; }
-
-@media screen and (max-width: 600px) { .portfolio img { max-width: 100%; margin-left: 0%; } }
-
-.portfolio p.portfolio-writeup { border: 2px dotted #DF7D1D; border-radius: 3px; font-size: 14px; max-width: 46%; margin-left: 25%; margin-bottom: 10%; padding: 2%; }
-
-@media screen and (max-width: 600px) { .portfolio p.portfolio-writeup { max-width: 100%; margin-left: 0%; } }
-
-.portfolio .clear-fix { clear: both; }
 
 /*# sourceMappingURL=main.css.map */

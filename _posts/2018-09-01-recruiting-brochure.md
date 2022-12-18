@@ -5,6 +5,8 @@ date:   2018-09-01 12:53:02
 image: /assets/recruit.jpg
 involvement: "design + copy"
 category: projects
+writeup: true
+storylink: https://joellacarman.github.io/projects/FINAL-recruiting-brochure.pdf
 ---
 
 
@@ -23,4 +25,4 @@ I worked on all aspects of this brochure. I wrote the copy, I designed the layou
 Creating the key piece of marketing material for an organization is never easy. When I started at NLC in 2017, this redesign had already lingered on the shelf for months. It took many more months to learn how the organization sees itself, what its members see, or might see in it, and condense that into a vibrant bifold. But the effort paid off. This brochure is still useful three years later.
 
 
-So often, getting to a successful end product has as much to do with listening to people and attending their meetings as it does being good at design or writing.
+The success of this project9 came from listening to people and attending their meetings as much as the design or writing.

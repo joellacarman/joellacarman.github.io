@@ -5,6 +5,8 @@ date:   2018-11-09 15:54:02
 image: /assets/women-in-congress-sm.jpg
 involvement: "design, ai2html"
 category: graphics
+writeup: false
+storylink: https://www.cnn.com/2018/11/07/politics/history-making-night-for-women/index.html
 ---
 
 <p class="date" markdown="1">

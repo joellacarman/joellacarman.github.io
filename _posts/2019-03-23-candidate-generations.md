@@ -5,6 +5,8 @@ date:   2019-03-23 15:54:02
 image: /assets/pres-cand-age-sm.jpg
 involvement: design, ai2html
 category: graphics
+writeup: true
+storylink: https://www.cnn.com/2019/03/23/politics/2020-presidential-race-generation-gap/index.html
 ---
 
 <p class="date" markdown="1">
@@ -17,13 +19,4 @@ So what year will it be (or was it) when other candidates are 72, like Trump?
 
 [![](/assets/pres-cand-age.png)](https://www.cnn.com/2019/03/23/politics/2020-presidential-race-generation-gap/index.html)
 
-Most of the charts I make at CNN use templates. It's a sane way to handle daily graphics flow for many reasons, but one does enjoy a chance to get creative especially on a somewhat evergreen topic of candidate age.
-
-I spent a few days workshopping this chart with colleagues. The first feature to stay were the gray columns for generational bands. This is something I've seen Pew Research center do a number of times and makes a lot of sense.
-
-I also wanted to highlight the distance from age 72 for each candidate (and enjoyed the patter this creates). 
-
-On mobile, however, I took this out since it's not original information (it's not hard to get that 37 is indeed a long way from 72).
-
-CNN has since updated this same graphic and used it again in another piece to capture search interest in candidates' age.
 

@@ -6,9 +6,154 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 17 Dec 2022 15:18:59 -0500</pubDate>
-    <lastBuildDate>Sat, 17 Dec 2022 15:18:59 -0500</lastBuildDate>
+    <pubDate>Sun, 18 Dec 2022 17:08:25 -0500</pubDate>
+    <lastBuildDate>Sun, 18 Dec 2022 17:08:25 -0500</lastBuildDate>
     <generator>Jekyll v4.3.1</generator>
+    
+      <item>
+        <title>Maternal poverty in trigger law states</title>
+        <description>
+</description>
+        <pubDate>Fri, 01 Jul 2022 11:54:02 -0400</pubDate>
+        <link>http://localhost:4000/graphics/2022/07/01/maternal-poverty.html</link>
+        <guid isPermaLink="true">http://localhost:4000/graphics/2022/07/01/maternal-poverty.html</guid>
+        
+        
+        <category>graphics</category>
+        
+      </item>
+    
+      <item>
+        <title>Covid confession icons</title>
+        <description>&lt;p class=&quot;date&quot;&gt;
+July 1, 2022
+&lt;/p&gt;
+
+&lt;p&gt;The NBC Datagraphics team had published their fascinating callout to readers “Covid Confessions” long before I started. As the pandemic evolved, we felt that new categories of confession were becoming necessary. This meant I had the wonderful task of trying to emulate my predecessor’s style. Is it easy to tell which are different?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/newer/covid-confession-icons.jpg&quot; alt=&quot;Covid confession icons&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The fact that they are the last three may give it away, but these were my additions:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/newer/covid-confession-icons-my-add.jpg&quot; alt=&quot;The Covid confession icons I added&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 01 Jul 2022 11:54:02 -0400</pubDate>
+        <link>http://localhost:4000/illustrations/2022/07/01/covid-confession-icons.html</link>
+        <guid isPermaLink="true">http://localhost:4000/illustrations/2022/07/01/covid-confession-icons.html</guid>
+        
+        
+        <category>illustrations</category>
+        
+      </item>
+    
+      <item>
+        <title>Bitcoin simulator</title>
+        <description>
+</description>
+        <pubDate>Mon, 06 Jun 2022 11:54:02 -0400</pubDate>
+        <link>http://localhost:4000/projects/2022/06/06/bitcoin-simulator.html</link>
+        <guid isPermaLink="true">http://localhost:4000/projects/2022/06/06/bitcoin-simulator.html</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
+    
+      <item>
+        <title>Pro/Con: Daylight Savings Time</title>
+        <description>&lt;p class=&quot;date&quot;&gt;
+April 1, 2022
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/newer/dst_sketch1.jpg&quot; alt=&quot;Sketch 1&quot; /&gt;
+&lt;img src=&quot;/assets/newer/dst_sketch2.jpg&quot; alt=&quot;Sketch 2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/newer/dst.jpg&quot; alt=&quot;Final&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 01 Apr 2022 11:54:02 -0400</pubDate>
+        <link>http://localhost:4000/illustrations/2022/04/01/dst.html</link>
+        <guid isPermaLink="true">http://localhost:4000/illustrations/2022/04/01/dst.html</guid>
+        
+        
+        <category>illustrations</category>
+        
+      </item>
+    
+      <item>
+        <title>Gas tax holiday</title>
+        <description>
+</description>
+        <pubDate>Thu, 24 Mar 2022 11:54:02 -0400</pubDate>
+        <link>http://localhost:4000/graphics/2022/03/24/gas-tax-holiday.html</link>
+        <guid isPermaLink="true">http://localhost:4000/graphics/2022/03/24/gas-tax-holiday.html</guid>
+        
+        
+        <category>graphics</category>
+        
+      </item>
+    
+      <item>
+        <title>Plan Your Vote</title>
+        <description>&lt;p class=&quot;date&quot;&gt;
+March 15, 2022
+&lt;/p&gt;
+
+&lt;p&gt;It was an honor to work on the redesign of one of our team’s biggest initiatives for the year.&lt;/p&gt;
+
+&lt;p&gt;The focus was on making each bit of voter logistics seamless and unambiguous. So instead of checks and x’s, which can actually be hard to maintain for the researchers and somewhat ambiguous for readers, we used a conversational writing style to (hopefully) follow the line of thought one might have when forming the query.&lt;/p&gt;
+
+&lt;p&gt;The result is a simple page that thoughtfully provides critical information. It was promoted widely on the site, on television, and even in outdoor advertising and wound up receiving over TK visits.&lt;/p&gt;
+
+&lt;p&gt;Some of the promotion was in-house. I crafted this background for automated Twitter graphics very quickly for automated graphics my colleague put together with Puppeteer, leveraging the type and color of the original piece.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/newer/tw_en_pyv.jpg&quot; alt=&quot;Twitter graphic showcasing background&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 15 Mar 2022 11:54:02 -0400</pubDate>
+        <link>http://localhost:4000/projects/2022/03/15/plan-your-vote.html</link>
+        <guid isPermaLink="true">http://localhost:4000/projects/2022/03/15/plan-your-vote.html</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
+    
+      <item>
+        <title>Emigration from Ukraine</title>
+        <description>
+</description>
+        <pubDate>Mon, 28 Feb 2022 10:54:02 -0500</pubDate>
+        <link>http://localhost:4000/graphics/2022/02/28/ukraine-emigration.html</link>
+        <guid isPermaLink="true">http://localhost:4000/graphics/2022/02/28/ukraine-emigration.html</guid>
+        
+        
+        <category>graphics</category>
+        
+      </item>
+    
+      <item>
+        <title>Mask effectiveness</title>
+        <description>&lt;p class=&quot;date&quot;&gt;
+January 17, 2022
+&lt;/p&gt;
+
+&lt;p&gt;This is an example of editing yourself, but still liking the original.&lt;/p&gt;
+
+&lt;p&gt;The actual graphic got more “likes” than any other in the history of @nbcnewsgraphics on Instagram (which is not a major account, the likes were ~90). I’m sure it was the suprising nature of the information shown more than the visual presentation, but that’s what graphics are all about!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/newer/mask-effectiveness.jpg&quot; alt=&quot;The real graphic&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Just so you know, this is what I did not suggest using:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/newer/mask-effectiveness-weird.png&quot; alt=&quot;The silly graphic&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 17 Jan 2022 10:54:02 -0500</pubDate>
+        <link>http://localhost:4000/oddities/2022/01/17/mask-effectiveness.html</link>
+        <guid isPermaLink="true">http://localhost:4000/oddities/2022/01/17/mask-effectiveness.html</guid>
+        
+        
+        <category>oddities</category>
+        
+      </item>
     
       <item>
         <title>Housing first</title>
@@ -58,170 +203,6 @@ October 6, 2020
         <pubDate>Sun, 06 Oct 2019 11:54:02 -0400</pubDate>
         <link>http://localhost:4000/projects/2019/10/06/unequal-commute.html</link>
         <guid isPermaLink="true">http://localhost:4000/projects/2019/10/06/unequal-commute.html</guid>
-        
-        
-        <category>projects</category>
-        
-      </item>
-    
-      <item>
-        <title>Trump at the G20</title>
-        <description>&lt;p class=&quot;date&quot;&gt;
-June 26, 2019
-&lt;/p&gt;
-
-&lt;p&gt;Melding three different photos with different lighting, exposures, etc., into a composite that looks natural can be a challenge. Even more so if you don’t want to ground the silhouettes at the bottom of the frame.&lt;/p&gt;
-
-&lt;p&gt;Designers at CNN Politics often used organic-verging-on-angular lines at the bottom of the figures to solve this problem, as I did for this quick turn piece on Kevin Liptak’s story &lt;a href=&quot;https://www.cnn.com/2019/06/26/politics/donald-trump-xi-jinping-vladimir-putin-g20-meetings/index.html&quot;&gt;Trump’s G20 orbits around Xi, Putin, and other world leaders&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2019/06/26/politics/donald-trump-xi-jinping-vladimir-putin-g20-meetings/index.html&quot;&gt;&lt;img src=&quot;/assets/trump-putin-xi.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 26 Jun 2019 11:54:02 -0400</pubDate>
-        <link>http://localhost:4000/illustrations/2019/06/26/g20-photo-illustration.html</link>
-        <guid isPermaLink="true">http://localhost:4000/illustrations/2019/06/26/g20-photo-illustration.html</guid>
-        
-        
-        <category>illustrations</category>
-        
-      </item>
-    
-      <item>
-        <title>Who qualified to debate</title>
-        <description>&lt;p class=&quot;date&quot;&gt;
-May 10, 2019
-&lt;/p&gt;
-
-&lt;p&gt;In 2018, the DNC had a complicated set of rules for selecting which candidates out of a wide field would actually take the stage at the debate. My challenge was to show who had made the cut quickly and easily, and to help readers keep track of the candidates, many of whom were not household names.&lt;/p&gt;
-
-&lt;p&gt;I focused the graphic on a broad expression of the main criteria for the debate: individual donors and polling. The blue box highlights values that meet the criteria, so readers can tell at a glance who has qualified. I also include the actual value of unique donors as a point of interest. The details of the rules are handled in the deck head and the rest of the article.&lt;/p&gt;
-
-&lt;p&gt;To help readers with the who’s who I used head shots, but not before doing some serious retouching.&lt;/p&gt;
-
-&lt;p&gt;For many months as the 2020 race ramped up at CNN we made do with a set of mismatched photos rather than true head shots. To include them all on such an angular, graphic and brilliantly blue chart I needed to bring some consistency. High-contrast black and white bought a lot of uniformity across the set and really helped make the people identifiable and gave the graphic some interest.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2019/05/09/politics/democratic-primary-debates-tracking-qualifications-polling-fundraising/index.html&quot;&gt;&lt;img src=&quot;/assets/debate-qualified.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;This new set of photos turned out to have pretty good legs.&lt;/p&gt;
-
-&lt;p&gt;The Colbert Show used a &lt;a href=&quot;/assets/LateShow.jpg&quot;&gt;bar chart&lt;/a&gt; I made with the same set of heads on a July 2019 quarterly fund raising segment. The graphic above was included in an  &lt;a href=&quot;https://www.cnn.com/videos/politics/2019/06/13/how-to-qualify-for-a-presidential-debate-mh-orig.cnn&quot;&gt;explainer&lt;/a&gt; on the debates for CNN’s social channels.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 10 May 2019 11:54:02 -0400</pubDate>
-        <link>http://localhost:4000/graphics/2019/05/10/qualified-for-dem-debates.html</link>
-        <guid isPermaLink="true">http://localhost:4000/graphics/2019/05/10/qualified-for-dem-debates.html</guid>
-        
-        
-        <category>graphics</category>
-        
-      </item>
-    
-      <item>
-        <title>Age range of candidates</title>
-        <description>&lt;p class=&quot;date&quot;&gt;
-March 23, 2019
-&lt;/p&gt;
-
-&lt;p&gt;This look at the generational spread of the Democratic field was inspired by Pete Buttigieg’s comment that his own youthful face was “the message” of his campaign. He told Morning Joe: “That’s why I often talk about how the world’s going to look in 2054, when I get to the current age of the current president. It’s to remind us that this isn’t just about one election.”&lt;/p&gt;
-
-&lt;p&gt;So what year will it be (or was it) when other candidates are 72, like Trump?&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2019/03/23/politics/2020-presidential-race-generation-gap/index.html&quot;&gt;&lt;img src=&quot;/assets/pres-cand-age.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Most of the charts I make at CNN use templates. It’s a sane way to handle daily graphics flow for many reasons, but one does enjoy a chance to get creative especially on a somewhat evergreen topic of candidate age.&lt;/p&gt;
-
-&lt;p&gt;I spent a few days workshopping this chart with colleagues. The first feature to stay were the gray columns for generational bands. This is something I’ve seen Pew Research center do a number of times and makes a lot of sense.&lt;/p&gt;
-
-&lt;p&gt;I also wanted to highlight the distance from age 72 for each candidate (and enjoyed the patter this creates).&lt;/p&gt;
-
-&lt;p&gt;On mobile, however, I took this out since it’s not original information (it’s not hard to get that 37 is indeed a long way from 72).&lt;/p&gt;
-
-&lt;p&gt;CNN has since updated this same graphic and used it again in another piece to capture search interest in candidates’ age.&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 23 Mar 2019 11:54:02 -0400</pubDate>
-        <link>http://localhost:4000/graphics/2019/03/23/candidate-generations.html</link>
-        <guid isPermaLink="true">http://localhost:4000/graphics/2019/03/23/candidate-generations.html</guid>
-        
-        
-        <category>graphics</category>
-        
-      </item>
-    
-      <item>
-        <title>2020 Dems shift left</title>
-        <description>&lt;p class=&quot;date&quot;&gt;
-February 13, 2019
-&lt;/p&gt;
-
-&lt;p&gt;Harry Enten crunched some fascinating numbers on political ideology and I captured them in &lt;a href=&quot;https://www.cnn.com/2019/02/12/politics/2020-democratic-field-more-liberal-than-past-years/index.html&quot;&gt;a graphic&lt;/a&gt;. Possibly my best piece of work for CNN so far is the donkey icon on this graph.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2019/02/12/politics/2020-democratic-field-more-liberal-than-past-years/index.html&quot;&gt;&lt;img src=&quot;/assets/enten-dem-cand-ideology.png&quot; alt=&quot;The average of 2020 frontrunners&apos; ideological score according to VoteView.com is more liberal than past candidates&apos;.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 13 Feb 2019 10:54:02 -0500</pubDate>
-        <link>http://localhost:4000/graphics/2019/02/13/average-dem-cands-shift-left.html</link>
-        <guid isPermaLink="true">http://localhost:4000/graphics/2019/02/13/average-dem-cands-shift-left.html</guid>
-        
-        
-        <category>graphics</category>
-        
-      </item>
-    
-      <item>
-        <title>Women in Congress</title>
-        <description>&lt;p class=&quot;date&quot;&gt;
-November 9, 2018
-&lt;/p&gt;
-
-&lt;p&gt;2018 set a record for the number of women in Congress. &lt;a href=&quot;https://www.cnn.com/2018/11/07/politics/history-making-night-for-women/index.html&quot;&gt;This story&lt;/a&gt; by Maeve Reston marks the occasion.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.cnn.com/2018/11/07/politics/history-making-night-for-women/index.html&quot;&gt;&lt;img src=&quot;/assets/women-in-congress.jpg&quot; alt=&quot;Dot chart of women in the House and Senate.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 09 Nov 2018 10:54:02 -0500</pubDate>
-        <link>http://localhost:4000/graphics/2018/11/09/women-in-congress.html</link>
-        <guid isPermaLink="true">http://localhost:4000/graphics/2018/11/09/women-in-congress.html</guid>
-        
-        
-        <category>graphics</category>
-        
-      </item>
-    
-      <item>
-        <title>Recycling markets collapse</title>
-        <description>&lt;p class=&quot;date&quot;&gt;
-September 2018
-&lt;/p&gt;
-
-&lt;p&gt;Recycling as we knew it crashed when China stopped accepting waste shipments from the US. Cities, which often manage consumer recycling, were left holding the bag.&lt;/p&gt;
-
-&lt;p&gt;This infographic detailing the market change appeared at the beginning of a &lt;a href=&quot;https://www.nlc.org/resource/rethinking-recycling-how-cities-can-adapt-to-evolving-markets&quot;&gt;Municipal Action Guide&lt;/a&gt; designed to help city leaders deal with the crisis.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/projects/infog-RecyclingMarket.pdf&quot;&gt;&lt;img src=&quot;/assets/recycling.png&quot; alt=&quot;Recycling Markets Hit By China&apos;s New Policy&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 25 Sep 2018 08:53:02 -0400</pubDate>
-        <link>http://localhost:4000/graphics/2018/09/25/recylcing.html</link>
-        <guid isPermaLink="true">http://localhost:4000/graphics/2018/09/25/recylcing.html</guid>
-        
-        
-        <category>graphics</category>
-        
-      </item>
-    
-      <item>
-        <title>Join National League of Cities</title>
-        <description>&lt;p class=&quot;date&quot;&gt;
-September, 2018
-&lt;/p&gt;
-
-&lt;p&gt;I worked on all aspects of this brochure. I wrote the copy, I designed the layout, and, most importantly, I talked with the key stakeholders over and over to understand what they wanted to highlight and who they were trying to reach.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/projects/FINAL-recruiting-brochure.pdf&quot;&gt;&lt;img src=&quot;/assets/nlc-recruiting.png&quot; alt=&quot;Do more with the National League of Cities&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Creating the key piece of marketing material for an organization is never easy. When I started at NLC in 2017, this redesign had already lingered on the shelf for months. It took many more months to learn how the organization sees itself, what its members see, or might see in it, and condense that into a vibrant bifold. But the effort paid off. This brochure is still useful three years later.&lt;/p&gt;
-
-&lt;p&gt;So often, getting to a successful end product has as much to do with listening to people and attending their meetings as it does being good at design or writing.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 01 Sep 2018 08:53:02 -0400</pubDate>
-        <link>http://localhost:4000/projects/2018/09/01/recruiting-brochure.html</link>
-        <guid isPermaLink="true">http://localhost:4000/projects/2018/09/01/recruiting-brochure.html</guid>
         
         
         <category>projects</category>

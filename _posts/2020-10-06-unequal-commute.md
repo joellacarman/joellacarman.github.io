@@ -2,9 +2,11 @@
 layout: post
 title:  "The unequal commute"
 date:   2019-10-06 15:54:02
-image: /assets/sm-bmore-commute.png
+image: /assets/sm-bmore-commute.jpg
 involvement: development
 category: projects
+writeup: true
+storylink: https://www.urban.org/features/unequal-commute
 ---
 
 <p class="date" markdown="1">
