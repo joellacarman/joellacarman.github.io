@@ -7,6 +7,7 @@ involvement: design, ai2html
 category: graphics
 writeup: true
 storylink: https://www.cnn.com/2019/02/12/politics/2020-democratic-field-more-liberal-than-past-years/index.html
+tech: ai2html
 ---
 
 <p class="date" markdown="1">

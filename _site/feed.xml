@@ -6,9 +6,82 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 18 Dec 2022 17:08:25 -0500</pubDate>
-    <lastBuildDate>Sun, 18 Dec 2022 17:08:25 -0500</lastBuildDate>
+    <pubDate>Tue, 20 Dec 2022 17:45:40 -0500</pubDate>
+    <lastBuildDate>Tue, 20 Dec 2022 17:45:40 -0500</lastBuildDate>
     <generator>Jekyll v4.3.1</generator>
+    
+      <item>
+        <title>Aluminum smelting</title>
+        <description>
+</description>
+        <pubDate>Tue, 06 Dec 2022 10:54:02 -0500</pubDate>
+        <link>http://localhost:4000/graphics/2022/12/06/aluminum-smelting.html</link>
+        <guid isPermaLink="true">http://localhost:4000/graphics/2022/12/06/aluminum-smelting.html</guid>
+        
+        
+        <category>graphics</category>
+        
+      </item>
+    
+      <item>
+        <title>Election deniers</title>
+        <description>
+</description>
+        <pubDate>Tue, 08 Nov 2022 10:54:02 -0500</pubDate>
+        <link>http://localhost:4000/graphics/2022/11/08/election-deniers.html</link>
+        <guid isPermaLink="true">http://localhost:4000/graphics/2022/11/08/election-deniers.html</guid>
+        
+        
+        <category>graphics</category>
+        
+      </item>
+    
+      <item>
+        <title>Midterm Senate game</title>
+        <description>&lt;p class=&quot;date&quot;&gt;
+October 3, 2022
+&lt;/p&gt;
+
+&lt;p&gt;I designed this piece in response to a simple, three part brief:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Convey to the reader which seats are up for grabs in the midterms&lt;/li&gt;
+  &lt;li&gt;Let the reader assign those seats to either party and see how the balance of power changes&lt;/li&gt;
+  &lt;li&gt;Convey which way a seat currently leans&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img class=&quot;med-img&quot; src=&quot;/assets/newer/senate-game.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I saw a way to elegantly knock out all three of these using a beeswarm chart. The ability to show the spread of data that is often clustered made it a natural way to visualize political leanings. Using it as interface seemed interesting and elegant.&lt;/p&gt;
+
+&lt;p&gt;Because it is a novel way to let users make selections, we tested the idea and were pleased to see users didn’t have trouble understanding the intention. On mobile, where the elements can’t darken in response to a mouse hover, I added a little more shadow to the circles to help them feel button-y.&lt;/p&gt;
+
+&lt;p&gt;In addition to designing the piece, I was part of the team that built the project, contributing quite a bit of JS behind the main visuals and all-over page styles. The requirements for the project evolved as we worked on it, for example thoughts on how it should work as election day neared, and our team was able to respond nimbly to the concerns, meeting deadlines without any major panics thanks to nicely structured code.&lt;/p&gt;
+
+&lt;p&gt;We also did a lot of work with accessibility experts to make the game playable for more users, using good ARIA markup and attention to the screenreader experience. This took a considerable amount of our development time, probably 1/4 of the overall time, and was a great learning experience. I’ve been in thousands of conversations about accessibility, this was the first time I worked on a project that really implemented it and I’m thankful to have had the opportunity.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;sm-img&quot; src=&quot;/assets/newer/ph_senate-game.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 03 Oct 2022 11:54:02 -0400</pubDate>
+        <link>http://localhost:4000/projects/2022/10/03/senate-game.html</link>
+        <guid isPermaLink="true">http://localhost:4000/projects/2022/10/03/senate-game.html</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
+    
+      <item>
+        <title>Spaceports and rocket size</title>
+        <description>
+</description>
+        <pubDate>Fri, 02 Sep 2022 11:54:02 -0400</pubDate>
+        <link>http://localhost:4000/illustrations/2022/09/02/rocket-sizes.html</link>
+        <guid isPermaLink="true">http://localhost:4000/illustrations/2022/09/02/rocket-sizes.html</guid>
+        
+        
+        <category>illustrations</category>
+        
+      </item>
     
       <item>
         <title>Maternal poverty in trigger law states</title>
@@ -29,13 +102,13 @@
 July 1, 2022
 &lt;/p&gt;
 
-&lt;p&gt;The NBC Datagraphics team had published their fascinating callout to readers “Covid Confessions” long before I started. As the pandemic evolved, we felt that new categories of confession were becoming necessary. This meant I had the wonderful task of trying to emulate my predecessor’s style. Is it easy to tell which are different?&lt;/p&gt;
+&lt;p&gt;The NBC Datagraphics team had published their “Covid Confessions” callout to readers long before I started. As the pandemic evolved, new categories of confession started to become necessary. This meant I had the wonderful task of trying to emulate my predecessor’s style. Is it easy to tell which are different?&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/newer/covid-confession-icons.jpg&quot; alt=&quot;Covid confession icons&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The fact that they are the last three may give it away, but these were my additions:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/newer/covid-confession-icons-my-add.jpg&quot; alt=&quot;The Covid confession icons I added&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/newer/covid-confession-icons-my-adds.jpg&quot; alt=&quot;The Covid confession icons I added&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 Jul 2022 11:54:02 -0400</pubDate>
         <link>http://localhost:4000/illustrations/2022/07/01/covid-confession-icons.html</link>
@@ -43,6 +116,27 @@ July 1, 2022
         
         
         <category>illustrations</category>
+        
+      </item>
+    
+      <item>
+        <title>Abortion law tracker</title>
+        <description>&lt;p class=&quot;date&quot;&gt;
+June 30, 2022
+&lt;/p&gt;
+
+&lt;p&gt;After the Dobbs decision, our team set out to track evolving abortion laws across the country and to provide the information in a way that would be useful to the readers.&lt;/p&gt;
+
+&lt;p&gt;I designed and built this simple presentation of the laws on a tight timeline and am happy with how maintainable it has been, a key requirement for something like this is built to update.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/newer/abortion-laws.jpg&quot; alt=&quot;Abortion law tracker screenshot&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 30 Jun 2022 11:54:02 -0400</pubDate>
+        <link>http://localhost:4000/projects/2022/06/30/abortion-law-tracker.html</link>
+        <guid isPermaLink="true">http://localhost:4000/projects/2022/06/30/abortion-law-tracker.html</guid>
+        
+        
+        <category>projects</category>
         
       </item>
     
@@ -89,123 +183,6 @@ April 1, 2022
         
         
         <category>graphics</category>
-        
-      </item>
-    
-      <item>
-        <title>Plan Your Vote</title>
-        <description>&lt;p class=&quot;date&quot;&gt;
-March 15, 2022
-&lt;/p&gt;
-
-&lt;p&gt;It was an honor to work on the redesign of one of our team’s biggest initiatives for the year.&lt;/p&gt;
-
-&lt;p&gt;The focus was on making each bit of voter logistics seamless and unambiguous. So instead of checks and x’s, which can actually be hard to maintain for the researchers and somewhat ambiguous for readers, we used a conversational writing style to (hopefully) follow the line of thought one might have when forming the query.&lt;/p&gt;
-
-&lt;p&gt;The result is a simple page that thoughtfully provides critical information. It was promoted widely on the site, on television, and even in outdoor advertising and wound up receiving over TK visits.&lt;/p&gt;
-
-&lt;p&gt;Some of the promotion was in-house. I crafted this background for automated Twitter graphics very quickly for automated graphics my colleague put together with Puppeteer, leveraging the type and color of the original piece.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/newer/tw_en_pyv.jpg&quot; alt=&quot;Twitter graphic showcasing background&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 15 Mar 2022 11:54:02 -0400</pubDate>
-        <link>http://localhost:4000/projects/2022/03/15/plan-your-vote.html</link>
-        <guid isPermaLink="true">http://localhost:4000/projects/2022/03/15/plan-your-vote.html</guid>
-        
-        
-        <category>projects</category>
-        
-      </item>
-    
-      <item>
-        <title>Emigration from Ukraine</title>
-        <description>
-</description>
-        <pubDate>Mon, 28 Feb 2022 10:54:02 -0500</pubDate>
-        <link>http://localhost:4000/graphics/2022/02/28/ukraine-emigration.html</link>
-        <guid isPermaLink="true">http://localhost:4000/graphics/2022/02/28/ukraine-emigration.html</guid>
-        
-        
-        <category>graphics</category>
-        
-      </item>
-    
-      <item>
-        <title>Mask effectiveness</title>
-        <description>&lt;p class=&quot;date&quot;&gt;
-January 17, 2022
-&lt;/p&gt;
-
-&lt;p&gt;This is an example of editing yourself, but still liking the original.&lt;/p&gt;
-
-&lt;p&gt;The actual graphic got more “likes” than any other in the history of @nbcnewsgraphics on Instagram (which is not a major account, the likes were ~90). I’m sure it was the suprising nature of the information shown more than the visual presentation, but that’s what graphics are all about!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/newer/mask-effectiveness.jpg&quot; alt=&quot;The real graphic&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Just so you know, this is what I did not suggest using:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/newer/mask-effectiveness-weird.png&quot; alt=&quot;The silly graphic&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 17 Jan 2022 10:54:02 -0500</pubDate>
-        <link>http://localhost:4000/oddities/2022/01/17/mask-effectiveness.html</link>
-        <guid isPermaLink="true">http://localhost:4000/oddities/2022/01/17/mask-effectiveness.html</guid>
-        
-        
-        <category>oddities</category>
-        
-      </item>
-    
-      <item>
-        <title>Housing first</title>
-        <description>&lt;p class=&quot;date&quot;&gt;
-July 15, 2021
-&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.urban.org/features/housing-first-breaks-homelessness-jail-cycle&quot;&gt;&lt;img src=&quot;/assets/denver-hed-lg.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;This illustration features people whose lives were improved by an experimental housing program in Denver, CO, along with some of the items that help make their new apartments “home.”&lt;/p&gt;
-
-&lt;p&gt;The challenge here was expressing that idea with an already heavily-used set of commissioned photos.&lt;/p&gt;
-
-&lt;p&gt;To create a fresh take, I worked with contrasts—of size, color, lightness, and balance. Anchoring the composition is a faded image of a downtown Denver street scene. Against that, a proud, crisp face shows the clarity and happiness that comes with having a place to be. These contrasts speak to the transformative power of home.&lt;/p&gt;
-
-&lt;p&gt;This image received many accolades from the broader team and serves as a dynamic introduction to a summary of the study’s findings.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 15 Jul 2021 11:54:02 -0400</pubDate>
-        <link>http://localhost:4000/illustrations/2021/07/15/housing-first.html</link>
-        <guid isPermaLink="true">http://localhost:4000/illustrations/2021/07/15/housing-first.html</guid>
-        
-        
-        <category>illustrations</category>
-        
-      </item>
-    
-      <item>
-        <title>The unequal commute</title>
-        <description>&lt;p class=&quot;date&quot;&gt;
-October 6, 2020
-&lt;/p&gt;
-
-&lt;p&gt;How do you show not just how far potential workers are from jobs, but how difficult (and likely) it is for them to get there?&lt;/p&gt;
-
-&lt;p&gt;This quick turn feature highlights a new way to measure equity in transportation planning that considers just that issue: access to jobs.&lt;/p&gt;
-
-&lt;p&gt;Our challenge as the comms team was to make this complex measure easy to understand. A choropleth map is great for spatial data and worked well here to highlight the problem areas leaders should target with more funding.&lt;/p&gt;
-
-&lt;p&gt;We also needed to make it easy for a reader to find a particular neighborhood on the map. The data is calculated by Census block group, not very intuitive for most people. Mapbox, with its built-in layer of roads and landmarks, was a great solution. Making that base layer visible through the data overlay required a lot of careful thought and experimentation with color, opacity, and layering.&lt;/p&gt;
-
-&lt;p&gt;The end result is a beautiful, textured map that’s easy to navigate and clearly identifies neighborhoods in need of additional transit.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.urban.org/features/unequal-commute&quot;&gt;&lt;img src=&quot;/assets/bmore-commute.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 06 Oct 2019 11:54:02 -0400</pubDate>
-        <link>http://localhost:4000/projects/2019/10/06/unequal-commute.html</link>
-        <guid isPermaLink="true">http://localhost:4000/projects/2019/10/06/unequal-commute.html</guid>
-        
-        
-        <category>projects</category>
         
       </item>
     

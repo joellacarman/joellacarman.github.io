@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div id="filter">
-  <button id="all">All work</button>
+  <button id="all" class="active">All work</button>
   <button id="graphics">Graphics</button>
   <button id="projects">Projects</button>
   <button id="illustrations">Illustrations</button>
@@ -13,20 +13,25 @@ layout: default
 <ul class="post-list">
   {% for post in site.posts %}
     <li class="{{ post.category }}">
-      <h2>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      <h2 class="post-link">
+        {{ post.title }}
       </h2>
 
       {% if post.image %}
         <div class="image-wrapper">
           <img src="{{ post.image }}" style="width: 100%" align="center" />
-          {% if post.storylink %}
-            <a href="{{ post.storylink }}">View story</a>
-          {% endif %}
-          {% if post.writeup %}
-            <a href="{{ post.url | prepend: site.baseurl }}">Read more</a>
-          {% endif %}
+            {% if post.storylink || post.writeup %}
+              <div class="links">
+                {% if post.storylink %}
+                  <a class="external link" href="{{ post.storylink }}">View story</a>
+                {% endif %}
+                {% if post.writeup %}
+                  <a class="internal link" href="{{ post.url | prepend: site.baseurl }}">Read more</a>
+                {% endif %}
+              </div>
+            {% endif %}
         </div>
+        <p>{{ post.tech }}</p> 
       {% endif %}
 
     </li>

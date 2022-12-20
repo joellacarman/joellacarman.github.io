@@ -7,6 +7,7 @@ involvement: "design + development"
 category: graphics
 writeup: true
 storylink: https://www.cnn.com/2019/05/09/politics/democratic-primary-debates-tracking-qualifications-polling-fundraising/index.html
+tech: d3
 ---
 
 <p class="date" markdown="1">

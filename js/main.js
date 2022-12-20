@@ -3,6 +3,13 @@ const filters = document.querySelectorAll('#filter > button')
 
 filters.forEach(function(filter){
 	filter.addEventListener('click', function(evt){
+
+		document.querySelectorAll('#filter > button').forEach(function(button){
+			button.classList.remove('active')
+		})
+
+		this.classList.add('active')
+
 		let category = this.getAttribute('id')
 
 		if ( category === 'all' ){

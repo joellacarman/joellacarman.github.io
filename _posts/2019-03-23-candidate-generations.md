@@ -7,6 +7,7 @@ involvement: design, ai2html
 category: graphics
 writeup: true
 storylink: https://www.cnn.com/2019/03/23/politics/2020-presidential-race-generation-gap/index.html
+tech: ai2html
 ---
 
 <p class="date" markdown="1">

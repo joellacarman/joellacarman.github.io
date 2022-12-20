@@ -7,6 +7,7 @@ involvement: "illustration"
 category: illustrations
 writeup: true
 storylink: https://www.cnn.com/2019/06/26/politics/donald-trump-xi-jinping-vladimir-putin-g20-meetings/index.html
+tech: illustration
 ---
 
 <p class="date" markdown="1">

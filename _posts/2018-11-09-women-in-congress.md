@@ -7,6 +7,7 @@ involvement: "design, ai2html"
 category: graphics
 writeup: false
 storylink: https://www.cnn.com/2018/11/07/politics/history-making-night-for-women/index.html
+tech: ai2html
 ---
 
 <p class="date" markdown="1">

@@ -4,13 +4,17 @@
 
 
 header > div.border {
-  padding-left: $spacing-unit + 15;
-      border-bottom: 2px solid $my-gold;
+    border-bottom: 2px solid $my-gold;
     margin-left: 25%;
     margin-right: 25%;
+    padding-left: $spacing-unit + 15;
   @include media-query($on-palm){
     padding-left: $spacing-unit;
   }
+}
+
+.site-header {
+    padding: 0 15px;
 }
 
 .site-title {
@@ -19,27 +23,64 @@ header > div.border {
     font-size: 48px;
     display: inline-block;
     margin: 0 auto;
-    line-height: 1.2;
-    padding-bottom: 20px;
-    padding-top: 30px;
+    line-height: 0.9;
+    padding: 30px 0;
     text-align: center;
     text-decoration: none;
     font-style: normal;
     font-weight: 300;
     width: 100%;
 
-
-    @include media-query($on-palm) {
-      margin-left: 0;
+    @media (max-width: 759px){
+        font-size: 40px;
     }
 }
-
-
 
 .hidden {
     display: none;
 }
 
+/**
+ * Nav
+ */
+
+#filter {
+    cursor: pointer;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 18px;
+    padding: 30px 0 40px 0;
+
+    button {
+        all: unset;
+        color: #535150;
+        font-family: "Ringside Compressed A", "Ringside Compressed B";
+        font-size: 22px;
+        opacity: 0.6    ;
+        text-transform: uppercase;
+
+        &:hover {
+            opacity: 1;
+        }
+
+        &.active {
+            opacity: 1;
+        }
+
+    }
+
+    @media (max-width: 759px){
+        gap: 0;
+        padding: 30px 0;
+        margin: 0 auto;
+        max-width: 300px;
+        button {
+            font-size: 16px;
+            margin: 0 15px 10px 0;
+        }
+    }
+}
 
 
 /**
@@ -51,31 +92,84 @@ ul.post-list {
     flex-wrap: wrap;
     list-style: none;
     justify-content: center;
-    gap: 20px;
+    gap: 80px;
+
+        @media (max-width: 1130px){
+        gap: 50px;
+    }
 
     li {
-        flex-basis: 366px;
+        flex-basis: 320px;
         padding: 10px;
+
+
+        h2.post-link {
+            color: #535150;
+            display: block;
+            font-family: "Chronicle Display A", "Chronicle Display B";
+            font-style: normal;
+            font-weight: 300;
+            font-size: 21px;
+            line-height: 1.1;
+            margin-bottom: 15px;
+
+            @media (max-width: 759px){
+                font-size: 18px;
+            }
+        }
+
+        p {
+            border-top: 1px solid #e2dcd6;
+            color: #535150;
+            font-size: 13px;
+            margin: 15px 0 0 0;
+            width: 100%;
+        }
     }
 
-    img {
-        min-width: 0;
+    .image-wrapper {
+
+        position: relative;
+    
+        img {
+            min-width: 0;
+        }
+
+        .links {
+            border-radius: 3px;
+            font-family: "Ringside Compressed A", "Ringside Compressed B"; 
+            opacity: 0;
+            padding: 30% 0;
+            position: absolute;
+            text-align: center;
+            text-transform: uppercase;
+            top: 0;
+            transition: opacity 0.25s ease;
+            width: 100%;
+            
+            &:hover {
+                background-color: #ffffff;//#f8f7f6;
+                opacity: 0.95;
+            }
+
+            a {
+                color: #646162;
+                margin: 5px;
+
+                &:hover {
+                    border-bottom: 1px solid #646162;
+                }
+            }
+        }
+
     }
+
+
+
+
 }
 
-a.post-link {
-  color: #626262;
-}
 
-.post-link {
-    display: block;
-    font-family: "Ringside Regular A", "Ringside Regular B";;
-    font-style: normal;
-    font-weight: 300;
-    font-size: 16px;
-    letter-spacing: 0.5px;
-    line-height: 1.1;
-}
 
 
 /**
@@ -96,7 +190,7 @@ a.post-link {
 
 .post-title {
     font-size: 33px;
-    font-family: "Ringside Regular A", "Ringside Regular B";;
+    font-family: "Chronicle Display A", "Chronicle Display B";
     font-weight: 300;
     line-height: 1.2;
     margin-bottom: 5px;
@@ -121,6 +215,21 @@ a.post-link {
     img {
       margin: $spacing-unit 0;
       max-width: 100%;
+
+        &.med-img {
+            margin-left: 10%;
+            width: 80%;
+        }
+
+        &.sm-img {
+            margin-left: 25%;
+            width: 50%;
+
+            @media (max-width: 410px){
+                margin-left: 12.5%;
+                width: 75%;
+            }
+        }
     }
 
     a {
@@ -133,8 +242,13 @@ a.post-link {
         font-weight: 400;
     }
 
+    ul {
+        color: #5E5E5E;
+        margin-left: 2em;
+    }
+
     p.date {
-      font-family: "Ringside Regular A", "Ringside Regular B";;
+      font-family: "Chronicle Text G1 A", "Chronicle Text G1 B";
       font-size: 15px;
       margin: 15px 0 20px 0;
     }

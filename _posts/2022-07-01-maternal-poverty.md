@@ -7,4 +7,5 @@ involvement: design & development
 category: graphics
 writeup: false
 storylink: https://www.nbcnews.com/data-graphics/maternal-poverty-levels-higher-abortion-trigger-law-states-rcna35788
+tech: d3
 ---

@@ -7,6 +7,7 @@ involvement: development
 category: projects
 writeup: true
 storylink: https://www.urban.org/features/unequal-commute
+tech: Mapbox, jquery, css
 ---
 
 <p class="date" markdown="1">
