@@ -7,5 +7,5 @@ involvement: graphic
 category: oddities
 writeup: false
 storylink: 
-tech: ODDITY (not published)
+tech: oddity (not published)
 ---

@@ -7,7 +7,7 @@ involvement: illustration
 category: oddities
 writeup: true
 storylink: https://www.nbcnews.com/health/health-news/costs-masks-rapid-tests-furthers-pandemic-response-haves-nots-rcna12300
-tech: ODDITY (not published)
+tech: oddity (not published)
 ---
 
 <p class="date" markdown="1">

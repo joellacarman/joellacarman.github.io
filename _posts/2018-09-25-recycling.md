@@ -16,7 +16,7 @@ September 2018
 </p>
 
 
-Recycling as we knew it crashed when China stopped accepting waste shipments from the US. Cities, which often manage consumer recycling, were left holding the bag.
+Recycling crashed when China stopped accepting waste shipments from the US. Cities, which often manage consumer recycling, were left holding the bag.
 
 This infographic detailing the market change appeared at the beginning of a [Municipal Action Guide](https://www.nlc.org/resource/rethinking-recycling-how-cities-can-adapt-to-evolving-markets) designed to help city leaders deal with the crisis.
 

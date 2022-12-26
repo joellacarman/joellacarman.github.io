@@ -50,7 +50,7 @@ header > div.border {
     flex-wrap: wrap;
     justify-content: center;
     gap: 18px;
-    padding: 30px 0 40px 0;
+    padding: 50px 0 30px 0;
 
     button {
         all: unset;
@@ -99,7 +99,7 @@ ul.post-list {
     }
 
     li {
-        flex-basis: 320px;
+        flex-basis: 325px;
         padding: 10px;
 
 
@@ -119,8 +119,8 @@ ul.post-list {
         }
 
         p {
-            border-top: 1px solid #e2dcd6;
-            color: #535150;
+            border-top: 1px solid #817e7b;
+            color: #817e7b;
             font-size: 13px;
             margin: 15px 0 0 0;
             width: 100%;
@@ -222,8 +222,13 @@ ul.post-list {
         }
 
         &.sm-img {
-            margin-left: 25%;
-            width: 50%;
+            margin-left: 33%;
+            width: 33%;
+
+            @media (max-width: 700px){
+                margin-left: 25%;
+                width: 50%;
+            }
 
             @media (max-width: 410px){
                 margin-left: 12.5%;

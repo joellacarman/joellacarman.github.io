@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Emigration from Ukraine"
+title:  "Ukrainian refugees"
 date:   2022-02-28 15:54:02
 image: /assets/newer/sm_ukraine_map.jpg
 involvement: design

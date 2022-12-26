@@ -38,7 +38,7 @@ header > div.border { border-bottom: 2px solid #DF7D1D; margin-left: 25%; margin
 .hidden { display: none; }
 
 /** Nav */
-#filter { cursor: pointer; display: flex; flex-wrap: wrap; justify-content: center; gap: 18px; padding: 30px 0 40px 0; }
+#filter { cursor: pointer; display: flex; flex-wrap: wrap; justify-content: center; gap: 18px; padding: 50px 0 30px 0; }
 
 #filter button { all: unset; color: #535150; font-family: "Ringside Compressed A", "Ringside Compressed B"; font-size: 22px; opacity: 0.6; text-transform: uppercase; }
 
@@ -53,13 +53,13 @@ ul.post-list { display: flex; flex-wrap: wrap; list-style: none; justify-content
 
 @media (max-width: 1130px) { ul.post-list { gap: 50px; } }
 
-ul.post-list li { flex-basis: 320px; padding: 10px; }
+ul.post-list li { flex-basis: 325px; padding: 10px; }
 
 ul.post-list li h2.post-link { color: #535150; display: block; font-family: "Chronicle Display A", "Chronicle Display B"; font-style: normal; font-weight: 300; font-size: 21px; line-height: 1.1; margin-bottom: 15px; }
 
 @media (max-width: 759px) { ul.post-list li h2.post-link { font-size: 18px; } }
 
-ul.post-list li p { border-top: 1px solid #e2dcd6; color: #535150; font-size: 13px; margin: 15px 0 0 0; width: 100%; }
+ul.post-list li p { border-top: 1px solid #817e7b; color: #817e7b; font-size: 13px; margin: 15px 0 0 0; width: 100%; }
 
 ul.post-list .image-wrapper { position: relative; }
 
@@ -92,7 +92,9 @@ ul.post-list .image-wrapper .links a:hover { border-bottom: 1px solid #646162; }
 
 .post-content img.med-img { margin-left: 10%; width: 80%; }
 
-.post-content img.sm-img { margin-left: 25%; width: 50%; }
+.post-content img.sm-img { margin-left: 33%; width: 33%; }
+
+@media (max-width: 700px) { .post-content img.sm-img { margin-left: 25%; width: 50%; } }
 
 @media (max-width: 410px) { .post-content img.sm-img { margin-left: 12.5%; width: 75%; } }
 
