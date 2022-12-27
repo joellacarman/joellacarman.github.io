@@ -23,16 +23,13 @@ I designed this piece in response to a simple, three-part brief:
 <img class="med-img" src="/assets/newer/senate-game.png" alt=
 "">
 
-For this project, showing the political leaning seemed like the whole ball of wax. It was made a little more tricky by the decision to show "lean" using two different types of values, past race win margins and Cook ratings. 
+I thought this could be done with a beeswarm chart. The ability to show clustered data made it a natural way to visualize political leanings, even the mix of categorical (Cook ratings) and continuous (win margins) we had. And using it as interface seemed interesting and new. 
 
-Margins, the gap between two candidates' share of the vote, are continuous values while Cook ratings are categorical ("solid Republican", "likely Republican", "lean Republican", etc.). I needed a chart that could show a bunch of things falling <i>anywhere</i> along a number line, or things falling in one of seven given positions, and make sense either way.
+Because of that, we tested the idea of a clickable beeswarm on some users and were pleased to see we weren't confusing people. Still, I added some gradients to lift them off the page to firm up the button feeling, especially on mobile.
 
-A beeswarm came to mind because it does well with clustering. It does this in part by having an axis that's somewhat gestural. You get a sense of how things compare to each other more than a precise representation. I thought this wiggle room might allow it to be flexed into service here and that it could look cool trying, too.
-
-As a piece of interface it felt somewhat novel, so we tested it out and were pleased to see we weren't confusing readers with our bees. Still, I added some gradients to lift them off the page like a button, especially on mobile.
+<img class="sm-img" src="/assets/newer/ph_senate-game.png" alt="">
 
 In addition to designing the piece, I was part of the team that built it. I contributed quite a bit of JS behind the main visuals and worked on page styles. Many requirements evolved as our deadline got closer. Our team was able to respond without any major panics thanks to nicely structured code.
 
-We also worked with accessibility experts to make the game playable for more users. We were able to test the site and implement feedback from real people about the assistive-device experience. All together, this took a considerable amount of our development time, probably 1/4 overall, and was a great learning experience. I've been in thousands of conversations about accessibility but this was the first time I worked on a project that really implemented it. I'm thankful to have had the opportunity.
+We also worked with accessibility experts to make the game playable for more users. We were able to test the site and implement feedback from real people about the assistive-device experience. All together, this took a considerable amount of development time, probably 1/4 overall, and was a great learning experience. I've been in thousands of conversations about accessibility but this was the first time I worked on a project that really implemented it. I'm thankful to have had the opportunity.
 
-<img class="sm-img" src="/assets/newer/ph_senate-game.png" alt="">
