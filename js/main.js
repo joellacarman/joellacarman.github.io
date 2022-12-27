@@ -28,4 +28,3 @@ filters.forEach(function(filter){
 	})
 })
 
-
