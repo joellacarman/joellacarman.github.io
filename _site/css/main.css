@@ -37,6 +37,8 @@ header > div.border { border-bottom: 2px solid #DF7D1D; margin-left: 25%; margin
 
 .hidden { display: none; }
 
+.wrapper { margin: 0 auto; max-width: 2000px; }
+
 /** Nav */
 #filter { cursor: pointer; display: flex; flex-wrap: wrap; justify-content: center; gap: 18px; padding: 50px 0 30px 0; }
 
