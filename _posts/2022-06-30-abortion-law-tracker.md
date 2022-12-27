@@ -16,6 +16,6 @@ June 30, 2022
 
 After the Dobbs decision, our team set out to track evolving abortion laws across the country and to provide the information in a way that would be useful to the readers.
 
-I designed and built this simple presentation of the laws on a tight timeline and am happy with how maintainable it has been, a key requirement for something like this is built to update.
+I designed and built this simple presentation of the laws on a tight timeline. I am happy with how maintainable it has been, a key requirement for something like this is built to update.
 
 ![Abortion law tracker screenshot](/assets/newer/abortion-laws.jpg)
