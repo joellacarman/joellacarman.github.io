@@ -14,22 +14,23 @@ tech: d3, js, css
 October 3, 2022
 </p>
 
-I designed this piece in response to a simple, three part brief:
+I designed this piece in response to a simple, three-part brief:
 - Convey to the reader which seats are up for grabs in the midterms
-- Let the reader assign those seats to either party and see how the balance of power changes
 - Convey which way a seat currently leans
+- Let the reader assign those seats to either party and see how the balance of power changes
+
 
 <img class="med-img" src="/assets/newer/senate-game.png" alt=
 "">
 
-I saw a way to elegantly knock out all three of these using a beeswarm chart. The ability to show clustered data made it a natural way to visualize political leanings. Using it as interface seemed interesting and elegant. 
+The tricky thing about political leaning was that the piece used margins from past races <i>and</i> Cook ratings. One is continuous (with a lot of values pressed into a small range) while the other is categorical. I needed a chart that could handle both.
 
-Because it is a novel way to let users make selections, we tested the idea and were pleased to see users got the intention. On mobile, where the elements can't darken in response to a mouse hover, I added a little more shadow to the circles to help them feel button-y.
+A beeswarm came to mind because it does well with clustering. It does this in part by having an axis that's somewhat gestural. You get a sense of how things compare to each other more than a precise representation. I thought this wiggle room might allow it to be flexed into service here and that it could look cool trying, too.
 
-In addition to designing the piece, I was part of the team that built the project, contributing quite a bit of JS behind the main visuals and all-over page styles. The requirements for the project evolved as we worked on it, for example thoughts on how it should work on or after election day (as shown above), and our team was able to respond nimbly to the concerns, meeting deadlines without any major panics thanks to nicely structured code.
+As a piece of interface it felt somewhat novel, so we tested it out and were pleased to see we weren't confusing readers with our bees. Still, I added some gradients to lift them off the page like a button, especially on mobile.
 
-We also did a lot of work with accessibility experts to make the game playable for more users, using good ARIA markup and attention to the screenreader experience. This took a considerable amount of our development time, probably 1/4 of the overall time, and was a great learning experience. I've been in thousands of conversations about accessibility, this was the first time I worked on a project that really implemented it and I'm thankful to have had the opportunity.
+In addition to designing the piece, I was part of the team that built the project. I contributed quite a bit of JS behind the main visuals and worked on page styles. Many requirements evolved as our deadline got closer. Our team was able to respond nimbly to the concerns without any major panics thanks to nicely structured code.
 
-My work on this project was recognized with a "Going the Extra Mile" award.
+We also worked with accessibility experts to make the game playable for more users, using good ARIA markup and paying attention to the screenreader experience. We were able to test the site and implement feedback from real users about the assistive-device experience. All together, this took a considerable amount of our development time, probably 1/4 overall, and was a great learning experience. I've been in thousands of conversations about accessibility but this was the first time I worked on a project that really implemented it and I'm thankful to have had the opportunity.
 
 <img class="sm-img" src="/assets/newer/ph_senate-game.png" alt="">

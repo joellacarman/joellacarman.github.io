@@ -14,7 +14,9 @@ tech: illustration
 July 1, 2022
 </p>
 
-The NBC Datagraphics team had published their "Covid Confessions" callout to readers long before I started. As the pandemic evolved, new categories of confession started to become necessary. This meant I had the wonderful task of trying to emulate my predecessor's style. Is it easy to tell which are different?
+Trying to work in someone else's style is a fun challenge and a great way to learn. I had this opportunity with "Covid Confessions", a reader callout the data graphics team published long before I joined. 
+
+By 2022 the pandemic had changed enough that reader confessions didn't fit the old categories. We needed new icons and I was assigned the task. Is it easy to tell which are different?
 
 ![Covid confession icons](/assets/newer/covid-confession-icons.jpg)
 

@@ -61,7 +61,7 @@ ul.post-list li h2.post-link { color: #535150; display: block; font-family: "Chr
 
 ul.post-list li p { border-top: 1px solid #817e7b; color: #817e7b; font-size: 13px; margin: 15px 0 0 0; width: 100%; }
 
-ul.post-list .image-wrapper { position: relative; }
+ul.post-list .image-wrapper { cursor: pointer; position: relative; }
 
 ul.post-list .image-wrapper img { min-width: 0; }
 
