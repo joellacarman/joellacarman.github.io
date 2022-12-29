@@ -124,8 +124,8 @@ ul.post-list {
         }
 
         p {
-            border-top: 1px solid #817e7b;
-            color: #817e7b;
+            border-top: 1px solid #ada195;
+            color: #ada195;
             font-size: 13px;
             margin: 15px 0 0 0;
             width: 100%;
@@ -211,7 +211,7 @@ ul.post-list {
 }
 
 .post-content {
-    margin-bottom: $spacing-unit;
+    margin-bottom: 200px;
 
     @include media-query($on-palm) {
         width: 100%;

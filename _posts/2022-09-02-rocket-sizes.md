@@ -7,5 +7,5 @@ involvement: illustration
 category: illustrations
 writeup: false
 storylink: https://www.nbcnews.com/specials/failure-to-launch/index.html
-tech: ai2html
+tech: ai2html / illustration
 ---

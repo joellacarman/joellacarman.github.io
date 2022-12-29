@@ -7,5 +7,5 @@ involvement: design, illustration
 category: graphics
 writeup: false
 storylink: https://www.nbcnews.com/news/us-news/aluminum-plants-us-are-far-polluting-counterparts-abroad-rcna57894
-tech: ai2html
+tech: ai2html / illustration
 ---

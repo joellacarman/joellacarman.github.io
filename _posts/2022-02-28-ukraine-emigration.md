@@ -7,5 +7,5 @@ involvement: design
 category: graphics
 writeup: false
 storylink: https://www.nbcnews.com/data-graphics/half-million-ukrainians-are-fleeing-their-country-see-where-they-n1290260
-tech: QGIS, ai2html
+tech: QGIS / ai2html
 ---

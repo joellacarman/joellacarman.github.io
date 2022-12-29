@@ -7,6 +7,6 @@ involvement: design & development
 category: projects
 writeup: false
 storylink: https://www.nbcnews.com/specials/bitcoin-investment-simulator-can-you-beat-the-market/index.html
-tech: d3, js, css
+tech: d3 / js / css
 ---
 

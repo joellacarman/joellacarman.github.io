@@ -7,7 +7,7 @@ involvement: design & development
 category: projects
 writeup: true
 storylink: https://www.nbcnews.com/politics/2022-election/senate-what-if-2022-rcna50037
-tech: d3, js, css
+tech: d3 / js / css
 ---
 
 <p class="date" markdown="1">
