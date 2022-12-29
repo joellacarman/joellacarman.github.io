@@ -20,8 +20,8 @@ I designed this piece in response to a simple, three-part brief:
 - Let the reader assign those seats to either party and see how the balance of power changes
 
 
-<img class="med-img" src="/assets/newer/senate-game.png" alt=
-"">
+<img class="med-img" src="/assets/newer/senate-game.png" alt="">
+
 I saw a way to elegantly knock out all three of these using a beeswarm chart. The ability to show clustered data made it a natural way to visualize political leanings, even the mix of categorical (Cook ratings) and continuous (win margins) we had here. Using it as interface seemed interesting and elegant. 
 
 Because it is a novel way to make selections, we tested the idea of a clickable beeswarm and were pleased to see we weren't confusing people. For good measure, I added a little more shadow to the circles to help them feel button-y, especially on mobile.
