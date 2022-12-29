@@ -14,7 +14,7 @@ tech: d3
 June 30, 2022
 </p>
 
-After the Dobbs decision, our team set out to track evolving abortion laws across the country and to provide the information in a way that would be useful to the readers.
+After the Dobbs decision, our team set out to track evolving abortion laws across the country and provide information about them in a way that would be useful for readers.
 
 I designed and built this simple presentation of the laws on a tight timeline. I am happy with how maintainable it has been, a key requirement for something like this is built to update.
 
