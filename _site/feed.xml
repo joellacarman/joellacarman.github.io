@@ -4,19 +4,110 @@
     <title>JoElla Carman</title>
     <description>A place for charts and graphs.
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 26 Dec 2022 22:38:27 -0500</pubDate>
-    <lastBuildDate>Mon, 26 Dec 2022 22:38:27 -0500</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 30 Aug 2023 09:16:51 -0400</pubDate>
+    <lastBuildDate>Wed, 30 Aug 2023 09:16:51 -0400</lastBuildDate>
     <generator>Jekyll v4.3.1</generator>
+    
+      <item>
+        <title>Who would pardon Trump?</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/newer/fdic-explainer.jpg&quot; alt=&quot;How the FDIC protects bank customers&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 23 Jun 2023 11:54:02 -0400</pubDate>
+        <link>/graphics/2023/06/23/trump-pardons.html</link>
+        <guid isPermaLink="true">/graphics/2023/06/23/trump-pardons.html</guid>
+        
+        
+        <category>graphics</category>
+        
+      </item>
+    
+      <item>
+        <title>Mt. Rainier&apos;s disappearing glaciers</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/newer/fdic-explainer.jpg&quot; alt=&quot;How the FDIC protects bank customers&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 22 Jun 2023 11:54:02 -0400</pubDate>
+        <link>/graphics/2023/06/22/mt-rainier-glaciers.html</link>
+        <guid isPermaLink="true">/graphics/2023/06/22/mt-rainier-glaciers.html</guid>
+        
+        
+        <category>graphics</category>
+        
+      </item>
+    
+      <item>
+        <title>Tracking the Supreme Court</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/newer/fdic-explainer.jpg&quot; alt=&quot;How the FDIC protects bank customers&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 08 Jun 2023 11:54:02 -0400</pubDate>
+        <link>/projects/2023/06/08/scotus-tracker.html</link>
+        <guid isPermaLink="true">/projects/2023/06/08/scotus-tracker.html</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
+    
+      <item>
+        <title>AI chatbot explainer</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/newer/fdic-explainer.jpg&quot; alt=&quot;How the FDIC protects bank customers&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 17 May 2023 11:54:02 -0400</pubDate>
+        <link>/projects/2023/05/17/ai-explainer.html</link>
+        <guid isPermaLink="true">/projects/2023/05/17/ai-explainer.html</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
+    
+      <item>
+        <title>Fox redactions in Dominion case</title>
+        <description>
+</description>
+        <pubDate>Fri, 14 Apr 2023 11:54:02 -0400</pubDate>
+        <link>/graphics/2023/04/14/dominion-docs.html</link>
+        <guid isPermaLink="true">/graphics/2023/04/14/dominion-docs.html</guid>
+        
+        
+        <category>graphics</category>
+        
+      </item>
+    
+      <item>
+        <title>Silicon Valley Bank failure</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/newer/fdic-explainer.jpg&quot; alt=&quot;How the FDIC protects bank customers&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 06 Dec 2022 10:54:02 -0500</pubDate>
+        <link>/graphics/2022/12/06/fdic-svb-failure.html</link>
+        <guid isPermaLink="true">/graphics/2022/12/06/fdic-svb-failure.html</guid>
+        
+        
+        <category>graphics</category>
+        
+      </item>
+    
+      <item>
+        <title>The balloon was huge</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/newer/lg_fdic.png&quot; alt=&quot;How the FDIC protects bank customers&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 06 Dec 2022 10:54:02 -0500</pubDate>
+        <link>/graphics/2022/12/06/chinese-spy-balloon.html</link>
+        <guid isPermaLink="true">/graphics/2022/12/06/chinese-spy-balloon.html</guid>
+        
+        
+        <category>graphics</category>
+        
+      </item>
     
       <item>
         <title>Aluminum smelting</title>
         <description>
 </description>
         <pubDate>Tue, 06 Dec 2022 10:54:02 -0500</pubDate>
-        <link>http://localhost:4000/graphics/2022/12/06/aluminum-smelting.html</link>
-        <guid isPermaLink="true">http://localhost:4000/graphics/2022/12/06/aluminum-smelting.html</guid>
+        <link>/graphics/2022/12/06/aluminum-smelting.html</link>
+        <guid isPermaLink="true">/graphics/2022/12/06/aluminum-smelting.html</guid>
         
         
         <category>graphics</category>
@@ -28,8 +119,8 @@
         <description>
 </description>
         <pubDate>Tue, 08 Nov 2022 10:54:02 -0500</pubDate>
-        <link>http://localhost:4000/graphics/2022/11/08/election-deniers.html</link>
-        <guid isPermaLink="true">http://localhost:4000/graphics/2022/11/08/election-deniers.html</guid>
+        <link>/graphics/2022/11/08/election-deniers.html</link>
+        <guid isPermaLink="true">/graphics/2022/11/08/election-deniers.html</guid>
         
         
         <category>graphics</category>
@@ -51,142 +142,23 @@ October 3, 2022
 
 &lt;p&gt;&lt;img class=&quot;med-img&quot; src=&quot;/assets/newer/senate-game.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;The tricky thing about political leaning was that the piece used margins from past races &lt;i&gt;and&lt;/i&gt; Cook ratings. One is continuous (with a lot of values pressed into a small range) while the other is categorical. I needed a chart that could handle both.&lt;/p&gt;
+&lt;p&gt;I saw a way to elegantly knock out all three of these using a beeswarm chart. The ability to show clustered data made it a natural way to visualize political leanings, even the mix of categorical (Cook ratings) and continuous (win margins) we had here. Using it as interface seemed interesting and elegant.&lt;/p&gt;
 
-&lt;p&gt;A beeswarm came to mind because it does well with clustering. It does this in part by having an axis that’s somewhat gestural. You get a sense of how things compare to each other more than a precise representation. I thought this wiggle room might allow it to be flexed into service here and that it could look cool trying, too.&lt;/p&gt;
-
-&lt;p&gt;As a piece of interface it felt somewhat novel, so we tested it out and were pleased to see we weren’t confusing readers with our bees. Still, I added some gradients to lift them off the page like a button, especially on mobile.&lt;/p&gt;
-
-&lt;p&gt;In addition to designing the piece, I was part of the team that built the project. I contributed quite a bit of JS behind the main visuals and worked on page styles. Many requirements evolved as our deadline got closer. Our team was able to respond nimbly to the concerns without any major panics thanks to nicely structured code.&lt;/p&gt;
-
-&lt;p&gt;We also worked with accessibility experts to make the game playable for more users, using good ARIA markup and paying attention to the screenreader experience. We were able to test the site and implement feedback from real users about the assistive-device experience. All together, this took a considerable amount of our development time, probably 1/4 overall, and was a great learning experience. I’ve been in thousands of conversations about accessibility but this was the first time I worked on a project that really implemented it and I’m thankful to have had the opportunity.&lt;/p&gt;
+&lt;p&gt;Because it is a novel way to make selections, we tested the idea of a clickable beeswarm and were pleased to see we weren’t confusing people. For good measure, I added a little more shadow to the circles to help them feel button-y, especially on mobile.&lt;/p&gt;
 
 &lt;p&gt;&lt;img class=&quot;sm-img&quot; src=&quot;/assets/newer/ph_senate-game.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In addition to designing the piece, I was part of the team that built it. I contributed quite a bit of JS behind the main visuals and worked on page styles. Many requirements evolved as our deadline got closer. Our team was able to respond without any major panics thanks to nicely structured code.&lt;/p&gt;
+
+&lt;p&gt;We also worked with accessibility experts to make the game playable for more users. We were able to test the site and implement feedback from real people about the assistive-device experience. All together, this took a considerable amount of development time, probably 1/4 overall, and was a great learning experience. I’ve been in thousands of conversations about accessibility but this was the first time I worked on a project that really implemented it. I’m thankful to have had the opportunity.&lt;/p&gt;
+
 </description>
         <pubDate>Mon, 03 Oct 2022 11:54:02 -0400</pubDate>
-        <link>http://localhost:4000/projects/2022/10/03/senate-game.html</link>
-        <guid isPermaLink="true">http://localhost:4000/projects/2022/10/03/senate-game.html</guid>
+        <link>/projects/2022/10/03/senate-game.html</link>
+        <guid isPermaLink="true">/projects/2022/10/03/senate-game.html</guid>
         
         
         <category>projects</category>
-        
-      </item>
-    
-      <item>
-        <title>Spaceports and rocket size</title>
-        <description>
-</description>
-        <pubDate>Fri, 02 Sep 2022 11:54:02 -0400</pubDate>
-        <link>http://localhost:4000/illustrations/2022/09/02/rocket-sizes.html</link>
-        <guid isPermaLink="true">http://localhost:4000/illustrations/2022/09/02/rocket-sizes.html</guid>
-        
-        
-        <category>illustrations</category>
-        
-      </item>
-    
-      <item>
-        <title>Maternal poverty in trigger law states</title>
-        <description>
-</description>
-        <pubDate>Fri, 01 Jul 2022 11:54:02 -0400</pubDate>
-        <link>http://localhost:4000/graphics/2022/07/01/maternal-poverty.html</link>
-        <guid isPermaLink="true">http://localhost:4000/graphics/2022/07/01/maternal-poverty.html</guid>
-        
-        
-        <category>graphics</category>
-        
-      </item>
-    
-      <item>
-        <title>Covid confession icons</title>
-        <description>&lt;p class=&quot;date&quot;&gt;
-July 1, 2022
-&lt;/p&gt;
-
-&lt;p&gt;Trying to work in someone else’s style is a fun challenge and a great way to learn. I had this opportunity with “Covid Confessions”, a reader callout the data graphics team published long before I joined.&lt;/p&gt;
-
-&lt;p&gt;By 2022 the pandemic had changed enough that reader confessions didn’t fit the old categories. We needed new icons and I was assigned the task. Is it easy to tell which are different?&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/newer/covid-confession-icons.jpg&quot; alt=&quot;Covid confession icons&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The fact that they are the last three may give it away, but these were my additions:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/newer/covid-confession-icons-my-adds.jpg&quot; alt=&quot;The Covid confession icons I added&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 01 Jul 2022 11:54:02 -0400</pubDate>
-        <link>http://localhost:4000/illustrations/2022/07/01/covid-confession-icons.html</link>
-        <guid isPermaLink="true">http://localhost:4000/illustrations/2022/07/01/covid-confession-icons.html</guid>
-        
-        
-        <category>illustrations</category>
-        
-      </item>
-    
-      <item>
-        <title>Abortion law tracker</title>
-        <description>&lt;p class=&quot;date&quot;&gt;
-June 30, 2022
-&lt;/p&gt;
-
-&lt;p&gt;After the Dobbs decision, our team set out to track evolving abortion laws across the country and to provide the information in a way that would be useful to the readers.&lt;/p&gt;
-
-&lt;p&gt;I designed and built this simple presentation of the laws on a tight timeline and am happy with how maintainable it has been, a key requirement for something like this is built to update.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/newer/abortion-laws.jpg&quot; alt=&quot;Abortion law tracker screenshot&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 30 Jun 2022 11:54:02 -0400</pubDate>
-        <link>http://localhost:4000/projects/2022/06/30/abortion-law-tracker.html</link>
-        <guid isPermaLink="true">http://localhost:4000/projects/2022/06/30/abortion-law-tracker.html</guid>
-        
-        
-        <category>projects</category>
-        
-      </item>
-    
-      <item>
-        <title>Bitcoin simulator</title>
-        <description>
-</description>
-        <pubDate>Mon, 06 Jun 2022 11:54:02 -0400</pubDate>
-        <link>http://localhost:4000/projects/2022/06/06/bitcoin-simulator.html</link>
-        <guid isPermaLink="true">http://localhost:4000/projects/2022/06/06/bitcoin-simulator.html</guid>
-        
-        
-        <category>projects</category>
-        
-      </item>
-    
-      <item>
-        <title>Pro/Con: Daylight Savings Time</title>
-        <description>&lt;p class=&quot;date&quot;&gt;
-April 1, 2022
-&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/newer/dst_sketch1.jpg&quot; alt=&quot;Sketch 1&quot; /&gt;
-&lt;img src=&quot;/assets/newer/dst_sketch2.jpg&quot; alt=&quot;Sketch 2&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/newer/dst.jpg&quot; alt=&quot;Final&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 01 Apr 2022 11:54:02 -0400</pubDate>
-        <link>http://localhost:4000/illustrations/2022/04/01/dst.html</link>
-        <guid isPermaLink="true">http://localhost:4000/illustrations/2022/04/01/dst.html</guid>
-        
-        
-        <category>illustrations</category>
-        
-      </item>
-    
-      <item>
-        <title>Gas tax holiday</title>
-        <description>
-</description>
-        <pubDate>Thu, 24 Mar 2022 11:54:02 -0400</pubDate>
-        <link>http://localhost:4000/graphics/2022/03/24/gas-tax-holiday.html</link>
-        <guid isPermaLink="true">http://localhost:4000/graphics/2022/03/24/gas-tax-holiday.html</guid>
-        
-        
-        <category>graphics</category>
         
       </item>
     

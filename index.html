@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div id="filter">
+<div id="filters">
   <button id="all" class="active">All work</button>
   <button id="graphics">Graphics</button>
   <button id="projects">Projects</button>
@@ -20,7 +20,7 @@ layout: default
       {% if post.image %}
         <div class="image-wrapper">
           <img src="{{ post.image }}" style="width: 100%" align="center" />
-            {% if post.storylink || post.writeup %}
+           
               <div class="links">
                 {% if post.storylink %}
                   <a class="external link" href="{{ post.storylink }}">View story</a>
@@ -29,7 +29,7 @@ layout: default
                   <a class="internal link" href="{{ post.url | prepend: site.baseurl }}">Read more</a>
                 {% endif %}
               </div>
-            {% endif %}
+       
         </div>
         <p>{{ post.tech }}</p> 
       {% endif %}

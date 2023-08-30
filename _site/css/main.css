@@ -25,10 +25,6 @@ a:visited { color: #111111; }
 a:hover { opacity: 0.8; }
 
 /** Site header */
-header > div.border { border-bottom: 2px solid #DF7D1D; margin-left: 25%; margin-right: 25%; padding-left: 45px; }
-
-@media screen and (max-width: 600px) { header > div.border { padding-left: 30px; } }
-
 .site-header { padding: 0 15px; }
 
 .site-title { color: #111111; font-family: "Chronicle Display A", "Chronicle Display B"; font-size: 48px; display: inline-block; margin: 0 auto; line-height: 0.9; padding: 30px 0; text-align: center; text-decoration: none; font-style: normal; font-weight: 300; width: 100%; }
@@ -37,18 +33,18 @@ header > div.border { border-bottom: 2px solid #DF7D1D; margin-left: 25%; margin
 
 .hidden { display: none; }
 
-.wrapper { margin: 0 auto; max-width: 2000px; }
+.wrapper { margin: 0 auto; max-width: 1195px; }
 
 /** Nav */
-#filter { cursor: pointer; display: flex; flex-wrap: wrap; justify-content: center; gap: 18px; padding: 50px 0 30px 0; }
+#filters { border-top: 2px solid #DF7D1D; cursor: pointer; display: flex; flex-wrap: wrap; gap: 18px; justify-content: center; padding: 30px 0 40px 0; }
 
-#filter button { all: unset; color: #535150; font-family: "Ringside Compressed A", "Ringside Compressed B"; font-size: 22px; opacity: 0.6; text-transform: uppercase; }
+#filters button { all: unset; color: #535150; font-family: "Ringside Compressed A", "Ringside Compressed B"; font-size: 22px; opacity: 0.6; text-transform: uppercase; }
 
-#filter button:hover { opacity: 1; }
+#filters button:hover { opacity: 1; }
 
-#filter button.active { opacity: 1; }
+#filters button.active { opacity: 1; }
 
-@media (max-width: 759px) { #filter { gap: 0; padding: 30px 0; margin: 0 auto; max-width: 300px; } #filter button { font-size: 16px; margin: 0 15px 10px 0; } }
+@media (max-width: 759px) { #filters { gap: 0; padding: 30px 0; margin: 0 auto; max-width: 300px; } #filters button { font-size: 16px; margin: 0 15px 10px 0; } }
 
 /** Page content */
 ul.post-list { display: flex; flex-wrap: wrap; list-style: none; justify-content: center; gap: 80px; }
@@ -61,7 +57,7 @@ ul.post-list li h2.post-link { color: #535150; display: block; font-family: "Chr
 
 @media (max-width: 759px) { ul.post-list li h2.post-link { font-size: 18px; } }
 
-ul.post-list li p { border-top: 1px solid #817e7b; color: #817e7b; font-size: 13px; margin: 15px 0 0 0; width: 100%; }
+ul.post-list li p { border-top: 1px solid #ada195; color: #ada195; font-size: 13px; margin: 15px 0 0 0; width: 100%; }
 
 ul.post-list .image-wrapper { cursor: pointer; position: relative; }
 
@@ -76,7 +72,7 @@ ul.post-list .image-wrapper .links a { color: #646162; margin: 5px; }
 ul.post-list .image-wrapper .links a:hover { border-bottom: 1px solid #646162; }
 
 /** Posts */
-.post { margin: 20px auto; max-width: 700px; padding: 0 35px; width: 66%; }
+.post { border-top: 2px solid #DF7D1D; margin: 0 auto; max-width: 700px; padding: 0 35px; width: 66%; }
 
 @media screen and (max-width: 600px) { .post { padding: 0; width: 90%; } }
 
@@ -86,7 +82,7 @@ ul.post-list .image-wrapper .links a:hover { border-bottom: 1px solid #646162; }
 
 .post-header p.involvement { font-size: 16px; color: #B2B2B2; margin-bottom: 0 !important; }
 
-.post-content { margin-bottom: 30px; }
+.post-content { margin-bottom: 200px; }
 
 @media screen and (max-width: 600px) { .post-content { width: 100%; } }
 

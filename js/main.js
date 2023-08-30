@@ -1,10 +1,10 @@
 
-const filters = document.querySelectorAll('#filter > button')
+const filters = document.querySelectorAll('#filters > button')
 
 filters.forEach(function(filter){
 	filter.addEventListener('click', function(evt){
 
-		document.querySelectorAll('#filter > button').forEach(function(button){
+		document.querySelectorAll('#filters > button').forEach(function(button){
 			button.classList.remove('active')
 		})
 

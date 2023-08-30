@@ -3,15 +3,15 @@
  */
 
 
-header > div.border {
-    border-bottom: 2px solid $my-gold;
-    margin-left: 25%;
-    margin-right: 25%;
-    padding-left: $spacing-unit + 15;
-  @include media-query($on-palm){
-    padding-left: $spacing-unit;
-  }
-}
+// header > div.border {
+//     border-bottom: 2px solid $my-gold;
+//     margin-left: 25%;
+//     margin-right: 25%;
+//     padding-left: $spacing-unit + 15;
+//   @include media-query($on-palm){
+//     padding-left: $spacing-unit;
+//   }
+// }
 
 .site-header {
     padding: 0 15px;
@@ -42,20 +42,22 @@ header > div.border {
 
 .wrapper {
     margin: 0 auto;
-    max-width: 2000px;
+    max-width: 1195px;
 }
+
 
 /**
  * Nav
  */
 
-#filter {
+#filters {
+    border-top: 2px solid $my-gold;
     cursor: pointer;
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
     gap: 18px;
-    padding: 50px 0 30px 0;
+    justify-content: center;
+    padding: 30px 0 40px 0;
 
     button {
         all: unset;
@@ -182,7 +184,8 @@ ul.post-list {
  */
 
 .post {
-  margin: 20px auto;
+    border-top: 2px solid $my-gold;
+  margin: 0 auto;
   max-width: 700px;
   padding: 0 35px;
   width: 66%;

@@ -16,7 +16,7 @@ July 1, 2022
 
 Trying to work in someone else's style is a fun challenge and a great way to learn. I had this opportunity with "Covid Confessions", a reader callout the data graphics team published long before I joined. 
 
-By 2022 the pandemic had changed enough that reader confessions didn't fit the old categories. We needed new icons and I was assigned the task. Is it easy to tell which are different?
+By 2022 the pandemic had changed enough that reader confessions didn't fit the old categories. We needed new icons and I was assigned the task. Is it easy to tell which ones are mine?
 
 ![Covid confession icons](/assets/newer/covid-confession-icons.jpg)
 
