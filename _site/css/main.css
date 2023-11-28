@@ -59,17 +59,19 @@ ul.post-list li h2.post-link { color: #535150; display: block; font-family: "Chr
 
 ul.post-list li p { border-top: 1px solid #ada195; color: #ada195; font-size: 13px; margin: 15px 0 0 0; width: 100%; }
 
-ul.post-list .image-wrapper { cursor: pointer; position: relative; }
+ul.post-list li .image-wrapper { cursor: pointer; position: relative; }
 
-ul.post-list .image-wrapper img { min-width: 0; }
+ul.post-list li .image-wrapper img { min-width: 0; }
 
-ul.post-list .image-wrapper .links { border-radius: 3px; font-family: "Ringside Compressed A", "Ringside Compressed B"; opacity: 0; padding: 30% 0; position: absolute; text-align: center; text-transform: uppercase; top: 0; transition: opacity 0.25s ease; width: 100%; }
+ul.post-list li .image-wrapper .links { border-radius: 3px; font-family: "Ringside Compressed A", "Ringside Compressed B"; opacity: 0; padding: 30% 0; position: absolute; text-align: center; text-transform: uppercase; top: 0; transition: opacity 0.25s ease; width: 100%; }
 
-ul.post-list .image-wrapper .links:hover { background-color: #ffffff; opacity: 0.95; }
+ul.post-list li .image-wrapper .links a { color: #646162; margin: 5px; }
 
-ul.post-list .image-wrapper .links a { color: #646162; margin: 5px; }
+ul.post-list li .image-wrapper .links a:hover { border-bottom: 1px solid #646162; }
 
-ul.post-list .image-wrapper .links a:hover { border-bottom: 1px solid #646162; }
+ul.post-list li.oddities .image-wrapper { cursor: default; }
+
+ul.post-list li:not(.oddities) .links:hover { background-color: #ffffff; opacity: 0.95; }
 
 /** Posts */
 .post { border-top: 2px solid #DF7D1D; margin: 0 auto; max-width: 700px; padding: 0 35px; width: 66%; }
@@ -103,5 +105,47 @@ ul.post-list .image-wrapper .links a:hover { border-bottom: 1px solid #646162; }
 .post-content ul { color: #5E5E5E; margin-left: 2em; }
 
 .post-content p.date { font-family: "Chronicle Text G1 A", "Chronicle Text G1 B"; font-size: 15px; margin: 15px 0 20px 0; }
+
+@page { margin: 0; }
+
+.print-page { width: 8.5in; height: 11in; padding: 0.5in; }
+
+.print-page .site-title.name { margin-bottom: 30px; padding: 0; text-align: left; }
+
+.print-page .main-content { color: #212121; display: flex; gap: 80px; -webkit-print-color-adjust: exact; }
+
+.print-page .main-content .experience { width: 1010px; }
+
+.print-page .main-content .skills { color: #898885; -webkit-print-color-adjust: exact; }
+
+.print-page .main-content .section-title { color: #97958e; font-family: "Ringside Compressed A", "Ringside Compressed B"; font-size: 20px; font-weight: 700; line-height: 1.1; margin: 0 0 4px 0; -webkit-print-color-adjust: exact; }
+
+.print-page .main-content .company-name { color: #464542; font-family: "Ringside Regular A", "Ringside Regular B"; font-size: 21px; font-weight: 600; margin: 0; -webkit-print-color-adjust: exact; }
+
+.print-page .main-content .job-title { font-family: "Ringside Regular A", "Ringside Regular B"; font-size: 17px; margin: -6px 0 0 0; }
+
+.print-page .main-content .description { color: #767571; font-family: "Chronicle Text G1 A","Chronicle Text G1 B"; line-height: 1.3; margin: 0 0 20px 0; -webkit-print-color-adjust: exact; }
+
+.print-page .main-content .rail-wrap { display: flex; font-family: "Ringside Regular A", "Ringside Regular B"; flex-direction: column; justify-content: space-between; height: 10.9in; }
+
+.print-page .main-content .rail-wrap ul { font-size: 16px; list-style-type: none; }
+
+.print-page .main-content .rail-wrap ul li { line-height: 1.3; margin-bottom: 8px; }
+
+.print-page .main-content .rail-wrap ul li span { font-weight: 800; }
+
+.print-page .main-content .rail-wrap .contact-info { font-family: "Chronicle Text G1 A","Chronicle Text G1 B"; }
+
+.print-page .main-content .rail-wrap .contact-info p { margin: 0; }
+
+.print-page .main-content .rail-wrap .contact-info p a { border-top: 3px solid #dd7c1d; display: block; font-family: "Ringside Regular A", "Ringside Regular B"; padding: 6px 0; margin-top: 12px; margin-right: -0.5in; }
+
+.print-page .main-content .rail-wrap .contact-info .section-title { color: #dd7c1d; -webkit-print-color-adjust: exact; }
+
+.print-page .cover-letter .description { color: #3c3b39; -webkit-print-color-adjust: exact; }
+
+.print-page .cover-letter .description a { color: #3c7b99; -webkit-print-color-adjust: exact; }
+
+.print-page .cover-letter .rail-wrap { width: 424px; }
 
 /*# sourceMappingURL=main.css.map */

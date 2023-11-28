@@ -1,0 +1,120 @@
+
+//Print styles
+@page { margin: 0; }
+   .print-page {
+    width: 8.5in;
+    height: 11in;
+    padding: 0.5in;
+
+    .site-title.name {
+        margin-bottom: 30px;
+        padding: 0;
+        text-align: left;
+    }
+    .main-content {
+        color: #212121;
+        display: flex;
+        gap: 80px;
+         -webkit-print-color-adjust: exact;
+        .experience {
+            width: 1010px;
+        }
+
+        .skills {
+            color: #898885;
+             -webkit-print-color-adjust: exact;
+        }
+
+        .section-title {
+            color: #97958e;
+            font-family: "Ringside Compressed A", "Ringside Compressed B";
+            font-size: 20px;
+            font-weight: 700;
+            line-height: 1.1;
+            margin: 0 0 4px 0;
+             -webkit-print-color-adjust: exact;
+        }
+
+        .company-name {
+            color: #464542;
+            font-family: "Ringside Regular A", "Ringside Regular B";
+            font-size: 21px;
+            font-weight: 600;
+            margin: 0;
+             -webkit-print-color-adjust: exact;
+        }
+
+        .job-title {
+            font-family: "Ringside Regular A", "Ringside Regular B";
+            font-size: 17px;
+            margin: -6px 0 0 0;
+        }
+
+        .description {
+            color: #767571;
+            font-family: "Chronicle Text G1 A","Chronicle Text G1 B";
+            line-height: 1.3;
+            margin: 0 0 20px 0;
+             -webkit-print-color-adjust: exact;
+        }
+
+        .rail-wrap {
+            display: flex;
+
+            font-family: "Ringside Regular A", "Ringside Regular B";
+            flex-direction: column;
+            justify-content: space-between;
+            height: 10.9in;
+
+            ul {
+                font-size: 16px;
+                list-style-type: none;
+
+                li {
+                    line-height: 1.3;
+                    margin-bottom: 8px;
+                    span {
+                        font-weight: 800;
+                    }
+                }
+            }
+
+            .contact-info {
+                font-family: "Chronicle Text G1 A","Chronicle Text G1 B";
+                p {
+                    margin: 0;
+
+                    a {
+                        border-top: 3px solid #dd7c1d;
+                        display: block;
+                        font-family: "Ringside Regular A", "Ringside Regular B";
+                        padding: 6px 0;
+                        margin-top: 12px;
+                        margin-right: -0.5in;
+                    }
+                }
+                .section-title {
+                    color: #dd7c1d;
+                     -webkit-print-color-adjust: exact;
+                }
+            }
+        }
+
+    }
+
+    .cover-letter {
+        .description {
+            color: #3c3b39;
+             -webkit-print-color-adjust: exact;
+            a {
+                color: #3c7b99;
+                 -webkit-print-color-adjust: exact;
+            }
+        }
+
+        .rail-wrap {
+            width: 424px;
+        }
+    }
+
+}

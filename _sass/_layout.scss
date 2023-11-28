@@ -132,48 +132,54 @@ ul.post-list {
             margin: 15px 0 0 0;
             width: 100%;
         }
-    }
 
-    .image-wrapper {
-        cursor: pointer;
-        position: relative;
-    
-        img {
-            min-width: 0;
+        .image-wrapper {
+            cursor: pointer;
+            position: relative;
+        
+            img {
+                min-width: 0;
+            }
+
+            .links {
+                border-radius: 3px;
+                font-family: "Ringside Compressed A", "Ringside Compressed B"; 
+                opacity: 0;
+                padding: 30% 0;
+                position: absolute;
+                text-align: center;
+                text-transform: uppercase;
+                top: 0;
+                transition: opacity 0.25s ease;
+                width: 100%;
+                
+                
+
+                a {
+                    color: #646162;
+                    margin: 5px;
+
+                    &:hover {
+                        border-bottom: 1px solid #646162;
+                    }
+                }
+            }
+
         }
 
-        .links {
-            border-radius: 3px;
-            font-family: "Ringside Compressed A", "Ringside Compressed B"; 
-            opacity: 0;
-            padding: 30% 0;
-            position: absolute;
-            text-align: center;
-            text-transform: uppercase;
-            top: 0;
-            transition: opacity 0.25s ease;
-            width: 100%;
-            
-            &:hover {
+        &.oddities {
+            .image-wrapper {
+                cursor: default;
+            }
+        }
+
+        &:not(.oddities) {
+            .links:hover {
                 background-color: #ffffff;//#f8f7f6;
                 opacity: 0.95;
             }
-
-            a {
-                color: #646162;
-                margin: 5px;
-
-                &:hover {
-                    border-bottom: 1px solid #646162;
-                }
-            }
         }
-
     }
-
-
-
-
 }
 
 
@@ -267,4 +273,3 @@ ul.post-list {
     }
 
 }
-

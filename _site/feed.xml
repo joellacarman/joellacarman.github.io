@@ -4,10 +4,10 @@
     <title>JoElla Carman</title>
     <description>A place for charts and graphs.
 </description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 30 Aug 2023 09:16:51 -0400</pubDate>
-    <lastBuildDate>Wed, 30 Aug 2023 09:16:51 -0400</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 28 Nov 2023 14:08:04 -0500</pubDate>
+    <lastBuildDate>Tue, 28 Nov 2023 14:08:04 -0500</lastBuildDate>
     <generator>Jekyll v4.3.1</generator>
     
       <item>
@@ -15,8 +15,8 @@
         <description>&lt;p&gt;&lt;img src=&quot;/assets/newer/fdic-explainer.jpg&quot; alt=&quot;How the FDIC protects bank customers&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 23 Jun 2023 11:54:02 -0400</pubDate>
-        <link>/graphics/2023/06/23/trump-pardons.html</link>
-        <guid isPermaLink="true">/graphics/2023/06/23/trump-pardons.html</guid>
+        <link>http://localhost:4000/graphics/2023/06/23/trump-pardons.html</link>
+        <guid isPermaLink="true">http://localhost:4000/graphics/2023/06/23/trump-pardons.html</guid>
         
         
         <category>graphics</category>
@@ -28,8 +28,8 @@
         <description>&lt;p&gt;&lt;img src=&quot;/assets/newer/fdic-explainer.jpg&quot; alt=&quot;How the FDIC protects bank customers&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 22 Jun 2023 11:54:02 -0400</pubDate>
-        <link>/graphics/2023/06/22/mt-rainier-glaciers.html</link>
-        <guid isPermaLink="true">/graphics/2023/06/22/mt-rainier-glaciers.html</guid>
+        <link>http://localhost:4000/graphics/2023/06/22/mt-rainier-glaciers.html</link>
+        <guid isPermaLink="true">http://localhost:4000/graphics/2023/06/22/mt-rainier-glaciers.html</guid>
         
         
         <category>graphics</category>
@@ -41,8 +41,8 @@
         <description>&lt;p&gt;&lt;img src=&quot;/assets/newer/fdic-explainer.jpg&quot; alt=&quot;How the FDIC protects bank customers&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 08 Jun 2023 11:54:02 -0400</pubDate>
-        <link>/projects/2023/06/08/scotus-tracker.html</link>
-        <guid isPermaLink="true">/projects/2023/06/08/scotus-tracker.html</guid>
+        <link>http://localhost:4000/projects/2023/06/08/scotus-tracker.html</link>
+        <guid isPermaLink="true">http://localhost:4000/projects/2023/06/08/scotus-tracker.html</guid>
         
         
         <category>projects</category>
@@ -54,8 +54,8 @@
         <description>&lt;p&gt;&lt;img src=&quot;/assets/newer/fdic-explainer.jpg&quot; alt=&quot;How the FDIC protects bank customers&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 17 May 2023 11:54:02 -0400</pubDate>
-        <link>/projects/2023/05/17/ai-explainer.html</link>
-        <guid isPermaLink="true">/projects/2023/05/17/ai-explainer.html</guid>
+        <link>http://localhost:4000/projects/2023/05/17/ai-explainer.html</link>
+        <guid isPermaLink="true">http://localhost:4000/projects/2023/05/17/ai-explainer.html</guid>
         
         
         <category>projects</category>
@@ -67,8 +67,8 @@
         <description>
 </description>
         <pubDate>Fri, 14 Apr 2023 11:54:02 -0400</pubDate>
-        <link>/graphics/2023/04/14/dominion-docs.html</link>
-        <guid isPermaLink="true">/graphics/2023/04/14/dominion-docs.html</guid>
+        <link>http://localhost:4000/graphics/2023/04/14/dominion-docs.html</link>
+        <guid isPermaLink="true">http://localhost:4000/graphics/2023/04/14/dominion-docs.html</guid>
         
         
         <category>graphics</category>
@@ -80,8 +80,8 @@
         <description>&lt;p&gt;&lt;img src=&quot;/assets/newer/fdic-explainer.jpg&quot; alt=&quot;How the FDIC protects bank customers&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 06 Dec 2022 10:54:02 -0500</pubDate>
-        <link>/graphics/2022/12/06/fdic-svb-failure.html</link>
-        <guid isPermaLink="true">/graphics/2022/12/06/fdic-svb-failure.html</guid>
+        <link>http://localhost:4000/graphics/2022/12/06/fdic-svb-failure.html</link>
+        <guid isPermaLink="true">http://localhost:4000/graphics/2022/12/06/fdic-svb-failure.html</guid>
         
         
         <category>graphics</category>
@@ -93,8 +93,8 @@
         <description>&lt;p&gt;&lt;img src=&quot;/assets/newer/lg_fdic.png&quot; alt=&quot;How the FDIC protects bank customers&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 06 Dec 2022 10:54:02 -0500</pubDate>
-        <link>/graphics/2022/12/06/chinese-spy-balloon.html</link>
-        <guid isPermaLink="true">/graphics/2022/12/06/chinese-spy-balloon.html</guid>
+        <link>http://localhost:4000/graphics/2022/12/06/chinese-spy-balloon.html</link>
+        <guid isPermaLink="true">http://localhost:4000/graphics/2022/12/06/chinese-spy-balloon.html</guid>
         
         
         <category>graphics</category>
@@ -106,8 +106,8 @@
         <description>
 </description>
         <pubDate>Tue, 06 Dec 2022 10:54:02 -0500</pubDate>
-        <link>/graphics/2022/12/06/aluminum-smelting.html</link>
-        <guid isPermaLink="true">/graphics/2022/12/06/aluminum-smelting.html</guid>
+        <link>http://localhost:4000/graphics/2022/12/06/aluminum-smelting.html</link>
+        <guid isPermaLink="true">http://localhost:4000/graphics/2022/12/06/aluminum-smelting.html</guid>
         
         
         <category>graphics</category>
@@ -119,8 +119,8 @@
         <description>
 </description>
         <pubDate>Tue, 08 Nov 2022 10:54:02 -0500</pubDate>
-        <link>/graphics/2022/11/08/election-deniers.html</link>
-        <guid isPermaLink="true">/graphics/2022/11/08/election-deniers.html</guid>
+        <link>http://localhost:4000/graphics/2022/11/08/election-deniers.html</link>
+        <guid isPermaLink="true">http://localhost:4000/graphics/2022/11/08/election-deniers.html</guid>
         
         
         <category>graphics</category>
@@ -154,8 +154,8 @@ October 3, 2022
 
 </description>
         <pubDate>Mon, 03 Oct 2022 11:54:02 -0400</pubDate>
-        <link>/projects/2022/10/03/senate-game.html</link>
-        <guid isPermaLink="true">/projects/2022/10/03/senate-game.html</guid>
+        <link>http://localhost:4000/projects/2022/10/03/senate-game.html</link>
+        <guid isPermaLink="true">http://localhost:4000/projects/2022/10/03/senate-game.html</guid>
         
         
         <category>projects</category>
