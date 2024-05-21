@@ -6,13 +6,39 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 28 Nov 2023 14:08:04 -0500</pubDate>
-    <lastBuildDate>Tue, 28 Nov 2023 14:08:04 -0500</lastBuildDate>
+    <pubDate>Tue, 21 May 2024 09:41:50 -0400</pubDate>
+    <lastBuildDate>Tue, 21 May 2024 09:41:50 -0400</lastBuildDate>
     <generator>Jekyll v4.3.1</generator>
     
       <item>
+        <title>Candidates on the issues</title>
+        <description>
+</description>
+        <pubDate>Wed, 15 May 2024 11:54:02 -0400</pubDate>
+        <link>http://localhost:4000/projects/2024/05/15/issues-tracker.html</link>
+        <guid isPermaLink="true">http://localhost:4000/projects/2024/05/15/issues-tracker.html</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
+    
+      <item>
+        <title>Ukraine&apos;s missing children</title>
+        <description>
+</description>
+        <pubDate>Sat, 01 Jul 2023 11:54:02 -0400</pubDate>
+        <link>http://localhost:4000/projects/2023/07/01/ukraine-missing-children.html</link>
+        <guid isPermaLink="true">http://localhost:4000/projects/2023/07/01/ukraine-missing-children.html</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
+    
+      <item>
         <title>Who would pardon Trump?</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/newer/fdic-explainer.jpg&quot; alt=&quot;How the FDIC protects bank customers&quot; /&gt;&lt;/p&gt;
+        <description>
 </description>
         <pubDate>Fri, 23 Jun 2023 11:54:02 -0400</pubDate>
         <link>http://localhost:4000/graphics/2023/06/23/trump-pardons.html</link>
@@ -25,7 +51,7 @@
     
       <item>
         <title>Mt. Rainier&apos;s disappearing glaciers</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/newer/fdic-explainer.jpg&quot; alt=&quot;How the FDIC protects bank customers&quot; /&gt;&lt;/p&gt;
+        <description>
 </description>
         <pubDate>Thu, 22 Jun 2023 11:54:02 -0400</pubDate>
         <link>http://localhost:4000/graphics/2023/06/22/mt-rainier-glaciers.html</link>
@@ -38,7 +64,7 @@
     
       <item>
         <title>Tracking the Supreme Court</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/newer/fdic-explainer.jpg&quot; alt=&quot;How the FDIC protects bank customers&quot; /&gt;&lt;/p&gt;
+        <description>
 </description>
         <pubDate>Thu, 08 Jun 2023 11:54:02 -0400</pubDate>
         <link>http://localhost:4000/projects/2023/06/08/scotus-tracker.html</link>
@@ -51,7 +77,7 @@
     
       <item>
         <title>AI chatbot explainer</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/newer/fdic-explainer.jpg&quot; alt=&quot;How the FDIC protects bank customers&quot; /&gt;&lt;/p&gt;
+        <description>
 </description>
         <pubDate>Wed, 17 May 2023 11:54:02 -0400</pubDate>
         <link>http://localhost:4000/projects/2023/05/17/ai-explainer.html</link>
@@ -111,54 +137,6 @@
         
         
         <category>graphics</category>
-        
-      </item>
-    
-      <item>
-        <title>Election deniers</title>
-        <description>
-</description>
-        <pubDate>Tue, 08 Nov 2022 10:54:02 -0500</pubDate>
-        <link>http://localhost:4000/graphics/2022/11/08/election-deniers.html</link>
-        <guid isPermaLink="true">http://localhost:4000/graphics/2022/11/08/election-deniers.html</guid>
-        
-        
-        <category>graphics</category>
-        
-      </item>
-    
-      <item>
-        <title>Midterm Senate game</title>
-        <description>&lt;p class=&quot;date&quot;&gt;
-October 3, 2022
-&lt;/p&gt;
-
-&lt;p&gt;I designed this piece in response to a simple, three-part brief:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Convey to the reader which seats are up for grabs in the midterms&lt;/li&gt;
-  &lt;li&gt;Convey which way a seat currently leans&lt;/li&gt;
-  &lt;li&gt;Let the reader assign those seats to either party and see how the balance of power changes&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img class=&quot;med-img&quot; src=&quot;/assets/newer/senate-game.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I saw a way to elegantly knock out all three of these using a beeswarm chart. The ability to show clustered data made it a natural way to visualize political leanings, even the mix of categorical (Cook ratings) and continuous (win margins) we had here. Using it as interface seemed interesting and elegant.&lt;/p&gt;
-
-&lt;p&gt;Because it is a novel way to make selections, we tested the idea of a clickable beeswarm and were pleased to see we weren’t confusing people. For good measure, I added a little more shadow to the circles to help them feel button-y, especially on mobile.&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&quot;sm-img&quot; src=&quot;/assets/newer/ph_senate-game.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;In addition to designing the piece, I was part of the team that built it. I contributed quite a bit of JS behind the main visuals and worked on page styles. Many requirements evolved as our deadline got closer. Our team was able to respond without any major panics thanks to nicely structured code.&lt;/p&gt;
-
-&lt;p&gt;We also worked with accessibility experts to make the game playable for more users. We were able to test the site and implement feedback from real people about the assistive-device experience. All together, this took a considerable amount of development time, probably 1/4 overall, and was a great learning experience. I’ve been in thousands of conversations about accessibility but this was the first time I worked on a project that really implemented it. I’m thankful to have had the opportunity.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 03 Oct 2022 11:54:02 -0400</pubDate>
-        <link>http://localhost:4000/projects/2022/10/03/senate-game.html</link>
-        <guid isPermaLink="true">http://localhost:4000/projects/2022/10/03/senate-game.html</guid>
-        
-        
-        <category>projects</category>
         
       </item>
     

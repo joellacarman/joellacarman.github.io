@@ -11,4 +11,3 @@ tech: qgis, photoshop
 ---
 
 
-![How the FDIC protects bank customers](/assets/newer/fdic-explainer.jpg)

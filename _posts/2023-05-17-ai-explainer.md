@@ -10,5 +10,3 @@ storylink: https://www.nbcnews.com/data-graphics/chat-gpt-artificial-intelligenc
 tech: js
 ---
 
-
-![How the FDIC protects bank customers](/assets/newer/fdic-explainer.jpg)

@@ -11,4 +11,3 @@ tech: ai2html
 ---
 
 
-![How the FDIC protects bank customers](/assets/newer/fdic-explainer.jpg)
