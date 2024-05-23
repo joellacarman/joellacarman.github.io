@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 21 May 2024 09:41:50 -0400</pubDate>
-    <lastBuildDate>Tue, 21 May 2024 09:41:50 -0400</lastBuildDate>
+    <pubDate>Thu, 23 May 2024 14:12:21 -0400</pubDate>
+    <lastBuildDate>Thu, 23 May 2024 14:12:21 -0400</lastBuildDate>
     <generator>Jekyll v4.3.1</generator>
     
       <item>
@@ -24,8 +24,33 @@
       </item>
     
       <item>
-        <title>Ukraine&apos;s missing children</title>
+        <title>Is it AI talking?</title>
         <description>
+</description>
+        <pubDate>Thu, 07 Mar 2024 10:54:02 -0500</pubDate>
+        <link>http://localhost:4000/projects/2024/03/07/ai-audio-quiz.html</link>
+        <guid isPermaLink="true">http://localhost:4000/projects/2024/03/07/ai-audio-quiz.html</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
+    
+      <item>
+        <title>Ukraine&apos;s missing children</title>
+        <description>&lt;p class=&quot;date&quot;&gt;
+July 5, 2023
+&lt;/p&gt;
+
+&lt;p&gt;Designers often say the work is “solving problems”. My contributions to this piece would be well-described that way.&lt;/p&gt;
+
+&lt;p&gt;For this story about missing children, we wanted to use video posted to Telegram as visual evidence of where the children came from and who was moving them. But low-quality, handheld, shaky video was attention-grabbing in the wrong ways and competed too much with the article’s text.&lt;/p&gt;
+
+&lt;p&gt;Playing the video from start to finish in this case not only didn’t fit, it wasn’t necessary. There were just a handful of key moments we wanted to showcase, so we tried breaking those out as stills and fading one into the next on scroll, like a choppy animation. The team was very happy with the effect, it has the same documenting power as the original but keeps eyes focused on the evidence. I also liked how this technique allows so much control of what the reader sees. A wary glance can pass by too quickly to be noticed in video, but slow it down and take a look, the emotion is unmistakable.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.nbcnews.com/specials/ukraine-missing-children-taken-by-russia-kherson/index.html&quot;&gt;Read it here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/newer/lg_ukrainian-children.jpg&quot; alt=&quot;Where are Ukraine’s missing children?&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 01 Jul 2023 11:54:02 -0400</pubDate>
         <link>http://localhost:4000/projects/2023/07/01/ukraine-missing-children.html</link>
@@ -121,19 +146,6 @@
         <pubDate>Tue, 06 Dec 2022 10:54:02 -0500</pubDate>
         <link>http://localhost:4000/graphics/2022/12/06/chinese-spy-balloon.html</link>
         <guid isPermaLink="true">http://localhost:4000/graphics/2022/12/06/chinese-spy-balloon.html</guid>
-        
-        
-        <category>graphics</category>
-        
-      </item>
-    
-      <item>
-        <title>Aluminum smelting</title>
-        <description>
-</description>
-        <pubDate>Tue, 06 Dec 2022 10:54:02 -0500</pubDate>
-        <link>http://localhost:4000/graphics/2022/12/06/aluminum-smelting.html</link>
-        <guid isPermaLink="true">http://localhost:4000/graphics/2022/12/06/aluminum-smelting.html</guid>
         
         
         <category>graphics</category>

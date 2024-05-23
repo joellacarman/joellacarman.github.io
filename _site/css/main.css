@@ -120,13 +120,13 @@ ul.post-list li:not(.oddities) .links:hover { background-color: #ffffff; opacity
 
 .print-page .main-content .skills { color: #898885; -webkit-print-color-adjust: exact; }
 
-.print-page .main-content .section-title { color: #97958e; font-family: "Ringside Compressed A", "Ringside Compressed B"; font-size: 20px; font-weight: 700; line-height: 1.1; margin: 0 0 4px 0; -webkit-print-color-adjust: exact; }
+.print-page .main-content .section-title { color: #959492; font-family: "Ringside Compressed A", "Ringside Compressed B"; font-size: 20px; font-weight: 700; line-height: 1.1; margin: 0 0 4px 0; -webkit-print-color-adjust: exact; }
 
 .print-page .main-content .company-name { color: #464542; font-family: "Ringside Regular A", "Ringside Regular B"; font-size: 21px; font-weight: 600; margin: 0; -webkit-print-color-adjust: exact; }
 
 .print-page .main-content .job-title { font-family: "Ringside Regular A", "Ringside Regular B"; font-size: 17px; margin: -6px 0 0 0; }
 
-.print-page .main-content .description { color: #767571; font-family: "Chronicle Text G1 A","Chronicle Text G1 B"; line-height: 1.3; margin: 0 0 20px 0; -webkit-print-color-adjust: exact; }
+.print-page .main-content .description { color: #555553; font-family: "Chronicle Text G1 A","Chronicle Text G1 B"; line-height: 1.3; margin: 0 0 20px 0; -webkit-print-color-adjust: exact; }
 
 .print-page .main-content .description.intro { margin-bottom: 8px; }
 
@@ -136,7 +136,7 @@ ul.post-list li:not(.oddities) .links:hover { background-color: #ffffff; opacity
 
 .print-page .main-content .rail-wrap ul li { line-height: 1.3; margin-bottom: 8px; }
 
-.print-page .main-content .rail-wrap ul li span { font-weight: 800; }
+.print-page .main-content .rail-wrap ul li span { color: #8f8e89; font-weight: 800; }
 
 .print-page .main-content .rail-wrap .contact-info { font-family: "Chronicle Text G1 A","Chronicle Text G1 B"; }
 

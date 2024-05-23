@@ -21,8 +21,8 @@ The focus was on making each bit of voter logistics seamless and unambiguous. In
 
 The result is a simple page that thoughtfully provides critical information.
 
-The project was promoted widely on the site, on television, and even in outdoor advertising. Some of the promotion was in-house. 
+The project was promoted widely on the site, on television, and outdoor advertising. Some of the promotion was in-house. 
 
-I crafted this background on short notice for automated graphics my colleague put together with Puppeteer. The site design is fairly sparse. This background leverages the type and color of the original to create something new but related.
+I crafted this background on short notice for automated graphics my colleague put together with Puppeteer. The site design is fairly sparse. This background leverages the type and color of the original to create something new but related, inviting users to return to a site they trust.
 
 ![Twitter graphic showcasing background](/assets/newer/tw_en_pyv.jpg)
