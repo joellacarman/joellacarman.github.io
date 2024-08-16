@@ -6,9 +6,22 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 23 May 2024 14:12:21 -0400</pubDate>
-    <lastBuildDate>Thu, 23 May 2024 14:12:21 -0400</lastBuildDate>
+    <pubDate>Fri, 16 Aug 2024 09:21:20 -0400</pubDate>
+    <lastBuildDate>Fri, 16 Aug 2024 09:21:20 -0400</lastBuildDate>
     <generator>Jekyll v4.3.1</generator>
+    
+      <item>
+        <title>Small but mighty</title>
+        <description>
+</description>
+        <pubDate>Wed, 12 Jun 2024 11:54:02 -0400</pubDate>
+        <link>http://localhost:4000/graphics/2024/06/12/kei-trucks.html</link>
+        <guid isPermaLink="true">http://localhost:4000/graphics/2024/06/12/kei-trucks.html</guid>
+        
+        
+        <category>graphics</category>
+        
+      </item>
     
       <item>
         <title>Candidates on the issues</title>
@@ -133,19 +146,6 @@ July 5, 2023
         <pubDate>Tue, 06 Dec 2022 10:54:02 -0500</pubDate>
         <link>http://localhost:4000/graphics/2022/12/06/fdic-svb-failure.html</link>
         <guid isPermaLink="true">http://localhost:4000/graphics/2022/12/06/fdic-svb-failure.html</guid>
-        
-        
-        <category>graphics</category>
-        
-      </item>
-    
-      <item>
-        <title>The balloon was huge</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/newer/lg_fdic.png&quot; alt=&quot;How the FDIC protects bank customers&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 06 Dec 2022 10:54:02 -0500</pubDate>
-        <link>http://localhost:4000/graphics/2022/12/06/chinese-spy-balloon.html</link>
-        <guid isPermaLink="true">http://localhost:4000/graphics/2022/12/06/chinese-spy-balloon.html</guid>
         
         
         <category>graphics</category>
