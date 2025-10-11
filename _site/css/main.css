@@ -106,49 +106,71 @@ ul.post-list li:not(.oddities) .links:hover { background-color: #ffffff; opacity
 
 .post-content p.date { font-family: "Chronicle Text G1 A", "Chronicle Text G1 B"; font-size: 15px; margin: 15px 0 20px 0; }
 
+@media print { body { padding: 10px; } .site-title { padding-bottom: 14px; margin-bottom: 34px; } ul.post-list { gap: 20px; } ul.post-list li { flex-basis: 218px; } ul.post-list li p { color: #ada195; print-color-adjust: exact; } ul.post-list li h2.post-link { font-size: 16px !important; } #filters { display: none; } }
+
 @page { margin: 0; }
 
 .print-page { width: 8.5in; height: 11in; padding: 0.5in; }
 
 .print-page .site-title.name { margin-bottom: 30px; padding: 0; text-align: left; }
 
-.print-page .main-content { color: #212121; display: flex; gap: 80px; -webkit-print-color-adjust: exact; }
+.print-page a { text-decoration: underline; }
+
+.print-page a:visited { color: #555553; }
+
+.print-page a:hover { opacity: 0.7; text-decoration: underline; }
+
+.print-page .main-content { color: #212121; display: flex; gap: 80px; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
 
 .print-page .main-content .experience { width: 1010px; }
 
 .print-page .main-content .experience ul { padding: 0 16px; }
 
-.print-page .main-content .skills { color: #898885; -webkit-print-color-adjust: exact; }
+.print-page .main-content .experience ul li { font-size: 16px; }
 
-.print-page .main-content .section-title { color: #959492; font-family: "Ringside Compressed A", "Ringside Compressed B"; font-size: 20px; font-weight: 700; line-height: 1.1; margin: 0 0 4px 0; -webkit-print-color-adjust: exact; }
+.print-page .main-content .skills { color: #777673; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
 
-.print-page .main-content .company-name { color: #464542; font-family: "Ringside Regular A", "Ringside Regular B"; font-size: 21px; font-weight: 600; margin: 0; -webkit-print-color-adjust: exact; }
+.print-page .main-content .section-title { color: #000000; font-family: "Ringside Regular A", "Ringside Regular B"; font-size: 15px; font-weight: 100; line-height: 1.1; letter-spacing: 1px; margin: 0 0 10px 0; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
 
-.print-page .main-content .job-title { font-family: "Ringside Regular A", "Ringside Regular B"; font-size: 17px; margin: -6px 0 0 0; }
+.print-page .main-content .company-name { color: #464542; font-family: "Ringside Regular A", "Ringside Regular B"; font-size: 17px; font-weight: 600; margin: 0; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
 
-.print-page .main-content .description { color: #555553; font-family: "Chronicle Text G1 A","Chronicle Text G1 B"; line-height: 1.3; margin: 0 0 20px 0; -webkit-print-color-adjust: exact; }
+.print-page .main-content .company-name.lg { font-size: 19px; }
+
+.print-page .main-content .job-title { font-family: "Ringside Regular A", "Ringside Regular B"; font-size: 15px; margin: -4px 0 4px 0; }
+
+.print-page .main-content .job-title.lg { font-size: 17px; }
+
+.print-page .main-content .description { color: #555553; font-family: "Chronicle Text G1 A","Chronicle Text G1 B"; line-height: 1.3; margin: 0 0 12px 0; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+
+.print-page .main-content .description.lg { margin: 0 0 28px 0; }
+
+.print-page .main-content .description.sm { color: #777673; font-size: 16px; }
 
 .print-page .main-content .description.intro { margin-bottom: 8px; }
 
+.print-page .main-content .smaller { opacity: 0.9; }
+
 .print-page .main-content .rail-wrap { display: flex; font-family: "Ringside Regular A", "Ringside Regular B"; flex-direction: column; justify-content: space-between; height: 10.9in; }
 
-.print-page .main-content .rail-wrap ul { font-size: 16px; list-style-type: none; }
+.print-page .main-content .rail-wrap ul { font-size: 15px; list-style-type: none; }
 
 .print-page .main-content .rail-wrap ul li { line-height: 1.3; margin-bottom: 8px; }
 
 .print-page .main-content .rail-wrap ul li span { color: #8f8e89; font-weight: 800; }
 
+.print-page .main-content .rail-wrap ul li.space { padding-bottom: 12px; }
+
 .print-page .main-content .rail-wrap .contact-info { font-family: "Chronicle Text G1 A","Chronicle Text G1 B"; }
 
 .print-page .main-content .rail-wrap .contact-info p { margin: 0; }
 
-.print-page .main-content .rail-wrap .contact-info p a { border-top: 3px solid #dd7c1d; display: block; font-family: "Ringside Regular A", "Ringside Regular B"; padding: 6px 0; margin-top: 12px; margin-right: -0.5in; }
+.print-page .main-content .rail-wrap .contact-info p a { border-top: 3px solid #dd7c1d; display: block; font-family: "Ringside Regular A", "Ringside Regular B"; font-size: 16px; padding: 6px 0; margin-top: 12px; margin-right: -0.5in; }
 
-.print-page .main-content .rail-wrap .contact-info .section-title { color: #dd7c1d; -webkit-print-color-adjust: exact; }
+.print-page .main-content .rail-wrap .contact-info .section-title { color: #dd7c1d; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
 
-.print-page .cover-letter .description { color: #3c3b39; -webkit-print-color-adjust: exact; }
+.print-page .cover-letter .description { color: #3c3b39; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
 
-.print-page .cover-letter .description a { color: #3c7b99; -webkit-print-color-adjust: exact; }
+.print-page .cover-letter .description a { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
 
 .print-page .cover-letter .rail-wrap { width: 424px; }
 

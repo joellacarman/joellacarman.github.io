@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Maternal poverty in trigger law states"
+title:  "Maternal poverty & trigger laws"
 date:   2022-07-01 15:54:02
 image: /assets/newer/sm_maternal-poverty.jpg
 involvement: design & development

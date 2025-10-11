@@ -273,3 +273,38 @@ ul.post-list {
     }
 
 }
+
+@media print {
+
+    body {
+        padding: 10px;
+    }
+
+    .site-title {
+        // border-bottom: 0.5px solid $my-gold;
+        padding-bottom: 14px;
+        margin-bottom: 34px;
+
+    }
+
+    ul.post-list {
+        gap: 20px;
+    }
+
+    ul.post-list li {
+       flex-basis: 218px;
+
+       p {
+        color: #ada195;
+        print-color-adjust: exact;
+       }
+    }
+
+    ul.post-list li h2.post-link {
+        font-size: 16px !important;
+    }
+
+    #filters {
+        display: none;
+    }
+}
