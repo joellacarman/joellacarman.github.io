@@ -70,7 +70,7 @@ a.site-title {
     button {
         all: unset;
         font-family: "Ringside Compressed A", "Ringside Compressed B";
-        font-size: 22px;
+        font-size: 24px;
         text-transform: uppercase;
         color: $label-color;
         &:hover {
@@ -78,7 +78,7 @@ a.site-title {
         }
 
         &.active {
-            color: #ffffff;
+            // color: #ffffff;
             font-weight: 800;
         }
 
@@ -90,7 +90,7 @@ a.site-title {
         margin: 0 auto;
         max-width: 300px;
         button {
-            font-size: 16px;
+            font-size: 20px;
             margin: 0 15px 10px 0;
         }
     }
