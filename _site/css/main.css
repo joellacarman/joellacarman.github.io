@@ -26,7 +26,7 @@ a:visited { color: #111111; }
 a:hover { opacity: 0.8; }
 
 /** Site header */
-body { background-color: #c5bbb5; border-top: 2px solid #484442; }
+body { background-color: #d0c8c3; border-top: 2px solid #484442; }
 
 .site-header { padding: 0 15px; }
 
@@ -60,7 +60,11 @@ ul.post-list li h2.post-link { color: #484442; display: block; font-family: "Chr
 
 @media (max-width: 759px) { ul.post-list li h2.post-link { font-size: 18px; } }
 
-ul.post-list li .notes { display: flex; justify-content: space-between; color: #484442; font-size: 13px; margin: 8px 0 0 0; width: 100%; }
+ul.post-list li .notes { display: flex; justify-content: space-between; color: #585250; font-family: "Ringside Compressed A", "Ringside Compressed B"; font-size: 16px; margin: 8px 0 0 0; width: 100%; }
+
+ul.post-list li .notes a { color: #585250; }
+
+ul.post-list li .notes a:hover { text-transform: underline; }
 
 ul.post-list li .image-wrapper { background-color: #ffffff; cursor: pointer; position: relative; }
 
@@ -115,11 +119,11 @@ ul.post-list li:not(.oddities) .image-wrapper:hover .links { opacity: 0.95; }
 
 .post-content p.date { color: #484442; font-family: "Ringside Compressed A", "Ringside Compressed B"; font-size: 13px; letter-spacing: 0.8px; margin: 10px 0 30px 0; text-transform: uppercase; }
 
-@media print { body { padding: 10px; } .site-title { padding-bottom: 14px; margin-bottom: 34px; } ul.post-list { gap: 20px; } ul.post-list li { flex-basis: 218px; } ul.post-list li p { color: #ada195; print-color-adjust: exact; } ul.post-list li h2.post-link { font-size: 16px !important; } #filters { display: none; } }
+@media print { body { background-color: #ffffff; padding: 10px; } .site-title { padding-bottom: 14px; margin-bottom: 34px; } ul.post-list { gap: 20px; } ul.post-list li { flex-basis: 218px; } ul.post-list li p { color: #ada195; print-color-adjust: exact; } ul.post-list li h2.post-link { font-size: 16px !important; } #filters { display: none; } }
 
 @page { margin: 0; }
 
-.print-page { width: 8.5in; height: 11in; padding: 0.5in; }
+.print-page { background-color: #ffffff; border-top: none; width: 8.5in; height: 11in; padding: 0.5in; }
 
 .print-page .site-title.name { margin-bottom: 30px; padding: 0; text-align: left; }
 

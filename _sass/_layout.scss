@@ -16,6 +16,7 @@
 body {
     background-color: $hoefler-beige;
     border-top: 2px solid $off-black;
+
 }
 
 .site-header {
@@ -135,10 +136,19 @@ ul.post-list {
             display: flex;
             justify-content: space-between;
             // border-top: 1px solid #ada195;
-            color: $label-color;
-            font-size: 13px;
+            color: #585250;
+            font-family: "Ringside Compressed A", "Ringside Compressed B";
+            font-size: 16px;
             margin: 8px 0 0 0;
             width: 100%;
+
+            a {
+                color: #585250;
+
+                &:hover {
+                    text-transform: underline;
+                }
+            }
         }
 
         .image-wrapper {
@@ -309,6 +319,7 @@ ul.post-list {
 @media print {
 
     body {
+        background-color: #ffffff;
         padding: 10px;
     }
 
