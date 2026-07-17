@@ -13,18 +13,24 @@
 //   }
 // }
 
+body {
+    background-color: $hoefler-beige;
+    border-top: 2px solid $off-black;
+}
+
 .site-header {
     padding: 0 15px;
 }
 
-.site-title {
-    color: $text-color;
+a.site-title {
+    color: $off-black;
     font-family: "Chronicle Display A", "Chronicle Display B";
-    font-size: 48px;
+    // font-size: 130px;
+    font-size: clamp(60px, calc(-0.3125rem + 11.25vw), 100px);
     display: inline-block;
     margin: 0 auto;
     line-height: 0.9;
-    padding: 30px 0;
+    padding: 80px 0 20px 0;
     text-align: center;
     text-decoration: none;
     font-style: normal;
@@ -32,7 +38,7 @@
     width: 100%;
 
     @media (max-width: 759px){
-        font-size: 40px;
+        padding: 60px 0 0px 0;
     }
 }
 
@@ -51,28 +57,28 @@
  */
 
 #filters {
-    border-top: 2px solid $my-gold;
+    // border-top: 2px solid $my-gold;
     cursor: pointer;
     display: flex;
     flex-wrap: wrap;
     gap: 18px;
     justify-content: center;
-    padding: 30px 0 40px 0;
+    line-height: 0.8;
+    padding: 30px 0 100px 0;
 
     button {
         all: unset;
-        color: #535150;
         font-family: "Ringside Compressed A", "Ringside Compressed B";
         font-size: 22px;
-        opacity: 0.6    ;
         text-transform: uppercase;
-
+        color: $label-color;
         &:hover {
-            opacity: 1;
+            opacity: 0.7;
         }
 
         &.active {
-            opacity: 1;
+            color: #ffffff;
+            font-weight: 800;
         }
 
     }
@@ -99,19 +105,19 @@ ul.post-list {
     flex-wrap: wrap;
     list-style: none;
     justify-content: center;
-    gap: 80px;
+    gap: 50px;
 
         @media (max-width: 1130px){
         gap: 50px;
     }
 
     li {
-        flex-basis: 325px;
+        flex-basis: 345px;
         padding: 10px;
 
 
         h2.post-link {
-            color: #535150;
+            color: $label-color;
             display: block;
             font-family: "Chronicle Display A", "Chronicle Display B";
             font-style: normal;
@@ -125,19 +131,24 @@ ul.post-list {
             }
         }
 
-        p {
-            border-top: 1px solid #ada195;
-            color: #ada195;
+        .notes {
+            display: flex;
+            justify-content: space-between;
+            // border-top: 1px solid #ada195;
+            color: $label-color;
             font-size: 13px;
-            margin: 15px 0 0 0;
+            margin: 8px 0 0 0;
             width: 100%;
         }
 
         .image-wrapper {
+            background-color: #ffffff;
             cursor: pointer;
             position: relative;
         
             img {
+                box-shadow: rgba(99, 99, 99, 0.16) 0px 2px 8px 0px;
+                border-radius: 3px;
                 min-width: 0;
             }
 
@@ -145,7 +156,7 @@ ul.post-list {
                 border-radius: 3px;
                 font-family: "Ringside Compressed A", "Ringside Compressed B"; 
                 opacity: 0;
-                padding: 30% 0;
+                padding: 24% 0;
                 position: absolute;
                 text-align: center;
                 text-transform: uppercase;
@@ -174,9 +185,17 @@ ul.post-list {
         }
 
         &:not(.oddities) {
-            .links:hover {
+            .image-wrapper:hover {
                 background-color: #ffffff;//#f8f7f6;
-                opacity: 0.95;
+
+                img {
+                    opacity: 0.05;
+                }
+
+                .links {
+                    opacity: 0.95;    
+                }
+                
             }
         }
     }
@@ -190,7 +209,6 @@ ul.post-list {
  */
 
 .post {
-    border-top: 2px solid $my-gold;
   margin: 0 auto;
   max-width: 700px;
   padding: 0 35px;
@@ -202,8 +220,16 @@ ul.post-list {
     }
 }
 
+.home-link {
+    display: inline-block;
+    font-family: "Ringside Compressed A", "Ringside Compressed B";
+    padding-bottom: 4px;
+    border-bottom: 2px solid #ffffff;
+    margin-bottom: 100px;
+}
+
 .post-title {
-    font-size: 33px;
+    font-size: 38px;
     font-family: "Chronicle Display A", "Chronicle Display B";
     font-weight: 300;
     line-height: 1.2;
@@ -213,9 +239,10 @@ ul.post-list {
 .post-header {
   margin-top: 55px;
     p.involvement {
-      font-size: 16px;
-      color: #B2B2B2;
-      margin-bottom: 0 !important;
+      font-size: 18px;
+      // color: #B2B2B2;
+      color: $label-color;
+      margin-bottom: -2px !important;
     }
 }
 
@@ -259,6 +286,8 @@ ul.post-list {
     p {
         color: #5E5E5E;
         font-weight: 400;
+        line-height: 1.4;
+        margin-bottom: 20px;
     }
 
     ul {
@@ -267,9 +296,12 @@ ul.post-list {
     }
 
     p.date {
-      font-family: "Chronicle Text G1 A", "Chronicle Text G1 B";
-      font-size: 15px;
-      margin: 15px 0 20px 0;
+      color: $label-color;
+      font-family: "Ringside Compressed A", "Ringside Compressed B";
+      font-size: 13px;
+      letter-spacing: 0.8px;
+      margin: 10px 0 30px 0;
+      text-transform: uppercase;
     }
 
 }
