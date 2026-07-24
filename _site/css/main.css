@@ -30,7 +30,7 @@ body { background-color: #f5f3f2; border-top: 2px solid #484442; }
 
 .site-header { padding: 0 15px; }
 
-a.site-title { color: #484442; font-family: "Chronicle Display A", "Chronicle Display B"; font-size: clamp(60px, calc(-0.3125rem + 11.25vw), 100px); display: inline-block; margin: 0 auto; line-height: 0.9; padding: 80px 0 20px 0; text-align: center; text-decoration: none; font-style: normal; font-weight: 300; width: 100%; }
+a.site-title { color: #484442; font-family: "Chronicle Display A", "Chronicle Display B"; font-size: clamp(60px, calc(-0.3125rem + 11.25vw), 95px); display: inline-block; margin: 0 auto; line-height: 0.9; padding: 100px 0 0px 0; text-align: center; text-decoration: none; font-style: normal; font-weight: 300; width: 100%; }
 
 @media (max-width: 759px) { a.site-title { padding: 60px 0 0px 0; } }
 
@@ -39,15 +39,15 @@ a.site-title { color: #484442; font-family: "Chronicle Display A", "Chronicle Di
 .wrapper { margin: 0 auto; max-width: 1195px; }
 
 /** Nav */
-#filters { cursor: pointer; display: flex; flex-wrap: wrap; gap: 18px; justify-content: center; line-height: 0.8; padding: 30px 0 100px 0; }
+#filters { cursor: pointer; display: flex; flex-wrap: wrap; gap: 18px; justify-content: center; line-height: 0.8; opacity: 0.8; padding: 30px 0 100px 0; }
 
-#filters button { all: unset; font-family: "Ringside Compressed A", "Ringside Compressed B"; font-size: 24px; text-transform: uppercase; color: #484442; }
+#filters button { all: unset; font-family: "Ringside Compressed A", "Ringside Compressed B"; font-size: 20px; text-transform: uppercase; color: #484442; }
 
 #filters button:hover { opacity: 0.7; }
 
 #filters button.active { font-weight: 800; }
 
-@media (max-width: 759px) { #filters { gap: 0; padding: 30px 0; margin: 0 auto; max-width: 300px; } #filters button { font-size: 20px; margin: 0 15px 10px 0; } }
+@media (max-width: 759px) { #filters { gap: 10px; padding: 10px 0 60px 0; margin: 0 auto; max-width: 270px; line-height: 1; } #filters button { font-size: 16px; } }
 
 /** Page content */
 ul.post-list { display: flex; flex-wrap: wrap; list-style: none; justify-content: center; gap: 50px; }
@@ -56,11 +56,11 @@ ul.post-list { display: flex; flex-wrap: wrap; list-style: none; justify-content
 
 ul.post-list li { flex-basis: 345px; padding: 10px; }
 
-ul.post-list li h2.post-link { color: #484442; display: block; font-family: "Chronicle Display A", "Chronicle Display B"; font-style: normal; font-weight: 300; font-size: 21px; line-height: 1.1; margin-bottom: 15px; }
+ul.post-list li h2.post-link { color: #484442; display: block; font-family: "Chronicle Display A", "Chronicle Display B"; font-style: normal; font-weight: 300; font-size: 24px; line-height: 1.1; margin-bottom: 10px; }
 
-@media (max-width: 759px) { ul.post-list li h2.post-link { font-size: 18px; } }
+@media (max-width: 759px) { ul.post-list li h2.post-link { font-size: 21px; } }
 
-ul.post-list li .notes { display: flex; justify-content: space-between; color: #585250; font-family: "Ringside Compressed A", "Ringside Compressed B"; font-size: 16px; margin: 8px 0 0 0; width: 100%; }
+ul.post-list li .notes { display: flex; justify-content: space-between; color: #585250; font-family: "Ringside Compressed A", "Ringside Compressed B"; font-size: 16px; margin: 2px 0 0 0; width: 100%; }
 
 ul.post-list li .notes a { color: #585250; }
 
