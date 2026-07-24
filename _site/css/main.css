@@ -91,11 +91,11 @@ ul.post-list li:not(.oddities) .image-wrapper:hover .links { opacity: 0.95; }
 
 .home-link { display: inline-block; font-family: "Ringside Compressed A", "Ringside Compressed B"; padding-bottom: 4px; border-bottom: 2px solid #ffffff; margin-bottom: 100px; }
 
-.post-title { font-size: 38px; font-family: "Chronicle Display A", "Chronicle Display B"; font-weight: 300; line-height: 1.2; margin-bottom: 5px; }
+.post-title { font-size: 38px; font-family: "Chronicle Display A", "Chronicle Display B"; font-weight: 300; line-height: 1; margin-bottom: 5px; }
 
 .post-header { margin-top: 55px; }
 
-.post-header p.involvement { font-size: 18px; color: #484442; margin-bottom: -2px !important; }
+.post-header p.involvement { font-size: 18px; color: #484442; margin-bottom: 2px; }
 
 .post-content { margin-bottom: 200px; }
 

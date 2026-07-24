@@ -244,7 +244,7 @@ ul.post-list {
     font-size: 38px;
     font-family: "Chronicle Display A", "Chronicle Display B";
     font-weight: 300;
-    line-height: 1.2;
+    line-height: 1;
     margin-bottom: 5px;
 }
 
@@ -254,7 +254,7 @@ ul.post-list {
       font-size: 18px;
       // color: #B2B2B2;
       color: $label-color;
-      margin-bottom: -2px !important;
+      margin-bottom: 2px;
     }
 }
 
